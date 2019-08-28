@@ -1,0 +1,50 @@
+;S
+;S
+;S Mail Processing
+;S
+;S  CM    Continuous Mail.    Accepts mail 24 hours a day.
+;S  MO    Mail Only.          Mail calls only.
+;S  LO    Listed Only.        Accepts mail from systems in the nodelist only.
+;S  QWK   QWK-Mail.           Accepts QWK packets only.
+;S
+;S  IP flag   Explanation:port
+;S  -------   ----------------
+;S   IBN       binkp
+;S   ITN       telnet
+;S   IFT       ftp 
+;S
+;S BBS SOFTWARE FLAGS:
+;S    Flag  Description
+;S    ----  -----------------------------
+;S    UBB   BBBS
+;S    UCN   Cnet Pro (Amiga)
+;S    UCU   Custom Made
+;S    UDD   DayDream BBS 
+;S    UEL   EleBBS
+;S    UEG   Enigma BBS 
+;S    UEZ   Ezycom BBS 
+;S    UGT   GT Power
+;S    UMB   MBSE
+;S    UMG   Magicka BBS 
+;S    UMX   Maximus CBCS
+;S    UMY   Mystic BBS 
+;S    UPB   ProBoard
+;S    UPW   PowerBBS
+;S    URA   RemoteAccess BBS 
+;S    URG   Renegade BBS 
+;S    USA   Searchlight BBS 
+;S    USC   Synchronet
+;S    USL   Sauron Linux
+;S    UTA   T.A.G. BBS 
+;S    UTG   Telegard BBS 
+;S    UVA   Virtual Advanced BBS 
+;S    UWC   WildCat!/WINServer
+;S    UWW   WWIV
+;S    UXE   x/84
+;S    UZE   Zeus
+;S
+;S
+;S ZeroTier node flags
+;S -------------------
+;S    ZT:<id> where <id> is the network ID for each node when you
+;S            run 'zerotier-cli status'
