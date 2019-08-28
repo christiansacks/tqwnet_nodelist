@@ -18,6 +18,7 @@ Host,1,tqwNet_R1_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk.
 Hub,100,tqwNet_UK_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk.zt.erb.pw,IBN:24556,U,MY
 ,101,The_Quantum_Wormhole,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN,INA:bbs.erb.pw,IBN,U,MY,ZT:886642e222
 ,102,Kuehlbox,Frankfurt_DE,Philipp_Giebel,Unpublished,9600,CM,ITN,INA:kuehlbox.wtf,IBN,U,MY
+,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG
 Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
 Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
 ,101,Chinwag,Parkdale_VIC_AU,Deon_George,Unpublished,9600,CM,ITN:10023,INA:chinwag.leenooks.net,IBN:24554,U,MY
