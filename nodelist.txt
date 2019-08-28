@@ -4,9 +4,9 @@ update ./update
 ;make Zone 1337
 make composite 
 outfile tqwnet.
-submit 1337:1/101
-netaddress 1337:1/101
-messages ./netmail
+;submit 1337:1/101
+;netaddress 1337:1/101
+;messages ./netmail
 outpath ./outfile
 alphaphone 1
 
