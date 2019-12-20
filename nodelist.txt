@@ -18,6 +18,7 @@ Host,1,tqwNet_R1_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk.
 Hub,100,tqwNet_UK_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk.zt.erb.pw,IBN:24556,U,MY
 ,101,The_Quantum_Wormhole,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN,INA:bbs.erb.pw,IBN,U,MY,ZT:886642e222
 ,102,Kuehlbox,Frankfurt_DE,Philipp_Giebel,Unpublished,9600,CM,ITN,INA:kuehlbox.wtf,IBN,U,MY
+,103,HB3NOS,Ouwerkerk_NL,Henk_Blanken,Unpublished,9600,CM,ITN,INA:62.238.86.72,IBN,U,MY
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG
 Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
 Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
@@ -41,3 +42,7 @@ Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca
 ,113,Raiders_Inc_BBS,Wichita_KS_US,Jon_Justvig,Unpublished,9600,CM,ITN,INA:vintagebbsing.com,IBN:24554,U,MY
 ,114,Central_HeadQuarters_BBS,Redondo_Beach_CA_US,Matthew_Anderson,Unpublished,9600,CM,ITN:2023,INA:chq.ddns.net,IBN:24554,U,MY
 ,115,Freeside_BBS,Cincinnati_OH_US,Marty_Taylor,Unpublished,9600,CM,ITN,INA:freeside.bbs.io,IBN:24554,U,MY
+,116,V'Ger_BBS,Los_Angeles_CA_US,Bradley_Thornton,Unpublished,9600,CM,ITN,INA:vger.cloud,IBN:24554,U,MY
+Pvt,117,Insane_Asylum,Racine_WI_US,Ktulu,Unpublished,9600,CM,ITN,INA,IBN,U,MY
+,118,Stellar_Darkness,Toronto_ON_CA,Mike_Da_Costa,Unpublished,9600,CM,ITN:2023,INA:stellardarkness.com,IBN:24554,U,MY
+,119,Deadbeatz_BBS,Albuquerque_NM_US,Timothy_Blada,Unpublished,9600,CM,ITN,INA:deadbeatz.org,IBN,U,MY
