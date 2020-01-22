@@ -1661,3 +1661,33 @@ d 29-Dec-2019 19:12:23 makenl[10442] myfnmerge: drive='' dir='/root/git/tqwnet_n
 d 29-Dec-2019 19:12:23 makenl[10442] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
 + 29-Dec-2019 19:12:23 makenl[10442] CRC = 25614
 + 29-Dec-2019 19:12:23 makenl[10442] MakeNL finished (rc=0)
+
+- 22-Jan-2020 08:05:59 makenl[29014] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 22-Jan-2020 08:05:59 makenl[29014] MakeNL started
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 22-Jan-2020 08:05:59 makenl[29014] os_fullpath(): dir='', name='', ext=''
+d 22-Jan-2020 08:05:59 makenl[29014] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 22-Jan-2020 08:05:59 makenl[29014] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='' ext=''
+d 22-Jan-2020 08:05:59 makenl[29014] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./update'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './update'
+d 22-Jan-2020 08:05:59 makenl[29014] os_fullpath(): dir='.', name='update', ext=''
+d 22-Jan-2020 08:05:59 makenl[29014] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 22-Jan-2020 08:05:59 makenl[29014] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='update' ext=''
+d 22-Jan-2020 08:05:59 makenl[29014] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/update'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/update'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): stat('/home/christian/git/tqwnet_nodelist/update') rc=-1!
+? 22-Jan-2020 08:05:59 makenl[29014] update ./update -- Invalid Path -- './update'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 22-Jan-2020 08:05:59 makenl[29014] os_fullpath(): dir='.', name='outfile', ext=''
+d 22-Jan-2020 08:05:59 makenl[29014] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 22-Jan-2020 08:05:59 makenl[29014] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='outfile' ext=''
+d 22-Jan-2020 08:05:59 makenl[29014] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/outfile'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/outfile'
+d 22-Jan-2020 08:05:59 makenl[29014] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+? 22-Jan-2020 08:05:59 makenl[29014] Error(s) in configuration file
+? 22-Jan-2020 08:05:59 makenl[29014] MakeNL finished (rc=255)
