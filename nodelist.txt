@@ -1,6 +1,6 @@
 logfile tqwnet.log
 master .
-update ./update
+;update ./update
 ;make Zone 1337
 make composite 
 outfile tqwnet.

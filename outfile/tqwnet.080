@@ -1,5 +1,5 @@
-;A  Nodelist for Friday, January 3, 2020 -- Day number 003 : 25614
-;A  Copyright 2018-2019, tqwNet, All rights reserved
+;A  Nodelist for Friday, March 20, 2020 -- Day number 080 : 62619
+;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
 ;S 08/26/2018 All nodes are required to have Cram-MD5 ON! Nodes before this date can keep current settings.
@@ -36,6 +36,8 @@
 ;S 11/15/2019 We now have our 24th node, Henk Blanken from Ouwerkerk, NL
 ;S 12/20/2019 We now have our 25th node, Timothy Blada from Albuquerque, NM, US
 ;S 12/29/2019 We now have our 26th node, Will Milberger from Kurten, TX, US
+;S 03/15/2020 Starting to add ZeroTier node ID's to the nodelist
+;S 03/15/2020 Added Castle Rock's ZeroTier node ID 378a36b4b6
 ;S
 ;S Notice:
 ;S
@@ -72,7 +74,7 @@ Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca
 ,108,LostCause_Halfway_House_BBS,Alden_NY_US,Ernest_J_Gainey_III,Unpublished,9600,CM,ITN,INA:bbs.lostcause.house,IBN,U,MY
 ,109,The_Fishingnet_BBS,Toronto_ON_CA,Matthew_Smith,Unpublished,9600,CM,ITN:7777,INA:fishingnet.phatstar.org,IBN:24554,U,MY
 ,110,t3llnet,Somewhere_ON_CA,Rex_Gibson,Unpublished,9600,CM,ITN,INA:t311net.ddns.net,IBN:24554,U,MY
-,111,Castle_Rock_BBS,Rio_Rancho_NM_US,Dan_Richter,Unpublished,9600,CM,ITN,INA:bbs.castlerockbbs.com,IBN:24554,U,MY
+,111,Castle_Rock_BBS,Rio_Rancho_NM_US,Dan_Richter,Unpublished,9600,CM,ITN,INA:bbs.castlerockbbs.com,IBN:24554,U,MY,ZT:378a36b4b6
 ,112,Mystic_Island_BBS,Fountain_Valley_CA_US,Mickey_Frklic,Unpublished,9600,CM,ITN,INA:mysticisland.strangled.net,IBN:24554,U,MY
 ,113,Raiders_Inc_BBS,Wichita_KS_US,Jon_Justvig,Unpublished,9600,CM,ITN,INA:vintagebbsing.com,IBN:24554,U,MY
 ,114,Central_HeadQuarters_BBS,Redondo_Beach_CA_US,Matthew_Anderson,Unpublished,9600,CM,ITN:2023,INA:chq.ddns.net,IBN:24554,U,MY
