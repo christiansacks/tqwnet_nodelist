@@ -35,6 +35,7 @@
 ;S 12/29/2019 We now have our 26th node, Will Milberger from Kurten, TX, US
 ;S 03/15/2020 Starting to add ZeroTier node ID's to the nodelist
 ;S 03/15/2020 Added Castle Rock's ZeroTier node ID 378a36b4b6
+;S 03/15/2020 Added Hub AU and Chinwag's ZeroTier node ID eef014f861
 ;S
 ;S Notice:
 ;S
