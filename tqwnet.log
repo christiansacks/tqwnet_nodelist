@@ -1960,3 +1960,212 @@ d 15-Mar-2020 22:45:42 makenl[5631] myfnmerge: drive='' dir='/home/christian/git
 d 15-Mar-2020 22:45:42 makenl[5631] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
 + 15-Mar-2020 22:45:42 makenl[5631] CRC = 62619
 + 15-Mar-2020 22:45:42 makenl[5631] MakeNL finished (rc=0)
+
+- 15-Mar-2020 23:14:17 makenl[9026] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 15-Mar-2020 23:14:17 makenl[9026] MakeNL started
+d 15-Mar-2020 23:14:17 makenl[9026] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 15-Mar-2020 23:14:17 makenl[9026] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 15-Mar-2020 23:14:17 makenl[9026] os_fullpath(): dir='', name='', ext=''
+d 15-Mar-2020 23:14:17 makenl[9026] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='' ext=''
+d 15-Mar-2020 23:14:17 makenl[9026] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/'
+d 15-Mar-2020 23:14:17 makenl[9026] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/'
+d 15-Mar-2020 23:14:17 makenl[9026] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+d 15-Mar-2020 23:14:17 makenl[9026] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 15-Mar-2020 23:14:17 makenl[9026] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 15-Mar-2020 23:14:17 makenl[9026] os_fullpath(): dir='.', name='outfile', ext=''
+d 15-Mar-2020 23:14:17 makenl[9026] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='outfile' ext=''
+d 15-Mar-2020 23:14:17 makenl[9026] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/outfile'
+d 15-Mar-2020 23:14:17 makenl[9026] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/outfile'
+d 15-Mar-2020 23:14:17 makenl[9026] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+? 15-Mar-2020 23:14:17 makenl[9026] WARNING -- No net NAME given for list header (use /N or NAME verb)
++ 15-Mar-2020 23:14:17 makenl[9026] Cmdline: makenl "-D" "nodelist.txt"
++ 15-Mar-2020 23:14:17 makenl[9026] Using 'nodelist.txt' in '/home/christian/git/tqwnet_nodelist'
++ 15-Mar-2020 23:14:17 makenl[9026] Begin processing 'tqwnet.' -- 23:14, Sunday, March 15, 2020
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='(null)'
+d 15-Mar-2020 23:14:17 makenl[9026] main(): shouldprocess /home/christian/git/tqwnet_nodelist/outfile/tqwnet.
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='cpyright.txt' ext='(null)'
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='prolog.txt' ext='(null)'
+d 15-Mar-2020 23:14:17 makenl[9026] CloseMSGFile: status=0
+d 15-Mar-2020 23:14:17 makenl[9026] CloseMSGFile: MSGnum=0
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='epilog.txt' ext='(null)'
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='080'
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='031'
+d 15-Mar-2020 23:14:17 makenl[9026] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='073'
+d 15-Mar-2020 23:14:17 makenl[9026] Skip arc for /home/christian/git/tqwnet_nodelist/outfile/tqwnet.080
+d 15-Mar-2020 23:14:17 makenl[9026] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
++ 15-Mar-2020 23:14:17 makenl[9026] CRC = 62275
++ 15-Mar-2020 23:14:17 makenl[9026] MakeNL finished (rc=0)
+
+- 27-Mar-2020 23:20:57 makenl[22660] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 27-Mar-2020 23:20:57 makenl[22660] MakeNL started
+d 27-Mar-2020 23:20:57 makenl[22660] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 27-Mar-2020 23:20:57 makenl[22660] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 27-Mar-2020 23:20:57 makenl[22660] os_fullpath(): dir='', name='', ext=''
+d 27-Mar-2020 23:20:57 makenl[22660] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='' ext=''
+d 27-Mar-2020 23:20:57 makenl[22660] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/'
+d 27-Mar-2020 23:20:57 makenl[22660] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/'
+d 27-Mar-2020 23:20:57 makenl[22660] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+d 27-Mar-2020 23:20:57 makenl[22660] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 27-Mar-2020 23:20:57 makenl[22660] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 27-Mar-2020 23:20:57 makenl[22660] os_fullpath(): dir='.', name='outfile', ext=''
+d 27-Mar-2020 23:20:57 makenl[22660] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='outfile' ext=''
+d 27-Mar-2020 23:20:57 makenl[22660] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/outfile'
+d 27-Mar-2020 23:20:57 makenl[22660] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/outfile'
+d 27-Mar-2020 23:20:57 makenl[22660] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+? 27-Mar-2020 23:20:57 makenl[22660] WARNING -- No net NAME given for list header (use /N or NAME verb)
++ 27-Mar-2020 23:20:57 makenl[22660] Cmdline: makenl "-D" "nodelist.txt"
++ 27-Mar-2020 23:20:57 makenl[22660] Using 'nodelist.txt' in '/home/christian/git/tqwnet_nodelist'
++ 27-Mar-2020 23:20:57 makenl[22660] Begin processing 'tqwnet.' -- 23:20, Friday, March 27, 2020
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='(null)'
+d 27-Mar-2020 23:20:57 makenl[22660] main(): shouldprocess /home/christian/git/tqwnet_nodelist/outfile/tqwnet.
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='cpyright.txt' ext='(null)'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='prolog.txt' ext='(null)'
+d 27-Mar-2020 23:20:57 makenl[22660] CloseMSGFile: status=0
+d 27-Mar-2020 23:20:57 makenl[22660] CloseMSGFile: MSGnum=0
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='epilog.txt' ext='(null)'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='087'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='080'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='087'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='038'
+d 27-Mar-2020 23:20:57 makenl[22660] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='080'
+d 27-Mar-2020 23:20:57 makenl[22660] Skip arc for /home/christian/git/tqwnet_nodelist/outfile/tqwnet.087
+d 27-Mar-2020 23:20:57 makenl[22660] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
++ 27-Mar-2020 23:20:57 makenl[22660] CRC = 16746
++ 27-Mar-2020 23:20:57 makenl[22660] MakeNL finished (rc=0)
+
+- 27-Mar-2020 23:25:55 makenl[23510] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 27-Mar-2020 23:25:55 makenl[23510] MakeNL started
+d 27-Mar-2020 23:25:55 makenl[23510] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 27-Mar-2020 23:25:55 makenl[23510] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 27-Mar-2020 23:25:55 makenl[23510] os_fullpath(): dir='', name='', ext=''
+d 27-Mar-2020 23:25:55 makenl[23510] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='' ext=''
+d 27-Mar-2020 23:25:55 makenl[23510] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/'
+d 27-Mar-2020 23:25:55 makenl[23510] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/'
+d 27-Mar-2020 23:25:55 makenl[23510] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+d 27-Mar-2020 23:25:55 makenl[23510] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 27-Mar-2020 23:25:55 makenl[23510] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 27-Mar-2020 23:25:55 makenl[23510] os_fullpath(): dir='.', name='outfile', ext=''
+d 27-Mar-2020 23:25:55 makenl[23510] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='outfile' ext=''
+d 27-Mar-2020 23:25:55 makenl[23510] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/outfile'
+d 27-Mar-2020 23:25:55 makenl[23510] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/outfile'
+d 27-Mar-2020 23:25:55 makenl[23510] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+? 27-Mar-2020 23:25:55 makenl[23510] WARNING -- No net NAME given for list header (use /N or NAME verb)
++ 27-Mar-2020 23:25:55 makenl[23510] Cmdline: makenl "-D" "nodelist.txt"
++ 27-Mar-2020 23:25:55 makenl[23510] Using 'nodelist.txt' in '/home/christian/git/tqwnet_nodelist'
++ 27-Mar-2020 23:25:55 makenl[23510] Begin processing 'tqwnet.' -- 23:25, Friday, March 27, 2020
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='(null)'
+d 27-Mar-2020 23:25:55 makenl[23510] main(): shouldprocess /home/christian/git/tqwnet_nodelist/outfile/tqwnet.
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='cpyright.txt' ext='(null)'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='prolog.txt' ext='(null)'
+d 27-Mar-2020 23:25:55 makenl[23510] CloseMSGFile: status=0
+d 27-Mar-2020 23:25:55 makenl[23510] CloseMSGFile: MSGnum=0
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='epilog.txt' ext='(null)'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='087'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='080'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='073'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='066'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='059'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='052'
+d 27-Mar-2020 23:25:55 makenl[23510] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='045'
++ 27-Mar-2020 23:25:55 makenl[23510] Unchanged output file will NOT be submitted
+d 27-Mar-2020 23:25:55 makenl[23510] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
++ 27-Mar-2020 23:25:55 makenl[23510] CRC = 16746
++ 27-Mar-2020 23:25:55 makenl[23510] MakeNL finished (rc=0)
+
+- 27-Mar-2020 23:26:28 makenl[23578] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 27-Mar-2020 23:26:28 makenl[23578] MakeNL started
+d 27-Mar-2020 23:26:28 makenl[23578] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 27-Mar-2020 23:26:28 makenl[23578] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 27-Mar-2020 23:26:28 makenl[23578] os_fullpath(): dir='', name='', ext=''
+d 27-Mar-2020 23:26:28 makenl[23578] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='' ext=''
+d 27-Mar-2020 23:26:28 makenl[23578] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/'
+d 27-Mar-2020 23:26:28 makenl[23578] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/'
+d 27-Mar-2020 23:26:28 makenl[23578] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+d 27-Mar-2020 23:26:28 makenl[23578] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 27-Mar-2020 23:26:28 makenl[23578] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 27-Mar-2020 23:26:28 makenl[23578] os_fullpath(): dir='.', name='outfile', ext=''
+d 27-Mar-2020 23:26:28 makenl[23578] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='outfile' ext=''
+d 27-Mar-2020 23:26:28 makenl[23578] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/outfile'
+d 27-Mar-2020 23:26:28 makenl[23578] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/outfile'
+d 27-Mar-2020 23:26:28 makenl[23578] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+? 27-Mar-2020 23:26:28 makenl[23578] WARNING -- No net NAME given for list header (use /N or NAME verb)
++ 27-Mar-2020 23:26:28 makenl[23578] Cmdline: makenl "-D" "nodelist.txt"
++ 27-Mar-2020 23:26:28 makenl[23578] Using 'nodelist.txt' in '/home/christian/git/tqwnet_nodelist'
++ 27-Mar-2020 23:26:28 makenl[23578] Begin processing 'tqwnet.' -- 23:26, Friday, March 27, 2020
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='(null)'
+d 27-Mar-2020 23:26:28 makenl[23578] main(): shouldprocess /home/christian/git/tqwnet_nodelist/outfile/tqwnet.
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='cpyright.txt' ext='(null)'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='prolog.txt' ext='(null)'
+d 27-Mar-2020 23:26:28 makenl[23578] CloseMSGFile: status=0
+d 27-Mar-2020 23:26:28 makenl[23578] CloseMSGFile: MSGnum=0
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='epilog.txt' ext='(null)'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='087'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='080'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='073'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='066'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='059'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='052'
+d 27-Mar-2020 23:26:28 makenl[23578] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='045'
++ 27-Mar-2020 23:26:28 makenl[23578] Unchanged output file will NOT be submitted
+d 27-Mar-2020 23:26:28 makenl[23578] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
++ 27-Mar-2020 23:26:28 makenl[23578] CRC = 16746
++ 27-Mar-2020 23:26:28 makenl[23578] MakeNL finished (rc=0)
+
+- 27-Mar-2020 23:26:45 makenl[23644] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 27-Mar-2020 23:26:45 makenl[23644] MakeNL started
+d 27-Mar-2020 23:26:45 makenl[23644] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 27-Mar-2020 23:26:45 makenl[23644] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 27-Mar-2020 23:26:45 makenl[23644] os_fullpath(): dir='', name='', ext=''
+d 27-Mar-2020 23:26:45 makenl[23644] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='' ext=''
+d 27-Mar-2020 23:26:45 makenl[23644] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/'
+d 27-Mar-2020 23:26:45 makenl[23644] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/'
+d 27-Mar-2020 23:26:45 makenl[23644] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+d 27-Mar-2020 23:26:45 makenl[23644] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 27-Mar-2020 23:26:45 makenl[23644] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 27-Mar-2020 23:26:45 makenl[23644] os_fullpath(): dir='.', name='outfile', ext=''
+d 27-Mar-2020 23:26:45 makenl[23644] os_fullpath(): old directory='/home/christian/git/tqwnet_nodelist'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist' name='outfile' ext=''
+d 27-Mar-2020 23:26:45 makenl[23644] os_fullpath(): complete filename: '/home/christian/git/tqwnet_nodelist/outfile'
+d 27-Mar-2020 23:26:45 makenl[23644] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/christian/git/tqwnet_nodelist/outfile'
+d 27-Mar-2020 23:26:45 makenl[23644] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+? 27-Mar-2020 23:26:45 makenl[23644] WARNING -- No net NAME given for list header (use /N or NAME verb)
++ 27-Mar-2020 23:26:45 makenl[23644] Cmdline: makenl "-D" "nodelist.txt"
++ 27-Mar-2020 23:26:45 makenl[23644] Using 'nodelist.txt' in '/home/christian/git/tqwnet_nodelist'
++ 27-Mar-2020 23:26:45 makenl[23644] Begin processing 'tqwnet.' -- 23:26, Friday, March 27, 2020
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='(null)'
+d 27-Mar-2020 23:26:45 makenl[23644] main(): shouldprocess /home/christian/git/tqwnet_nodelist/outfile/tqwnet.
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='cpyright.txt' ext='(null)'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='prolog.txt' ext='(null)'
+d 27-Mar-2020 23:26:45 makenl[23644] CloseMSGFile: status=0
+d 27-Mar-2020 23:26:45 makenl[23644] CloseMSGFile: MSGnum=0
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/' name='epilog.txt' ext='(null)'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='(null)' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='087'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='080'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='073'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='066'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='059'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='052'
+d 27-Mar-2020 23:26:45 makenl[23644] myfnmerge: drive='' dir='/home/christian/git/tqwnet_nodelist/outfile' name='tqwnet' ext='045'
++ 27-Mar-2020 23:26:45 makenl[23644] Unchanged output file will NOT be submitted
+d 27-Mar-2020 23:26:45 makenl[23644] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
++ 27-Mar-2020 23:26:45 makenl[23644] CRC = 16746
++ 27-Mar-2020 23:26:45 makenl[23644] MakeNL finished (rc=0)

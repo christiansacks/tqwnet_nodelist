@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, March 20, 2020 -- Day number 080 : 62619
+;A  Nodelist for Friday, March 27, 2020 -- Day number 087 : 16746
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -38,6 +38,8 @@
 ;S 12/29/2019 We now have our 26th node, Will Milberger from Kurten, TX, US
 ;S 03/15/2020 Starting to add ZeroTier node ID's to the nodelist
 ;S 03/15/2020 Added Castle Rock's ZeroTier node ID 378a36b4b6
+;S 03/15/2020 Added Hub AU and Chinwag's ZeroTier node ID eef014f861
+;S 03/27/2020 We now have our 27th node, Luc McGarragher from Montreal,Quebec,CA
 ;S
 ;S Notice:
 ;S
@@ -57,8 +59,8 @@ Hub,100,tqwNet_UK_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG
 ;
 Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
-Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
-,101,Chinwag,Parkdale_VIC_AU,Deon_George,Unpublished,9600,CM,ITN:10023,INA:chinwag.leenooks.net,IBN:24554,U,MY
+Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC,ZT:eef014f861
+,101,Chinwag,Parkdale_VIC_AU,Deon_George,Unpublished,9600,CM,ITN:10023,INA:chinwag.leenooks.net,IBN:24554,U,MY,ZT:eef014f861
 ,102,Nocturnal,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:2023,INA:nocturnal.hopto.org,IBN:24555,U,MG
 ,103,Freeway_BBS,Bendigo_VIC_AU,Tony_Langdon,Unpublished,9600,CM,ITN,INA:freeway.vkradio.com,IBN:24554,U,SC
 ;
@@ -84,6 +86,7 @@ Pvt,117,Insane_Asylum,Racine_WI_US,Ktulu,-Unpublished-,9600,CM,ITN,INA,IBN,U,MY
 ,118,Stellar_Darkness,Toronto_ON_CA,Mike_Da_Costa,Unpublished,9600,CM,ITN:2023,INA:stellardarkness.com,IBN:24554,U,MY
 ,119,Deadbeatz_BBS,Albuquerque_NM_US,Timothy_Blada,Unpublished,9600,CM,ITN,INA:deadbeatz.org,IBN,U,MY
 ,120,Dark_Matter_BBS,Kurten_TX_US,Will_Milberger,Unpublished,9600,CM,ITN,INA:darkmatt.synchro.net,IBN:24554,U,SC
+,121,SpaceSST_BBS,Montreal_Quebec_CA,Luc_McCarragher,Unpublished,9600,CM,ITN,INA:mccarragher.org,IBN:24554,U,MY
 ;S
 ;S
 ;S Mail Processing

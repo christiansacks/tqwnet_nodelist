@@ -14,4 +14,8 @@ newext="z${ext:1:2}"
 
 zip -j9 zip/tqwnet.$newext $absfile
 
+git add . -A
+git commit -m "$(date "+%Y-%m-%d %H:%M:%S")"
+
 cd $ORIGDIR
+
