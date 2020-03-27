@@ -16,6 +16,7 @@ zip -j9 zip/tqwnet.$newext $absfile
 
 git add . -A
 git commit -m "$(date "+%Y-%m-%d %H:%M:%S")"
+git push
 
 cd $ORIGDIR
 
