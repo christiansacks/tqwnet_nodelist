@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ORIGDIR=$PWD
-WORKDIR="~/git/tqwnet_nodelist"
+WORKDIR="/root/git/tqwnet_nodelist"
 
 cd $WORKDIR
 git pull
