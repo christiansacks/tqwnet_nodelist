@@ -4,6 +4,7 @@ ORIGDIR=$PWD
 WORKDIR="~/git/tqwnet_nodelist"
 
 cd $WORKDIR
+git pull
 
 makenl -d nodelist.txt
 
@@ -14,7 +15,6 @@ newext="z${ext:1:2}"
 
 zip -j9 zip/tqwnet.$newext $absfile
 
-git pull
 git add . -A
 git commit -m "$(date "+%Y-%m-%d %H:%M:%S")"
 git push
