@@ -37,6 +37,7 @@
 ;S 03/15/2020 Added Castle Rock's ZeroTier node ID 378a36b4b6
 ;S 03/15/2020 Added Hub AU and Chinwag's ZeroTier node ID eef014f861
 ;S 03/27/2020 We now have our 27th node, Luc McGarragher from Montreal,Quebec,CA
+;S 03/31/2020 We now have our 28th node, Hauns Froehlingsdorf from San Jose, CA, US
 ;S
 ;S Notice:
 ;S

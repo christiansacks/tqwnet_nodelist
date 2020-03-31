@@ -48,3 +48,4 @@ Pvt,117,Insane_Asylum,Racine_WI_US,Ktulu,Unpublished,9600,CM,ITN,INA,IBN,U,MY
 ,119,Deadbeatz_BBS,Albuquerque_NM_US,Timothy_Blada,Unpublished,9600,CM,ITN,INA:deadbeatz.org,IBN,U,MY
 ,120,Dark_Matter_BBS,Kurten_TX_US,Will_Milberger,Unpublished,9600,CM,ITN,INA:darkmatt.synchro.net,IBN:24554,U,SC
 ,121,SpaceSST_BBS,Montreal_Quebec_CA,Luc_McCarragher,Unpublished,9600,CM,ITN,INA:mccarragher.org,IBN:24554,U,MY
+,122,Dreambuilders,San_Jose_CA_US,Hauns_Froehlingsdorf,Unpublished,9600,CM,ITN:6800,INA:dreambuilders.fros.com,IBN,U,CN
