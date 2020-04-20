@@ -50,3 +50,4 @@ Pvt,117,Insane_Asylum,Racine_WI_US,Ktulu,Unpublished,9600,CM,ITN,INA,IBN,U,MY
 ,121,SpaceSST_BBS,Montreal_Quebec_CA,Luc_McCarragher,Unpublished,9600,CM,ITN,INA:mccarragher.org,IBN:24554,U,MY
 ,122,Dreambuilders,San_Jose_CA_US,Hauns_Froehlingsdorf,Unpublished,9600,CM,ITN:6800,INA:dreambuilders.fros.com,IBN,U,CN
 ,123,Card_&_Claw,Berkeley_CA_US,Robbie_Whiting,Unpublished,9600,CM,ITN:8888,INA:cardandclaw.com,IBN,U,MY
+Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,ITN,INA:retrocomputacion.ddns.net,IBN,U,MY
