@@ -8,6 +8,14 @@ PACKDIR="${2:-IPACKDIR}"
 
 COMMIT="$(date "+%Y-%m-%d %H:%M:%S")"
 
+ISOK=false
+
+echo -n "Did you save and commit changes in both $IWORKDIR and $IPACKDIR?: "; read ANSWER
+case "$ANSWER" in
+  "no")  echo "Aborted, go save and commit!"; exit 1;;
+  *) echo "continue";;
+esac
+
 cd $WORKDIR
 git pull
 
