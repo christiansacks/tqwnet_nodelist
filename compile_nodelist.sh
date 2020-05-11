@@ -29,6 +29,8 @@ git push
 cd $PACKDIR
 echo "Now in $PACKDIR directory..."
 
+git pull
+
 rm $PACKDIR/tqwnet.z*
 rm $PACKDIR/tqwinfo.zip
 
