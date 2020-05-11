@@ -10,11 +10,18 @@ COMMIT="$(date "+%Y-%m-%d %H:%M:%S")"
 
 ISOK=false
 
-echo -n "Did you save and commit changes in both $IWORKDIR and $IPACKDIR?: "; read ANSWER
-case "$ANSWER" in
-  "no")  echo "Aborted, go save and commit!"; exit 1;;
-  *) echo "continue";;
-esac
+#echo -n "Did you save and commit changes in both $IWORKDIR and $IPACKDIR?: "; read ANSWER
+#case "$ANSWER" in
+#  "no")  echo "Aborted, go save and commit!"; exit 1;;
+#  *) echo "continue";;
+#esac
+
+echo "*** DID YOU SAVE AND COMMIT YOUR CHANGES TO BOTH $IWORKDIR AND $IPACKDIR? ***"
+for i in {5..1}; do
+  echo -n "$i... "
+  sleep 1
+done
+echo "0. Times up!"
 
 cd $WORKDIR
 git pull
