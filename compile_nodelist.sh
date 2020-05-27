@@ -16,7 +16,7 @@ ISOK=false
 #  *) echo "continue";;
 #esac
 
-echo "*** DID YOU SAVE AND COMMIT YOUR CHANGES TO BOTH $IWORKDIR AND $IPACKDIR? ***"
+echo "*** DID YOU SAVE AND COMMIT YOUR CHANGES TO BOTH $WORKDIR AND $PACKDIR? ***"
 for i in {5..1}; do
   echo -n "$i... "
   sleep 1
