@@ -41,6 +41,7 @@
 ;S 04/13/2020 We now have our 29th node, Robbie Whiting (Alpha) from Berkeley, CA, US
 ;S 04/26/2020 We now have our 30th node, Jesse Cussins (Lux) from Rohnert Park, CA, US
 ;S 05/08/2020 We now have our 31st node, Jay Harris from Binbrook, ON, CA
+;S 05/27/2020 We now have our 32nd node, Mike McCafferty from Oshawa, ON, CA
 ;S
 ;S Notice:
 ;S
