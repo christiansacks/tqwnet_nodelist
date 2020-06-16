@@ -54,3 +54,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,125,Physics,Rohnert_Park_CA_US,Jesse_Cussins,Unpublished,9600,CM,ITN,INA:bulletinboard.systems,IBN,U,RG
 ,126,Northern_Realms,Binbrook_ON_CA,Jay_Harris,Unpublished,9600,CM,ITN,INA:bbs.nrbbs.net,IBN,U,MY
 ,127,The_Unknown_Realm,Oshawa_ON_CA,Mike_McCafferty,Unpublished,9600,CM,ITN:3023,INA:turealm.no-ip.org,IBN,U,MY
+,128,1984_BBS,Washington_DC_US,Jeff_Liford,Unpublished,9600,CM,ITN,INA:1984bbs.net,IBN,U,MY

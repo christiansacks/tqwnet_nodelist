@@ -42,6 +42,7 @@
 ;S 04/26/2020 We now have our 30th node, Jesse Cussins (Lux) from Rohnert Park, CA, US
 ;S 05/08/2020 We now have our 31st node, Jay Harris from Binbrook, ON, CA
 ;S 05/27/2020 We now have our 32nd node, Mike McCafferty from Oshawa, ON, CA
+;S 06/16/2020 We now have our 33rd node, Jeff Liford from Washington, DC, US
 ;S
 ;S Notice:
 ;S
