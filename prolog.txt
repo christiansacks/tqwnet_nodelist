@@ -43,6 +43,9 @@
 ;S 05/08/2020 We now have our 31st node, Jay Harris from Binbrook, ON, CA
 ;S 05/27/2020 We now have our 32nd node, Mike McCafferty from Oshawa, ON, CA
 ;S 06/16/2020 We now have our 33rd node, Jeff Liford from Washington, DC, US
+;S 07/21/2020 We now have our 34th node, Paul Lee from Portland, OR, US
+;S 07/21/2020 We now have our 35th node, Dean Lodge from Omaha, NE, US
+;S 07/22/2020 We now have our 36th node, Karl Harris from San Antonio, TX, US
 ;S
 ;S Notice:
 ;S
