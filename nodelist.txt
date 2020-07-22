@@ -55,6 +55,6 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,126,Northern_Realms,Binbrook_ON_CA,Jay_Harris,Unpublished,9600,CM,ITN,INA:bbs.nrbbs.net,IBN,U,MY
 ,127,The_Unknown_Realm,Oshawa_ON_CA,Mike_McCafferty,Unpublished,9600,CM,ITN:3023,INA:turealm.no-ip.org,IBN,U,MY
 ,128,1984_BBS,Washington_DC_US,Jeff_Liford,Unpublished,9600,CM,ITN,INA:1984bbs.net,IBN,U,MY
-,129,20_For_Beers,Portland_OR_US,Paul_Lee,Unpublished,9600,CM,ITN,INA:20forbeers.com,IBN,U,MY
+,129,20_For_Beers,Portland_OR_US,Paul_Lee,Unpublished,9600,CM,ITN:34123,INA:20forbeers.com,IBN,U,MY
 ,130,Pwecks_Retreat,Omaha_NE_US,Dean_Lodge,Unpublished,9600,CM,ITN,INA:bbs.pweck.net,IBN,U,MY
-,131,The_Search_BBS,San_Antonio_TX_US,Karl_Harris,Unpublished,9600,CM,ITN,INA:bbs.theharrisclan.net,IBN,U,MY
+,131,The_Search_BBS,San_Antonio_TX_US,Karl_Harris,Unpublished,9600,CM,ITN:34123,INA:bbs.theharrisclan.net,IBN,U,MY
