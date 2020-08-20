@@ -58,3 +58,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,129,20_For_Beers,Portland_OR_US,Paul_Lee,Unpublished,9600,CM,ITN:34123,INA:20forbeers.com,IBN,U,MY
 ,130,Pwecks_Retreat,Omaha_NE_US,Dean_Lodge,Unpublished,9600,CM,ITN,INA:bbs.pweck.net,IBN,U,MY
 ,131,The_Search_BBS,San_Antonio_TX_US,Karl_Harris,Unpublished,9600,CM,ITN:34123,INA:bbs.theharrisclan.net,IBN,U,MY
+,132,The_Underground,Carmel_IN_US,Doug_Cooper,Unpublished,9600,CM,ITN:10023,INA:www.theunderground.us,IBN,U,MY

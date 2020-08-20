@@ -46,6 +46,7 @@
 ;S 07/21/2020 We now have our 34th node, Paul Lee from Portland, OR, US
 ;S 07/21/2020 We now have our 35th node, Dean Lodge from Omaha, NE, US
 ;S 07/22/2020 We now have our 36th node, Karl Harris from San Antonio, TX, US
+;S 08/20/2020 We now have our 37th node, Doug Cooper from Carmel, IN, US
 ;S
 ;S Notice:
 ;S
