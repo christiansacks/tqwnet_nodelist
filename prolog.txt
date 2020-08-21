@@ -48,6 +48,7 @@
 ;S 07/22/2020 We now have our 36th node, Karl Harris from San Antonio, TX, US
 ;S 08/20/2020 We now have our 37th node, Doug Cooper from Carmel, IN, US
 ;S 08/20/2020 We now have our 38th node, Stephan Gebbers from Potsdam, DE
+;S 08/21/2020 We now have our 39th node, Runner Seven from Somewhere, DE
 ;S
 ;S Notice:
 ;S
