@@ -1,4 +1,5 @@
 #!/bin/bash
+# v2
 
 ORIGDIR=$PWD
 IWORKDIR="/root/git/tqwnet_nodelist"
