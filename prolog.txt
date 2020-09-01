@@ -50,6 +50,7 @@
 ;S 08/20/2020 We now have our 38th node, Stephan Gebbers from Potsdam, DE
 ;S 08/21/2020 We now have our 39th node, Runner Seven from Somewhere, DE
 ;S 08/21/2020 Changed the domain for pwecks retreat to pwecksretreat.com
+;S 09/01/2020 We now have our 40th node, Marco Reparon from Zoetermeer, NL
 ;S
 ;S Notice:
 ;S
