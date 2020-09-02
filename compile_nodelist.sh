@@ -4,8 +4,8 @@
 ORIGDIR=$PWD
 IWORKDIR="/root/git/tqwnet_nodelist"
 IPACKDIR="/root/git/tqwnet_infopack"
-WORKDIR="${1:-IWORKDIR}"
-PACKDIR="${2:-IPACKDIR}"
+WORKDIR="${1:-$IWORKDIR}"
+PACKDIR="${2:-$IPACKDIR}"
 
 COMMIT="$(date "+%Y-%m-%d %H:%M:%S")"
 
