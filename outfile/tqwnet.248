@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, September 4, 2020 -- Day number 248 : 54636
+;A  Nodelist for Friday, September 4, 2020 -- Day number 248 : 60247
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -72,7 +72,7 @@ Hub,100,tqwNet_UK_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk
 ,103,HB3NOS,Ouwerkerk_NL,Henk_Blanken,Unpublished,9600,CM,ITN,INA:62.238.86.72,IBN,U,MY
 ,104,FuNToPia,Potsdam_DE,Stephan_Gebbers,Unpublished,9600,CM,ITN:2023,INA:funtopia.ddnss.eu,IBN,U,MG
 ,105,TechNoir,Frankfurt_DE,Runner_Seven,Unpublished,9600,CM,ITN:723,INA:technoir.panthermodern.net,IBN,U,MY
-Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,CM,ITN:38664,INA:elite.xs4all.nl,IBN,U,MY
+Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,CM,ITN,INA,IBN,U,MY
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ;
 Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
