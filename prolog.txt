@@ -54,6 +54,7 @@
 ;S 09/20/2020 We now have our 41st node, Louis Northmore from Beverley, UK
 ;S 09/20/2020 We now have our 42nd node, Nikki Jenks from Erlanger, KY, US
 ;S 09/21/2020 We now have our 43rd node, Greg Youngblood from Inverness, FL, US
+;S 09/29/2020 Changed Card & Claw to The Drunken Gamer
 ;S
 ;S Notice:
 ;S
