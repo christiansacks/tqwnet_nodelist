@@ -65,3 +65,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,132,The_Underground,Carmel_IN_US,Doug_Cooper,Unpublished,9600,CM,ITN:10023,INA:www.theunderground.us,IBN,U,MY
 ,133,NeoCincinnati_BBS,Erlanger_KY_US,Nikki_Jenks,Unpublished,9600,CM,ITN:2323,INA:neocinci.bbs.io,IBN:24554,U,MY
 ,134,Gray_Matter_BBS,Inverness_FL_US,Greg_Youngblood,Unpublished,9600,CM,ITN:2323,INA:graymatterbbs.com,IBN:24565,U,SC
+,135,Halls_of_Valhalla,San_Francisco_CA_US,Morgan_Collins,Unpublished,9600,CM,ITN:2333,INA:hovalbbs.com,IBN,U,SC
