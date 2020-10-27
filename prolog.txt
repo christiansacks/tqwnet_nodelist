@@ -56,6 +56,7 @@
 ;S 09/21/2020 We now have our 43rd node, Greg Youngblood from Inverness, FL, US
 ;S 09/29/2020 Changed Card & Claw to The Drunken Gamer
 ;S 10/23/2020 We now have our 44th node, Morgan Collins from San Francisco, CA, US
+;S 10/27/2020 We node have our 45th node, Michael Long from Charlotte, NC, US
 ;S
 ;S Notice:
 ;S
