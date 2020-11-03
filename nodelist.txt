@@ -68,3 +68,5 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,135,Halls_of_Valhalla,San_Francisco_CA_US,Morgan_Collins,Unpublished,9600,CM,ITN:2333,INA:hovalbbs.com,IBN,U,SC
 ,136,Inner_Realm_BBS,Charlotte_NC_US,Michael_Long,Unpublished,9600,CM,ITN,INA:innerrealmbbs.us,IBN,U,SC
 ,137,The_Ghetto_BBS,Inverness_FL_US,Greg_Youngblood,Unpublished,9600,CM,ITN:2323,INA:theghettobbs.com,IBN:24570,U,RG
+,138,Point_Of_No_Return,Toronto_ON_CA,Mark_Da_Silva,Unpublished,9600,CM,ITN:2323,INA:pointofnoreturn.zapto.org,IBN,U,MY
+
