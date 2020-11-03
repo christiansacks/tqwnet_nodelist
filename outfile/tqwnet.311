@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, November 6, 2020 -- Day number 311 : 03929
+;A  Nodelist for Friday, November 6, 2020 -- Day number 311 : 32241
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -61,6 +61,7 @@
 ;S 10/23/2020 We now have our 44th node, Morgan Collins from San Francisco, CA, US
 ;S 10/27/2020 We now have our 45th node, Michael Long from Charlotte, NC, US
 ;S 11/03/2020 We now have our 46th node, Another Greg Youngblood production: The Ghetto BBS
+;S 11/03/2020 We now have our 47th node, Mark De Silva from Toronto, ON, CA
 ;S
 ;S Notice:
 ;S
@@ -128,6 +129,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,135,Halls_of_Valhalla,San_Francisco_CA_US,Morgan_Collins,Unpublished,9600,CM,ITN:2333,INA:hovalbbs.com,IBN,U,SC
 ,136,Inner_Realm_BBS,Charlotte_NC_US,Michael_Long,Unpublished,9600,CM,ITN,INA:innerrealmbbs.us,IBN,U,SC
 ,137,The_Ghetto_BBS,Inverness_FL_US,Greg_Youngblood,Unpublished,9600,CM,ITN:2323,INA:theghettobbs.com,IBN:24570,U,RG
+,138,Point_Of_No_Return,Toronto_ON_CA,Mark_Da_Silva,Unpublished,9600,CM,ITN:2323,INA:pointofnoreturn.zapto.org,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
