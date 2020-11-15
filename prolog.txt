@@ -59,6 +59,7 @@
 ;S 10/27/2020 We now have our 45th node, Michael Long from Charlotte, NC, US
 ;S 11/03/2020 We now have our 46th node, Another Greg Youngblood production: The Ghetto BBS
 ;S 11/03/2020 We now have our 47th node, Mark De Silva from Toronto, ON, CA
+;S 11/15/2020 We node have our 48th node, Steve Wolf from Queens, NY, US
 ;S
 ;S Notice:
 ;S
