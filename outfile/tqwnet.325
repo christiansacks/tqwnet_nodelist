@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, November 20, 2020 -- Day number 325 : 38570
+;A  Nodelist for Friday, November 20, 2020 -- Day number 325 : 24977
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -77,8 +77,6 @@ Region,1337,tqwNet_RC_WHQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:h
 Host,1,tqwNet_R1_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk.zt.erb.pw,IBN:24556,U,MY
 Hub,100,tqwNet_UK_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk.zt.erb.pw,IBN:24556,U,MY
 ,101,The_Quantum_Wormhole,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN,INA:bbs.erb.pw,IBN,U,MY,ZT:886642e222
-;E ,101.6,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
-;E  -- Duplicate Node number -- '101'
 ,102,Kuehlbox,Frankfurt_DE,Philipp_Giebel,Unpublished,9600,CM,ITN,INA:kuehlbox.wtf,IBN,U,MY
 ,103,HB3NOS,Ouwerkerk_NL,Henk_Blanken,Unpublished,9600,CM,ITN,INA:62.238.86.72,IBN,U,MY
 ,104,FuNToPia,Potsdam_DE,Stephan_Gebbers,Unpublished,9600,CM,ITN:2023,INA:funtopia.ddnss.eu,IBN,U,MG
