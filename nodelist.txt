@@ -71,3 +71,5 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,138,Point_Of_No_Return,Toronto_ON_CA,Mark_Da_Silva,Unpublished,9600,CM,ITN:2323,INA:pointofnoreturn.zapto.org,IBN,U,MY
 ,139,Havens_BBS,Queens_NY_US,Steve_Wolf,Unpublished,9600,CM,ITN,INA:havens.synchro.net,IBN,U,SC
 ,140,Rust_Belt_BBS,Rochester_NY_US,Kevin_Miller,Unpublished,9600,CM,ITN,INA:rbbbs.mtonetwork.com,IBN:24555,U,MY
+,141,Cortex,Evansville_IN_US,Tony_Toon,Unpublished,9600,CM,ITN,INA:deepthaw.net,IBN,U,EG
+
