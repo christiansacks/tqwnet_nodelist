@@ -62,6 +62,7 @@
 ;S 11/15/2020 We nod have our 48th node, Steve Wolf from Queens, NY, US
 ;S 11/27/2020 We now have our 49th node, Kevin Miller from Rochester, NY, US
 ;S 11/28/2020 We now have our 50th node, Tony Toon from Evansville, IN, US
+;S 12/15/2020 We now have our 51st node, Anna Christina Nass from Karlsruhe, Germany
 ;S
 ;S Notice:
 ;S
