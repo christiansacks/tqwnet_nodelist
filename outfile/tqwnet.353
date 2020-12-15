@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, October 30, 2020 -- Day number 304 : 15324
+;A  Nodelist for Friday, December 18, 2020 -- Day number 353 : 28612
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -59,7 +59,13 @@
 ;S 09/21/2020 We now have our 43rd node, Greg Youngblood from Inverness, FL, US
 ;S 09/29/2020 Changed Card & Claw to The Drunken Gamer
 ;S 10/23/2020 We now have our 44th node, Morgan Collins from San Francisco, CA, US
-;S 10/27/2020 We node have our 45th node, Michael Long from Charlotte, NC, US
+;S 10/27/2020 We now have our 45th node, Michael Long from Charlotte, NC, US
+;S 11/03/2020 We now have our 46th node, Another Greg Youngblood production: The Ghetto BBS
+;S 11/03/2020 We now have our 47th node, Mark De Silva from Toronto, ON, CA
+;S 11/15/2020 We nod have our 48th node, Steve Wolf from Queens, NY, US
+;S 11/27/2020 We now have our 49th node, Kevin Miller from Rochester, NY, US
+;S 11/28/2020 We now have our 50th node, Tony Toon from Evansville, IN, US
+;S 12/15/2020 We now have our 51st node, Anna Christina Nass from Karlsruhe, Germany
 ;S
 ;S Notice:
 ;S
@@ -80,7 +86,9 @@ Hub,100,tqwNet_UK_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk
 ,105,TechNoir,Frankfurt_DE,Runner_Seven,Unpublished,9600,CM,ITN:723,INA:technoir.panthermodern.net,IBN,U,MY
 Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,CM,ITN,INA,IBN,U,MY
 ,107,Sonic_BBS,Beverley_UK,Louis_Northmore,Unpublished,9600,CM,ITN,INA:bbs.sonicbbs.co.uk,IBN:24554,U,EG
+,108,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,Unpublished,9600,CM,ITN,INA:box.imzadi.de,IBN,U,SC
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
+,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 ;
 Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
 Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC,ZT:eef014f861
@@ -126,6 +134,11 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,134,Gray_Matter_BBS,Inverness_FL_US,Greg_Youngblood,Unpublished,9600,CM,ITN:2323,INA:graymatterbbs.com,IBN:24565,U,SC
 ,135,Halls_of_Valhalla,San_Francisco_CA_US,Morgan_Collins,Unpublished,9600,CM,ITN:2333,INA:hovalbbs.com,IBN,U,SC
 ,136,Inner_Realm_BBS,Charlotte_NC_US,Michael_Long,Unpublished,9600,CM,ITN,INA:innerrealmbbs.us,IBN,U,SC
+,137,The_Ghetto_BBS,Inverness_FL_US,Greg_Youngblood,Unpublished,9600,CM,ITN:2323,INA:theghettobbs.com,IBN:24570,U,RG
+,138,Point_Of_No_Return,Toronto_ON_CA,Mark_Da_Silva,Unpublished,9600,CM,ITN:2323,INA:pointofnoreturn.zapto.org,IBN,U,MY
+,139,Havens_BBS,Queens_NY_US,Steve_Wolf,Unpublished,9600,CM,ITN,INA:havens.synchro.net,IBN,U,SC
+,140,Rust_Belt_BBS,Rochester_NY_US,Kevin_Miller,Unpublished,9600,CM,ITN,INA:rbbbs.mtonetwork.com,IBN:24555,U,MY
+,141,Cortex,Evansville_IN_US,Tony_Toon,Unpublished,9600,CM,ITN,INA:deepthaw.net,IBN,U,EG
 ;S
 ;S
 ;S Mail Processing
