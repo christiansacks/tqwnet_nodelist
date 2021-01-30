@@ -63,6 +63,7 @@
 ;S 11/27/2020 We now have our 49th node, Kevin Miller from Rochester, NY, US
 ;S 11/28/2020 We now have our 50th node, Tony Toon from Evansville, IN, US
 ;S 12/15/2020 We now have our 51st node, Anna Christina Nass from Karlsruhe, Germany
+;S 01/30/2021 We now have our 52nd node, Aaron Grasswell from Peterborough, ON, CA
 ;S
 ;S Notice:
 ;S
