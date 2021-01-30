@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, December 18, 2020 -- Day number 353 : 28612
+;A  Nodelist for Friday, February 5, 2021 -- Day number 036 : 52999
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -66,6 +66,7 @@
 ;S 11/27/2020 We now have our 49th node, Kevin Miller from Rochester, NY, US
 ;S 11/28/2020 We now have our 50th node, Tony Toon from Evansville, IN, US
 ;S 12/15/2020 We now have our 51st node, Anna Christina Nass from Karlsruhe, Germany
+;S 01/30/2021 We now have our 52nd node, Aaron Grasswell from Peterborough, ON, CA
 ;S
 ;S Notice:
 ;S
@@ -139,6 +140,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,139,Havens_BBS,Queens_NY_US,Steve_Wolf,Unpublished,9600,CM,ITN,INA:havens.synchro.net,IBN,U,SC
 ,140,Rust_Belt_BBS,Rochester_NY_US,Kevin_Miller,Unpublished,9600,CM,ITN,INA:rbbbs.mtonetwork.com,IBN:24555,U,MY
 ,141,Cortex,Evansville_IN_US,Tony_Toon,Unpublished,9600,CM,ITN,INA:deepthaw.net,IBN,U,EG
+,142,Dark_Systems_BBS,Peterborough_ON_CA,Aaron_Grasswell,Unpublished,9600,CM,ITN,INA:bbs.dsbbs.ca,IBN,U,RA
 ;S
 ;S
 ;S Mail Processing
