@@ -64,6 +64,7 @@
 ;S 11/28/2020 We now have our 50th node, Tony Toon from Evansville, IN, US
 ;S 12/15/2020 We now have our 51st node, Anna Christina Nass from Karlsruhe, Germany
 ;S 01/30/2021 We now have our 52nd node, Aaron Grasswell from Peterborough, ON, CA
+;S 02/13/2021 We now have our 53rd node, Anthony Stump from Mooresburg, TN, US
 ;S
 ;S Notice:
 ;S
