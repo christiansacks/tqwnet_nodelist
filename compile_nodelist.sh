@@ -36,6 +36,7 @@ ext=$(echo $file | awk -F. '{ print $2 }')
 newext="z${ext:1:2}" 
 
 echo "Creating zip archive tqwnet.$newext..."
+[ -f zip/tqwnet.$newext ] && mv zip/tqwnet.$newext{,.`date +%Y%m%d`}
 zip -j9 zip/tqwnet.$newext $absfile
 
 git add . -A
