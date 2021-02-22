@@ -31,6 +31,7 @@ Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au
 ,101,Chinwag,Parkdale_VIC_AU,Deon_George,Unpublished,9600,CM,ITN:10023,INA:chinwag.leenooks.net,IBN:24554,U,MY,ZT:eef014f861
 ,102,Nocturnal,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:2023,INA:nocturnal.hopto.org,IBN:24555,U,MG
 ,103,Freeway_BBS,Bendigo_VIC_AU,Tony_Langdon,Unpublished,9600,CM,ITN,INA:freeway.vkradio.com,IBN:24554,U,SC
+,104,Als_Geek_Lab,Wellington_NZ,Alistair_Ross,Unpublished,9600,CM,ITN:2323,INA:bbs.alsgeeklab.com,IBN,U,MY
 Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
 Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
 ,101,The_Rusty_MailBox,Penticton_BC_CA,Alan_Ianson,Unpublished,9600,CM,INA:trmb.ca,IBN,U,BB
