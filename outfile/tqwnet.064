@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, March 5, 2021 -- Day number 064 : 17588
+;A  Nodelist for Friday, March 5, 2021 -- Day number 064 : 14683
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -91,7 +91,7 @@ Hub,100,tqwNet_UK_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk
 Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,CM,ITN,INA,IBN,U,MY
 ,107,Sonic_BBS,Beverley_UK,Louis_Northmore,Unpublished,9600,CM,ITN,INA:bbs.sonicbbs.co.uk,IBN:24554,U,EG
 ,108,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,Unpublished,9600,CM,ITN,INA:box.imzadi.de,IBN,U,SC
-,110,TFSI,London_UK,Nick_Young,Unpublished,9600,CM,ITN,INA:tfsi.synchronetbbs.org,IBN,U,MY
+,110,TFSI,London_UK,Nick_Young,Unpublished,9600,CM,ITN,INA:tfsi.synchronetbbs.org,IBN,U,SC
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 ;
