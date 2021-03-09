@@ -67,6 +67,7 @@
 ;S 02/13/2021 We now have our 53rd node, Anthony Stump from Mooresburg, TN, US
 ;S 02/22/2021 We now have our 54th node, Alistair Ross from Wellington, NZ
 ;S 03/03/2021 We now have our 55th node, Nick Young from London, UK
+;S 03/09/2021 We now have our 56th node, Milan Minic from Prague, CZE
 ;S
 ;S Notice:
 ;S
