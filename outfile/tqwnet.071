@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, March 12, 2021 -- Day number 071 : 27020
+;A  Nodelist for Friday, March 12, 2021 -- Day number 071 : 29965
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -71,6 +71,7 @@
 ;S 02/22/2021 We now have our 54th node, Alistair Ross from Wellington, NZ
 ;S 03/03/2021 We now have our 55th node, Nick Young from London, UK
 ;S 03/09/2021 We now have our 56th node, Milan Minic from Prague, CZE
+;S 03/10/2021 We now have our 57th node, Dean Galloway from Buckeye, AZ, US
 ;S
 ;S Notice:
 ;S
@@ -149,6 +150,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,141,Cortex,Evansville_IN_US,Tony_Toon,Unpublished,9600,CM,ITN,INA:deepthaw.net,IBN,U,EG
 ,142,Dark_Systems_BBS,Peterborough_ON_CA,Aaron_Grasswell,Unpublished,9600,CM,ITN,INA:bbs.dsbbs.ca,IBN,U,RA
 ,143,Slate_Hell_BBS,Mooresburg_TN,Anthony_Stump,Unpublished,9600,CM,ITN,INA:msbgtn01.synchro.net,IBN,U,SC
+,144,Buckeye_Telegraph,Buckeye_AZ,Dean_Galloway,Unpublished,9600,CM,INA:mailer.buckeyetelegraph.net,IBN,U,DB
 ;S
 ;S
 ;S Mail Processing
