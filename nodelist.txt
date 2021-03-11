@@ -79,4 +79,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,141,Cortex,Evansville_IN_US,Tony_Toon,Unpublished,9600,CM,ITN,INA:deepthaw.net,IBN,U,EG
 ,142,Dark_Systems_BBS,Peterborough_ON_CA,Aaron_Grasswell,Unpublished,9600,CM,ITN,INA:bbs.dsbbs.ca,IBN,U,RA
 ,143,Slate_Hell_BBS,Mooresburg_TN,Anthony_Stump,Unpublished,9600,CM,ITN,INA:msbgtn01.synchro.net,IBN,U,SC
-,144,Buckeye_Telegraph,Buckeye_AZ,Dean_Galloway,Unpublished,9600,CM,ITN:,INA:,IBN,U,DB
+,144,Buckeye_Telegraph,Buckeye_AZ,Dean_Galloway,Unpublished,9600,CM,INA:mailer.buckeyetelegraph.net,IBN,U,DB
