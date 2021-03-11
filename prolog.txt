@@ -68,6 +68,7 @@
 ;S 02/22/2021 We now have our 54th node, Alistair Ross from Wellington, NZ
 ;S 03/03/2021 We now have our 55th node, Nick Young from London, UK
 ;S 03/09/2021 We now have our 56th node, Milan Minic from Prague, CZE
+;S 03/10/2021 We now have our 57th node, Dean Galloway from Buckeye, AZ, US
 ;S
 ;S Notice:
 ;S
