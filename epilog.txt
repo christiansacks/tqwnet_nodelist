@@ -37,6 +37,7 @@
 ;S    USL   Sauron Linux
 ;S    UTA   T.A.G. BBS 
 ;S    UTG   Telegard BBS 
+;S    UTM   Talisman
 ;S    UVA   Virtual Advanced BBS 
 ;S    UWC   WildCat!/WINServer
 ;S    UWW   WWIV
