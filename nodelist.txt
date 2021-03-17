@@ -78,5 +78,6 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,140,Rust_Belt_BBS,Rochester_NY_US,Kevin_Miller,Unpublished,9600,CM,ITN,INA:rbbbs.mtonetwork.com,IBN:24555,U,MY
 ,141,Cortex,Evansville_IN_US,Tony_Toon,Unpublished,9600,CM,ITN,INA:deepthaw.net,IBN,U,EG
 ,142,Dark_Systems_BBS,Peterborough_ON_CA,Aaron_Grasswell,Unpublished,9600,CM,ITN,INA:bbs.dsbbs.ca,IBN,U,RA
-,143,Slate_Hell_BBS,Mooresburg_TN,Anthony_Stump,Unpublished,9600,CM,ITN,INA:msbgtn01.synchro.net,IBN,U,SC
-,144,Buckeye_Telegraph,Buckeye_AZ,Dean_Galloway,Unpublished,9600,CM,INA:mailer.buckeyetelegraph.net,IBN,U,DB
+,143,Slate_Hell_BBS,Mooresburg_TN_US,Anthony_Stump,Unpublished,9600,CM,ITN,INA:msbgtn01.synchro.net,IBN,U,SC
+,144,Buckeye_Telegraph,Buckeye_AZ_US,Dean_Galloway,Unpublished,9600,CM,INA:mailer.buckeyetelegraph.net,IBN,U,DB
+,145,Ground_Control,Jacksonville_FL_US,Matthew_Blocker,Unpublished,9600,CM,ITN:2323,INA:gcbbs.duckdns.org,IBN,U,MY
