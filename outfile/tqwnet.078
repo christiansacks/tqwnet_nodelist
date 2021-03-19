@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, March 19, 2021 -- Day number 078 : 44992
+;A  Nodelist for Friday, March 19, 2021 -- Day number 078 : 50286
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -73,6 +73,7 @@
 ;S 03/09/2021 We now have our 56th node, Milan Minic from Prague, CZE
 ;S 03/10/2021 We now have our 57th node, Dean Galloway from Buckeye, AZ, US
 ;S 03/17/2021 We now have our 58th node, Matthew Blocker from Jacksonville, FL, US
+;S 03/19/2021 We now have our 59th node, Ross Branham from Tonawanda, NY, US
 ;S
 ;S Notice:
 ;S
@@ -153,6 +154,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,143,Slate_Hell_BBS,Mooresburg_TN_US,Anthony_Stump,Unpublished,9600,CM,ITN,INA:msbgtn01.synchro.net,IBN,U,SC
 ,144,Buckeye_Telegraph,Buckeye_AZ_US,Dean_Galloway,Unpublished,9600,CM,INA:mailer.buckeyetelegraph.net,IBN,U,DB
 ,145,Ground_Control,Jacksonville_FL_US,Matthew_Blocker,Unpublished,9600,CM,ITN:2323,INA:gcbbs.duckdns.org,IBN,U,MY
+,146,Lunatics_Unleashed,Tonawanda_NY,Ross_Branham,Unpublished,9600,CM,ITN,INA:lunaticsunleashed.ddns.net,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
