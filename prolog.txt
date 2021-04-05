@@ -71,6 +71,7 @@
 ;S 03/10/2021 We now have our 57th node, Dean Galloway from Buckeye, AZ, US
 ;S 03/17/2021 We now have our 58th node, Matthew Blocker from Jacksonville, FL, US
 ;S 03/19/2021 We now have our 59th node, Ross Branham from Tonawanda, NY, US
+;S 04/05/2021 We now have our 60th node, Todd Zieman from Perrysburg, OH, US
 ;S
 ;S Notice:
 ;S

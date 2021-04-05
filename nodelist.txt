@@ -82,3 +82,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,144,Buckeye_Telegraph,Buckeye_AZ_US,Dean_Galloway,Unpublished,9600,CM,INA:mailer.buckeyetelegraph.net,IBN,U,DB
 ,145,Ground_Control,Jacksonville_FL_US,Matthew_Blocker,Unpublished,9600,CM,ITN:2323,INA:gcbbs.duckdns.org,IBN,U,MY
 ,146,Lunatics_Unleashed,Tonawanda_NY,Ross_Branham,Unpublished,9600,CM,ITN,INA:lunaticsunleashed.ddns.net,IBN,U,MY
+,147,Error_404_BBS,Perrysburg_Ohio,Todd_Zieman,Unpublished,9600,CM,ITN:404,INA:error404bbs.ddns.net,IBN,U,MY
