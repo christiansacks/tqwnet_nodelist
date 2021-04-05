@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, April 9, 2021 -- Day number 099 : 11800
+;A  Nodelist for Friday, April 9, 2021 -- Day number 099 : 26715
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -75,6 +75,7 @@
 ;S 03/17/2021 We now have our 58th node, Matthew Blocker from Jacksonville, FL, US
 ;S 03/19/2021 We now have our 59th node, Ross Branham from Tonawanda, NY, US
 ;S 04/05/2021 We now have our 60th node, Todd Zieman from Perrysburg, OH, US
+;S 04/05/2021 We now have our 61st node, Michael Schaffer from Chicago, IL, US
 ;S
 ;S Notice:
 ;S
@@ -157,6 +158,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,145,Ground_Control,Jacksonville_FL_US,Matthew_Blocker,Unpublished,9600,CM,ITN:2323,INA:gcbbs.duckdns.org,IBN,U,MY
 ,146,Lunatics_Unleashed,Tonawanda_NY,Ross_Branham,Unpublished,9600,CM,ITN,INA:lunaticsunleashed.ddns.net,IBN,U,MY
 ,147,Error_404_BBS,Perrysburg_Ohio,Todd_Zieman,Unpublished,9600,CM,ITN:404,INA:error404bbs.ddns.net,IBN,U,MY
+,148,Odyssey_BBS,Chicago_IL_US,Michael_Schaffer,Unpublished,9600,CM,ITN:8080,INA:odysseybbs.ddns.net,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
