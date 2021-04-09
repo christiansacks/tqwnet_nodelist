@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, April 9, 2021 -- Day number 099 : 26715
+;A  Nodelist for Friday, April 9, 2021 -- Day number 099 : 31172
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -76,6 +76,7 @@
 ;S 03/19/2021 We now have our 59th node, Ross Branham from Tonawanda, NY, US
 ;S 04/05/2021 We now have our 60th node, Todd Zieman from Perrysburg, OH, US
 ;S 04/05/2021 We now have our 61st node, Michael Schaffer from Chicago, IL, US
+;S 04/09/2021 We now have our 62nd node, Daniel Path from Budapest, HU
 ;S
 ;S Notice:
 ;S
@@ -99,6 +100,7 @@ Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,
 ,108,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,Unpublished,9600,CM,ITN,INA:box.imzadi.de,IBN,U,SC
 ,110,TFSI,London_UK,Nick_Young,Unpublished,9600,CM,ITN,INA:tfsi.synchronetbbs.org,IBN,U,SC
 ,111,BeBeeS,Prague_CZE,Milan_Minic,Unpublished,9600,CM,ITN:1234,INA:gopher.su,IBN,U,EG
+,112,Roon's_BBS,Budapest_Hungary,Daniel_Path,Unpublished,9600,CM,ITN:1212,INA:bbs.studio64.hu,IBN,U,MX
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 ;
