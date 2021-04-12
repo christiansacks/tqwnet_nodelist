@@ -74,6 +74,7 @@
 ;S 04/05/2021 We now have our 60th node, Todd Zieman from Perrysburg, OH, US
 ;S 04/05/2021 We now have our 61st node, Michael Schaffer from Chicago, IL, US
 ;S 04/09/2021 We now have our 62nd node, Daniel Path from Budapest, HU
+;S 04/12/2021 We now have our 63rd node, Kostie Muirhead from Calgary, AB, CA
 ;S
 ;S Notice:
 ;S
