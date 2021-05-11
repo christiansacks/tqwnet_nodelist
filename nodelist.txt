@@ -38,7 +38,6 @@ Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au
 ,104,Als_Geek_Lab,Wellington_NZ,Alistair_Ross,Unpublished,9600,CM,ITN:2323,INA:bbs.alsgeeklab.com,IBN,U,MY
 Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
 Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
-,101,The_Rusty_MailBox,Penticton_BC_CA,Alan_Ianson,Unpublished,9600,CM,INA:trmb.ca,IBN,U,BB
 ,102,The_Wrong_Number_][,Yorktown_Heights_NY_US,Al_DeRosa,Unpublished,9600,CM,INA:wn2.duckdns.org,IBN,U,MY
 ,103,Capitol_City_Online,Frankfort_KY_US,Mike_Powell,Unpublished,9600,CM,INA:capitolcityonline.net,IBN,U,SC
 ,104,CIA_Amiga_BBS,Mayflower_AR_US,Tim_Grooms,Unpublished,9600,CM,INA:ciaamigabbs.dynu.net,IBN,U,ZE
