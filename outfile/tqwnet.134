@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, May 14, 2021 -- Day number 134 : 46025
+;A  Nodelist for Friday, May 14, 2021 -- Day number 134 : 43114
 ;A  Copyright 2018-2020, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -79,6 +79,7 @@
 ;S 04/09/2021 We now have our 62nd node, Daniel Path from Budapest, HU
 ;S 04/12/2021 We now have our 63rd node, Kostie Muirhead from Calgary, AB, CA
 ;S 04/29/2021 We now have our 64th node, Arjen Schumacher from Rotterdam, NL
+;S 05/14/2021 We now have our 65th node, Michael Mrak from Grossweikersdorf, Austria
 ;S
 ;S Notice:
 ;S
@@ -104,6 +105,7 @@ Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,
 ,111,BeBeeS,Prague_CZE,Milan_Minic,Unpublished,9600,CM,ITN:1234,INA:gopher.su,IBN,U,EG
 ,112,Roon's_BBS,Budapest_Hungary,Daniel_Path,Unpublished,9600,CM,ITN:1212,INA:bbs.studio64.hu,IBN,U,MX
 ,113,Stealthworld_BBS,Rotterdam_NL,Arjen_Schumacher,Unpublished,9600,CM,ITN:2023,INA:stealthworld.tk,IBN,U,MY
+,114,Silent_Chat_BBS,Grossweikersdorf_Austria,Michael_Mrak,Unpublished,9600,CM,ITN,INA:fidobbs.mrak.at,IBN,U,SC
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 ;
