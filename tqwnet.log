@@ -5553,3 +5553,44 @@ d 03-Jun-2021 13:00:18 makenl[30310] os_spawn(): 'arc a /root/git/tqwnet_nodelis
 d 03-Jun-2021 13:00:18 makenl[30310] os_spawn(): system() rc=32512
 ? 03-Jun-2021 13:00:18 makenl[30310] Unable to create archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a55'
 ? 03-Jun-2021 13:00:18 makenl[30310] MakeNL finished (rc=253)
+
+- 03-Jun-2021 13:06:09 makenl[32726] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 03-Jun-2021 13:06:09 makenl[32726] MakeNL started
+d 03-Jun-2021 13:06:09 makenl[32726] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 03-Jun-2021 13:06:09 makenl[32726] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 03-Jun-2021 13:06:09 makenl[32726] os_fullpath(): dir='', name='', ext=''
+d 03-Jun-2021 13:06:09 makenl[32726] os_fullpath(): old directory='/root/git/tqwnet_nodelist'
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='(null)' dir='/root/git/tqwnet_nodelist' name='' ext=''
+d 03-Jun-2021 13:06:09 makenl[32726] os_fullpath(): complete filename: '/root/git/tqwnet_nodelist/'
+d 03-Jun-2021 13:06:09 makenl[32726] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/root/git/tqwnet_nodelist/'
+d 03-Jun-2021 13:06:09 makenl[32726] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+d 03-Jun-2021 13:06:09 makenl[32726] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 03-Jun-2021 13:06:09 makenl[32726] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 03-Jun-2021 13:06:09 makenl[32726] os_fullpath(): dir='.', name='outfile', ext=''
+d 03-Jun-2021 13:06:09 makenl[32726] os_fullpath(): old directory='/root/git/tqwnet_nodelist'
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='(null)' dir='/root/git/tqwnet_nodelist' name='outfile' ext=''
+d 03-Jun-2021 13:06:09 makenl[32726] os_fullpath(): complete filename: '/root/git/tqwnet_nodelist/outfile'
+d 03-Jun-2021 13:06:09 makenl[32726] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/root/git/tqwnet_nodelist/outfile'
+d 03-Jun-2021 13:06:09 makenl[32726] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40755
+? 03-Jun-2021 13:06:09 makenl[32726] WARNING -- No net NAME given for list header (use /N or NAME verb)
++ 03-Jun-2021 13:06:09 makenl[32726] Cmdline: makenl "-D" "nodelist.txt"
++ 03-Jun-2021 13:06:09 makenl[32726] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 03-Jun-2021 13:06:09 makenl[32726] Begin processing 'tqwnet.' -- 13:06, Thursday, June 3, 2021
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='(null)' dir='/root/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='(null)'
+d 03-Jun-2021 13:06:09 makenl[32726] main(): shouldprocess /root/git/tqwnet_nodelist/outfile/tqwnet.
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='' dir='/root/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='(null)' dir='/root/git/tqwnet_nodelist/' name='cpyright.txt' ext='(null)'
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='(null)' dir='/root/git/tqwnet_nodelist/' name='prolog.txt' ext='(null)'
+d 03-Jun-2021 13:06:09 makenl[32726] CloseMSGFile: status=0
+d 03-Jun-2021 13:06:09 makenl[32726] CloseMSGFile: MSGnum=0
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='(null)' dir='/root/git/tqwnet_nodelist/' name='epilog.txt' ext='(null)'
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='(null)' dir='/root/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='155'
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='' dir='/root/git/tqwnet_nodelist/outfile' name='tqwnet' ext='$$$'
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='(null)' dir='/root/git/tqwnet_nodelist/outfile' name='tqwnet.' ext='106'
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='' dir='/root/git/tqwnet_nodelist/outfile' name='tqwnet' ext='148'
+d 03-Jun-2021 13:06:09 makenl[32726] myfnmerge: drive='(null)' dir='/root/git/tqwnet_nodelist/outfile' name='tqwnet' ext='a55'
++ 03-Jun-2021 13:06:09 makenl[32726] Creating archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a55' containing '/root/git/tqwnet_nodelist/outfile/tqwnet.155'
+d 03-Jun-2021 13:06:09 makenl[32726] os_spawn(): 'arc a /root/git/tqwnet_nodelist/outfile/tqwnet.a55 /root/git/tqwnet_nodelist/outfile/tqwnet.155'
+d 03-Jun-2021 13:06:09 makenl[32726] os_spawn(): system() rc=32512
+? 03-Jun-2021 13:06:09 makenl[32726] Unable to create archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a55'
+? 03-Jun-2021 13:06:09 makenl[32726] MakeNL finished (rc=253)
