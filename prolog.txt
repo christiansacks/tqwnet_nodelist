@@ -78,6 +78,7 @@
 ;S 04/29/2021 We now have our 64th node, Arjen Schumacher from Rotterdam, NL
 ;S 05/14/2021 We now have our 65th node, Michael Mrak from Grossweikersdorf, Austria
 ;S 05/18/2021 We now have our 66th node, Craig Hendricks from Canton, OH, US
+;S 06/03/2021 We now have our 67th node, Steve Weinert from Whitelaw, WI, US
 ;S
 ;S Notice:
 ;S
