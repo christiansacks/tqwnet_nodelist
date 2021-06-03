@@ -77,6 +77,7 @@
 ;S 04/12/2021 We now have our 63rd node, Kostie Muirhead from Calgary, AB, CA
 ;S 04/29/2021 We now have our 64th node, Arjen Schumacher from Rotterdam, NL
 ;S 05/14/2021 We now have our 65th node, Michael Mrak from Grossweikersdorf, Austria
+;S 05/18/2021 We now have our 66th node, Craig Hendricks from Canton, OH, US
 ;S
 ;S Notice:
 ;S
