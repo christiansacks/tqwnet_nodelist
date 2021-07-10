@@ -89,3 +89,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,149,The_Undermine,Calgary_AB_CA,Kostie_Muirhead,Unpublished,9600,CM,ITN,INA:bbs.undermine.ca,IBN,U,SC
 ,150,ConstructiveChaos_BBS,Canton_OH_US,Craig_Hendricks,Unpublished,9600,CM,ITN,INA:conchaos.synchro.net,IBN,U,SC
 ,151,Spot_BBS,Whitelaw_WI_US,Steve_Weinert,Unpublished,9600,CM,ITN:1123,INA:spotbbs.k9zw.com,IBN,U,MY
+,152,Shipwrecks_&_Shibboleths,San_Francisco_CA_US,Chris_Hizny,Unpublished,9600,CM,ITN:800,INA:shibboleths.org,IBN,U,MY
