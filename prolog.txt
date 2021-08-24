@@ -82,6 +82,7 @@
 ;S 07/10/2021 We now have our 68th node, Chris Hizny from San Francisco, CA, US
 ;S 08/02/2021 We now have our 69th node, Mike Edwards from Reno County, KS, US
 ;S 08/18/2021 We now have our 70th node, Kevin Blalock from San Antonio, TX, US
+;S 08/24/2021 We now have our 71st node, Fang Castro from Sacramento, CA, US
 ;S
 ;S Notice:
 ;S

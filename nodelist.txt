@@ -92,3 +92,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,152,Shipwrecks_&_Shibboleths,San_Francisco_CA_US,Chris_Hizny,Unpublished,9600,CM,ITN:800,INA:shibboleths.org,IBN,U,MY
 ,153,Crewmate's_Test_Lab,Reno_County_KS_US,Mike_Edwards,Unpublished,9600,CM,ITN:7357,INA:ctl.crewmate.tech,IBN,U,MY
 ,154,pLANET_cARAVAN_BBS,San_Antonio_TX_US,Kevin_Blalock,Unpublished,9600,CM,ITN,INA:lab.zylone.org,IBN,U,MY
+,155,Nightvault,Sacramento_CA_US,Fang_Castro,Unpublished,9600,CM,ITN:2323,INA:tos.synchronetbbs.org,IBN,U,MY
