@@ -1,2 +1,2 @@
 # tqwnet_nodelist
-tqwNet nodelists
+tqwNet nodelists & compile script
