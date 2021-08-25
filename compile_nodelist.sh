@@ -30,7 +30,7 @@ git pull
 echo "Compiling nodelist..."
 makenl -d nodelist.txt >/dev/null
 
-absfile=$(ls -rt outfile/* | tail -1)
+absfile=$(ls -rt outfile/tqwnet.[0-9]*|tail -1)
 file=$(echo $(basename $absfile))
 ext=$(echo $file | awk -F. '{ print $2 }') 
 newext="z${ext:1:2}" 

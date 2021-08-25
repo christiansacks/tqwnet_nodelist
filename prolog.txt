@@ -83,6 +83,7 @@
 ;S 08/02/2021 We now have our 69th node, Mike Edwards from Reno County, KS, US
 ;S 08/18/2021 We now have our 70th node, Kevin Blalock from San Antonio, TX, US
 ;S 08/24/2021 We now have our 71st node, Fang Castro from Sacramento, CA, US
+;S 08/25/2021 We now have our 72nd node, Richard Miles from Temple, GA, US
 ;S
 ;S Notice:
 ;S
