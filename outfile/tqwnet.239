@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, August 27, 2021 -- Day number 239 : 46845
+;A  Nodelist for Friday, August 27, 2021 -- Day number 239 : 60990
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -87,6 +87,7 @@
 ;S 08/18/2021 We now have our 70th node, Kevin Blalock from San Antonio, TX, US
 ;S 08/24/2021 We now have our 71st node, Fang Castro from Sacramento, CA, US
 ;S 08/25/2021 We now have our 72nd node, Richard Miles from Temple, GA, US
+;S 08/26/2021 We now have our 73rd node, JaXson from Westfield, IN, US
 ;S
 ;S Notice:
 ;S
@@ -180,6 +181,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,154,pLANET_cARAVAN_BBS,San_Antonio_TX_US,Kevin_Blalock,Unpublished,9600,CM,ITN,INA:lab.zylone.org,IBN,U,MY
 ,155,Nightvault,Sacramento_CA_US,Fang_Castro,Unpublished,9600,CM,ITN:2323,INA:tos.synchronetbbs.org,IBN,U,MY
 ,156,Shadowscope,Temple_GA_US,Richard_Miles,Unpublished,9600,CM,ITN,INA:bbs.shadowscope.com,IBN,U,MY
+,157,The_Ruins,Westfield_IN_US,JaXson,Unpublished,9600,CM,ITN:9707,INA:theruins.ddns.net,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
