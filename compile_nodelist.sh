@@ -7,7 +7,7 @@ IPACKDIR="/root/git/tqwnet_infopack"
 WORKDIR="${1:-$IWORKDIR}"
 PACKDIR="${2:-$IPACKDIR}"
 
-COMMIT="$(date "+%Y-%m-%d %H:%M:%S")"
+COMMIT="Post compile auto-commit: $(date "+%Y-%m-%d %H:%M:%S")"
 
 ISOK=false
 
