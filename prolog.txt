@@ -86,6 +86,7 @@
 ;S 08/25/2021 We now have our 72nd node, Richard Miles from Temple, GA, US
 ;S 08/26/2021 We now have our 73rd node, JaXson from Westfield, IN, US
 ;S 08/31/2021 We now have our 74th node, Luke Galutia from Oklahoma City, OK, US
+;S 09/20/2021 We now have our 75th node, Wayne Smith from Orlando, FL, US
 ;S
 ;S Notice:
 ;S
