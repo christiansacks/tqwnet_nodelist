@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, September 24, 2021 -- Day number 267 : 26733
+;A  Nodelist for Friday, October 29, 2021 -- Day number 302 : 38704
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -90,6 +90,8 @@
 ;S 08/26/2021 We now have our 73rd node, JaXson from Westfield, IN, US
 ;S 08/31/2021 We now have our 74th node, Luke Galutia from Oklahoma City, OK, US
 ;S 09/20/2021 We now have our 75th node, Wayne Smith from Orlando, FL, US
+;S 10/18/2021 We now have our 76th node, Mark Iezzi from Warminster, PA, US
+;S 10/26/2021 We now have our 77th node, Hung Tran from Melbourne, AU
 ;S
 ;S Notice:
 ;S
@@ -125,6 +127,7 @@ Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au
 ,102,HappyLand_v2.0,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:happyland.zapto.org,IBN:24555,U,TM
 ,103,Freeway_BBS,Bendigo_VIC_AU,Tony_Langdon,Unpublished,9600,CM,ITN,INA:freeway.vkradio.com,IBN:24554,U,SC
 ,104,Als_Geek_Lab,Wellington_NZ,Alistair_Ross,Unpublished,9600,CM,ITN:2323,INA:bbs.alsgeeklab.com,IBN,U,MY
+,105,Wicked_Garden_BBS,Melbourne_AU,Hung_Tran,Unpublished,9600,CM,ITN,INA:bbs.wgonline.pw,IBN:24554,U,MY
 ;
 Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
 Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
@@ -186,6 +189,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,157,The_Ruins,Westfield_IN_US,JaXson,Unpublished,9600,CM,ITN:9707,INA:theruins.ddns.net,IBN,U,MY
 ,158,Hive32,Oklahoma_City_OK_US,Luke_galutia,Unpublished,9600,CM,ITN:23333,INA:bbs.hive32.com,IBN,U,MY
 ,159,Archaic_Binary,Orlando_FL_US,Wayne_Smith,Unpublished,9600,CM,ITN,INA:bbs.archaicbinary.net,IBN,U,MY
+,160,Battlestar_Pegasus,Warminster_PA_US,Mark_Iezzi,Unpublished,9600,CM,ITN,INA:pegasusbbs.dyndns.org,IBN:24557,U,MY
 ;S
 ;S
 ;S Mail Processing
