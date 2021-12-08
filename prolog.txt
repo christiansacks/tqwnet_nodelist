@@ -89,6 +89,7 @@
 ;S 09/20/2021 We now have our 75th node, Wayne Smith from Orlando, FL, US
 ;S 10/18/2021 We now have our 76th node, Mark Iezzi from Warminster, PA, US
 ;S 10/26/2021 We now have our 77th node, Hung Tran from Melbourne, AU
+;S 12/08/2021 We now have our 78th node, Tobias Resenqvist from Sweden
 ;S
 ;S Notice:
 ;S
