@@ -101,4 +101,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,158,Hive32,Oklahoma_City_OK_US,Luke_galutia,Unpublished,9600,CM,ITN:23333,INA:bbs.hive32.com,IBN,U,MY
 ,159,Archaic_Binary,Orlando_FL_US,Wayne_Smith,Unpublished,9600,CM,ITN,INA:bbs.archaicbinary.net,IBN,U,MY
 ,160,Battlestar_Pegasus,Warminster_PA_US,Mark_Iezzi,Unpublished,9600,CM,ITN,INA:pegasusbbs.dyndns.org,IBN:24557,U,MY
-
+,161,Cheshire_Underground,Cheshire_CT_US,Jon_Martin,Unpublished,9600,CM,ITN:6502,INA:bbs.cheshirezine.com,IBN,U,MY
