@@ -93,6 +93,7 @@
 ;S 01/29/2022 We now have our 79th node, Robbert Langezaal from Amsterdam NL
 ;S 02/07/2022 We now have our 80th node, Jon Martin from Cheshire, CT, US
 ;S 03/28/2022 We now have our 81st node, Steve Layton from Portland, OR, US
+;S 04/16/2022 We now have our 82nd node, Jeff Earle from Woodstock, ON, CA
 ;S
 ;S Notice:
 ;S
