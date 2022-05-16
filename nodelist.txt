@@ -103,3 +103,5 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,161,Cheshire_Underground,Cheshire_CT_US,Jon_Martin,Unpublished,9600,CM,ITN:6502,INA:bbs.cheshirezine.com,IBN,U,MY
 ,162,Angstridden,Portland_OR_US,Steve_Layton,Unpublished,9600,CM,ITN:1337,INA:angstridden.net,IBN,U,MY
 ,163,Mystic_Realms,Woodstock_ON_CA,Jeff_Earle,Unpublished,9600,CM,ITN:11000,INA:mysticrealms.ddns.net,IBN,U,MY
+,164,Alcoholiday,Columbia_SC_US,Andrew_Haworth,Unpublished,9600,CM,ITN,INA:alco.bbs.io,IBN,U,MY
+,165,Blackfair's_Manor,Lancaster_PA_US,Keith_Cunningham,Unpublished,9600,CM,ITN,INA:blackf.synchro.net,IBN,U,MY
