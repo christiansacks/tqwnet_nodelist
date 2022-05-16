@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, April 1, 2022 -- Day number 091 : 27882
+;A  Nodelist for Friday, May 20, 2022 -- Day number 140 : 52020
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -96,6 +96,9 @@
 ;S 01/29/2022 We now have our 79th node, Robbert Langezaal from Amsterdam NL
 ;S 02/07/2022 We now have our 80th node, Jon Martin from Cheshire, CT, US
 ;S 03/28/2022 We now have our 81st node, Steve Layton from Portland, OR, US
+;S 04/16/2022 We now have our 82nd node, Jeff Earle from Woodstock, ON, CA
+;S 05/16/2022 We now have our 83rd node, Andrew Haworth from Columbia, SC, US
+;S 05/16/2022 We now have our 84th node, Keith Cunningham from Lancaster, PA, US
 ;S
 ;S Notice:
 ;S
@@ -197,6 +200,9 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,160,Battlestar_Pegasus,Warminster_PA_US,Mark_Iezzi,Unpublished,9600,CM,ITN,INA:pegasusbbs.dyndns.org,IBN:24557,U,MY
 ,161,Cheshire_Underground,Cheshire_CT_US,Jon_Martin,Unpublished,9600,CM,ITN:6502,INA:bbs.cheshirezine.com,IBN,U,MY
 ,162,Angstridden,Portland_OR_US,Steve_Layton,Unpublished,9600,CM,ITN:1337,INA:angstridden.net,IBN,U,MY
+,163,Mystic_Realms,Woodstock_ON_CA,Jeff_Earle,Unpublished,9600,CM,ITN:11000,INA:mysticrealms.ddns.net,IBN,U,MY
+,164,Alcoholiday,Columbia_SC_US,Andrew_Haworth,Unpublished,9600,CM,ITN,INA:alco.bbs.io,IBN,U,MY
+,165,Blackfair's_Manor,Lancaster_PA_US,Keith_Cunningham,Unpublished,9600,CM,ITN,INA:blackf.synchro.net,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
