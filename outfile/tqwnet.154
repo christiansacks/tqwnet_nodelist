@@ -1,0 +1,261 @@
+;A  Nodelist for Friday, June 3, 2022 -- Day number 154 : 50893
+;A  Copyright 2018-2118, tqwNet, All rights reserved
+;A
+;S 08/26/2018 tqwNet is born!
+;S 08/26/2018 All nodes are required to have Cram-MD5 ON! Nodes before this date can keep current settings.
+;S 08/26/2018 All nodes will be auto-subscribed to all message echos!
+;S 08/26/2018 We now have our  2nd node, Alan Ianson from Penticton, BC Canada
+;S 09/15/2018 We now have our  3rd node, Deon George from Parkdale, VIC Australia
+;S 09/19/2018 We now have our  4th node, Al DeRosa from Yorktown Heights, NY, US
+;S 09/21/2018 We now have our  5th node, Mike Powell from Frankfort, KY, US
+;S 09/26/2018 We now have our  6th node, Tim Grooms from Mayflower, AR, US
+;S 09/30/2018 We now have our  7th node, Mark Iezzi from Warminster, PA, US
+;S 11/07/2018 We now have our  8th node, Andrew Pamment from Toowoomba, QLD Australia
+;S 11/16/2018 We now have our  9th node, Dave Cloutier from Quebec City, CA
+;S 02/27/2019 We now have our 10th node, Carlos Roldan from New Bedford, MA, US
+;S 03/16/2019 We now have our 11th node, Tony Langdon from Bendigo, VIC Australia
+;S 05/07/2019 Modified Nodelist to use ZeroTier addressing only for the hubs in anticipation of switching to use just zt
+;S 05/07/2019 Modified The Fat Sandwich to new host address of sandwich.magickabbs.com
+;S 05/09/2019 Delegated zt.erb.pw subdomain to a different set of DNS servers to make life easier with adding/updating hosts
+;S 05/09/2019 Changed hostnames for the hubs to match the new DNS delegation
+;S 05/18/2019 We now have our 12th node, Ernest J Gainey III from Alden, NY, US
+;S 05/19/2019 We now have our 13th node, Matthew Smith from Toronto, ON, CA
+;S 05/21/2019 We now have our 14th node, Philipp Giebel from Frankfurt, DE
+;S 05/23/2019 We now have our 15th node, Rex Gibson from ON, CA
+;S 06/01/2019 We now have our 16th node, Dan Richter from Rio Rancho, NM, US
+;S 06/06/2019 We now have our 17th node, Mickey Frklic from Fountain Valley, CA, US
+;S 06/09/2019 Modified Fat Sandwich on node 1337:2/102 to Happyland - happyland.magickabbs.com
+;S 06/18/2019 We now have our 18th node, Jon Justvig from ICT, KS, US
+;S 07/30/2019 We now have our 19th node, Matthew Anderson from Redondo Beach, CA, US
+;S 07/30/2019 Modified Happyland on node 1337:2/102 to Nocturnal - nocturnal.hopto.org
+;S 08/08/2019 We now have our 20th node, Marty Taylor from Cincinnati, OH, US
+;S 08/28/2019 I have started to play with MakeNL, and this nodelist is made with it. Any issues please let me know.
+;S 10/12/2019 We now have our 21st node, Bradley Thornton from Los Angeles, CA, US
+;S 11/06/2019 We now have our 22nd node, Ktulu from Insane Asylum. This node is private.
+;S 11/14/2019 We now have our 23rd node, Mike Da Costa from Toronto, ON, CA
+;S 11/15/2019 We now have our 24th node, Henk Blanken from Ouwerkerk, NL
+;S 12/20/2019 We now have our 25th node, Timothy Blada from Albuquerque, NM, US
+;S 12/29/2019 We now have our 26th node, Will Milberger from Kurten, TX, US
+;S 03/15/2020 Starting to add ZeroTier node ID's to the nodelist
+;S 03/15/2020 Added Castle Rock's ZeroTier node ID 378a36b4b6
+;S 03/15/2020 Added Hub AU and Chinwag's ZeroTier node ID eef014f861
+;S 03/27/2020 We now have our 27th node, Luc McGarragher from Montreal,Quebec,CA
+;S 03/31/2020 We now have our 28th node, Hauns Froehlingsdorf from San Jose, CA, US
+;S 04/13/2020 We now have our 29th node, Robbie Whiting (Alpha) from Berkeley, CA, US
+;S 04/26/2020 We now have our 30th node, Jesse Cussins (Lux) from Rohnert Park, CA, US
+;S 05/08/2020 We now have our 31st node, Jay Harris from Binbrook, ON, CA
+;S 05/27/2020 We now have our 32nd node, Mike McCafferty from Oshawa, ON, CA
+;S 06/16/2020 We now have our 33rd node, Jeff Liford from Washington, DC, US
+;S 07/21/2020 We now have our 34th node, Paul Lee from Portland, OR, US
+;S 07/21/2020 We now have our 35th node, Dean Lodge from Omaha, NE, US
+;S 07/22/2020 We now have our 36th node, Karl Harris from San Antonio, TX, US
+;S 08/20/2020 We now have our 37th node, Doug Cooper from Carmel, IN, US
+;S 08/20/2020 We now have our 38th node, Stephan Gebbers from Potsdam, DE
+;S 08/21/2020 We now have our 39th node, Runner Seven from Somewhere, DE
+;S 08/21/2020 Changed the domain for pwecks retreat to pwecksretreat.com
+;S 09/01/2020 We now have our 40th node, Marco Reparon from Zoetermeer, NL. This node is private
+;S 09/20/2020 We now have our 41st node, Louis Northmore from Beverley, UK
+;S 09/20/2020 We now have our 42nd node, Nikki Jenks from Erlanger, KY, US
+;S 09/21/2020 We now have our 43rd node, Greg Youngblood from Inverness, FL, US
+;S 09/29/2020 Changed Card & Claw to The Drunken Gamer
+;S 10/23/2020 We now have our 44th node, Morgan Collins from San Francisco, CA, US
+;S 10/27/2020 We now have our 45th node, Michael Long from Charlotte, NC, US
+;S 11/03/2020 We now have our 46th node, Another Greg Youngblood production: The Ghetto BBS
+;S 11/03/2020 We now have our 47th node, Mark De Silva from Toronto, ON, CA
+;S 11/15/2020 We nod have our 48th node, Steve Wolf from Queens, NY, US
+;S 11/27/2020 We now have our 49th node, Kevin Miller from Rochester, NY, US
+;S 11/28/2020 We now have our 50th node, Tony Toon from Evansville, IN, US
+;S 12/15/2020 We now have our 51st node, Anna Christina Nass from Karlsruhe, Germany
+;S 01/30/2021 We now have our 52nd node, Aaron Grasswell from Peterborough, ON, CA
+;S 02/13/2021 We now have our 53rd node, Anthony Stump from Mooresburg, TN, US
+;S 02/22/2021 We now have our 54th node, Alistair Ross from Wellington, NZ
+;S 03/03/2021 We now have our 55th node, Nick Young from London, UK
+;S 03/09/2021 We now have our 56th node, Milan Minic from Prague, CZE
+;S 03/10/2021 We now have our 57th node, Dean Galloway from Buckeye, AZ, US
+;S 03/17/2021 We now have our 58th node, Matthew Blocker from Jacksonville, FL, US
+;S 03/19/2021 We now have our 59th node, Ross Branham from Tonawanda, NY, US
+;S 04/05/2021 We now have our 60th node, Todd Zieman from Perrysburg, OH, US
+;S 04/05/2021 We now have our 61st node, Michael Schaffer from Chicago, IL, US
+;S 04/09/2021 We now have our 62nd node, Daniel Path from Budapest, HU
+;S 04/12/2021 We now have our 63rd node, Kostie Muirhead from Calgary, AB, CA
+;S 04/29/2021 We now have our 64th node, Arjen Schumacher from Rotterdam, NL
+;S 05/14/2021 We now have our 65th node, Michael Mrak from Grossweikersdorf, Austria
+;S 05/18/2021 We now have our 66th node, Craig Hendricks from Canton, OH, US
+;S 06/03/2021 We now have our 67th node, Steve Weinert from Whitelaw, WI, US
+;S 07/10/2021 We now have our 68th node, Chris Hizny from San Francisco, CA, US
+;S 08/02/2021 We now have our 69th node, Mike Edwards from Reno County, KS, US
+;S 08/18/2021 We now have our 70th node, Kevin Blalock from San Antonio, TX, US
+;S 08/24/2021 We now have our 71st node, Fang Castro from Sacramento, CA, US
+;S 08/25/2021 We now have our 72nd node, Richard Miles from Temple, GA, US
+;S 08/26/2021 We now have our 73rd node, JaXson from Westfield, IN, US
+;S 08/31/2021 We now have our 74th node, Luke Galutia from Oklahoma City, OK, US
+;S 09/20/2021 We now have our 75th node, Wayne Smith from Orlando, FL, US
+;S 10/18/2021 We now have our 76th node, Mark Iezzi from Warminster, PA, US
+;S 10/26/2021 We now have our 77th node, Hung Tran from Melbourne, AU
+;S 12/08/2021 We now have our 78th node, Tobias Resenqvist from Sweden
+;S 01/29/2022 We now have our 79th node, Robbert Langezaal from Amsterdam NL
+;S 02/07/2022 We now have our 80th node, Jon Martin from Cheshire, CT, US
+;S 03/28/2022 We now have our 81st node, Steve Layton from Portland, OR, US
+;S 04/16/2022 We now have our 82nd node, Jeff Earle from Woodstock, ON, CA
+;S 05/16/2022 We now have our 83rd node, Andrew Haworth from Columbia, SC, US
+;S 05/16/2022 We now have our 84th node, Keith Cunningham from Lancaster, PA, US
+;S 05/18/2022 We now have our 85th node, Brian Klauss from Denver, CO, US
+;S 05/23/2022 We now have our 86th node, The Positronic Brain, from Toowoomba, QLD, AU
+;S
+;S Notice:
+;S
+;S You may modify this nodelist for your own private use; however, you may not
+;S redistribute it after any changes have been made.
+;S
+;
+Zone,1337,tqwNet_ZC_WHQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN,INA:hub.uk.zt.erb.pw,IBN:24556,U,MY
+;
+Region,1337,tqwNet_RC_WHQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk.zt.erb.pw,IBN:24556,U,MY
+;
+Host,1,tqwNet_R1_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk.zt.erb.pw,IBN:24556,U,MY
+Hub,100,tqwNet_UK_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk.zt.erb.pw,IBN:24556,U,MY
+,101,The_Quantum_Wormhole,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN,INA:bbs.erb.pw,IBN,U,MY,ZT:886642e222
+,102,Kuehlbox,Frankfurt_DE,Philipp_Giebel,Unpublished,9600,CM,ITN,INA:kuehlbox.wtf,IBN,U,MY
+,103,HB3NOS,Ouwerkerk_NL,Henk_Blanken,Unpublished,9600,CM,ITN,INA:62.238.86.72,IBN,U,MY
+,104,FuNToPia,Potsdam_DE,Stephan_Gebbers,Unpublished,9600,CM,ITN:2023,INA:funtopia.ddnss.eu,IBN,U,MG
+,105,TechNoir,Frankfurt_DE,Runner_Seven,Unpublished,9600,CM,ITN:723,INA:technoir.panthermodern.net,IBN,U,MY
+Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,CM,ITN,INA,IBN,U,MY
+,107,Sonic_BBS,Beverley_UK,Louis_Northmore,Unpublished,9600,CM,ITN,INA:bbs.sonicbbs.co.uk,IBN:24554,U,EG
+,108,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,Unpublished,9600,CM,ITN,INA:box.imzadi.de,IBN,U,SC
+,109,TheForze,Amsterdam_NLD,Robbert_Langezaal,Unpublished,9600,CM,ITN,INA:bbs.opicron.eu,IBN,U,MY
+,110,TFSI,London_UK,Nick_Young,Unpublished,9600,CM,ITN,INA:tfsi.synchronetbbs.org,IBN,U,SC
+,111,BeBeeS,Prague_CZE,Milan_Minic,Unpublished,9600,CM,ITN:1234,INA:gopher.su,IBN,U,EG
+,112,Roon's_BBS,Budapest_Hungary,Daniel_Path,Unpublished,9600,CM,ITN:1212,INA:bbs.studio64.hu,IBN,U,MX
+,113,Stealthworld_BBS,Rotterdam_NL,Arjen_Schumacher,Unpublished,9600,CM,ITN:2023,INA:stealthworld.tk,IBN,U,MY
+,114,Silent_Chat_BBS,Grossweikersdorf_AT,Michael_Mrak,Unpublished,9600,CM,ITN,INA:fidobbs.mrak.at,IBN,U,SC
+,115,BodaX_BBS,Sweden,Tobias_Rosenqvist,Unpublished,9600,CM,ITN,INA:bbs.beardy.se,IBN,U,EG
+,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
+,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
+;
+Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
+Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC,ZT:eef014f861
+,101,Chinwag,Parkdale_VIC_AU,Deon_George,Unpublished,9600,CM,ITN:10023,INA:chinwag.leenooks.net,IBN:24554,U,MY,ZT:eef014f861
+,102,HappyLand_v2.0,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:happyland.zapto.org,IBN:24555,U,TM
+,103,Freeway_BBS,Bendigo_VIC_AU,Tony_Langdon,Unpublished,9600,CM,ITN,INA:freeway.vkradio.com,IBN:24554,U,SC
+,104,Als_Geek_Lab,Wellington_NZ,Alistair_Ross,Unpublished,9600,CM,ITN:2323,INA:bbs.alsgeeklab.com,IBN,U,MY
+,105,The_Positronic_Brain,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:positronic.ddns.net,IBN,U,SC
+;
+Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
+Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
+,102,The_Wrong_Number_][,Yorktown_Heights_NY_US,Al_DeRosa,Unpublished,9600,CM,INA:wn2.duckdns.org,IBN,U,MY
+,103,Capitol_City_Online,Frankfort_KY_US,Mike_Powell,Unpublished,9600,CM,INA:capitolcityonline.net,IBN,U,SC
+,104,CIA_Amiga_BBS,Mayflower_AR_US,Tim_Grooms,Unpublished,9600,CM,INA:ciaamigabbs.dynu.net,IBN,U,ZE
+,105,Battlestar_BBS,Warminster_PA_US,Mark_Iezzi,Unpublished,9600,CM,INA:battlestarbbs.dyndns.org,IBN,U,SC
+,106,The_Bottomless_Abyss_BBS,Quebec_City_CA,Dave_Cloutier,Unpublished,9600,CM,INA:bbs.bottomlessabyss.net,IBN,U,MY
+,107,Necronomicon_BBS,New_Bedford_MA_US,Carlos_Roldan,Unpublished,9600,CM,INA:necrobbs.strangled.net,IBN,U,MY
+,108,LostCause_Halfway_House_BBS,Alden_NY_US,Ernest_J_Gainey_III,Unpublished,9600,CM,ITN,INA:bbs.lostcause.house,IBN,U,MY
+,109,The_Fishingnet_BBS,Toronto_ON_CA,Matthew_Smith,Unpublished,9600,CM,ITN:7777,INA:fishingnet.phatstar.org,IBN:24554,U,MY
+,110,t3llnet,Somewhere_ON_CA,Rex_Gibson,Unpublished,9600,CM,ITN,INA:t311net.ddns.net,IBN:24554,U,MY
+,111,Castle_Rock_BBS,Rio_Rancho_NM_US,Dan_Richter,Unpublished,9600,CM,ITN,INA:bbs.castlerockbbs.com,IBN:24554,U,MY,ZT:378a36b4b6
+,112,Mystic_Island_BBS,Fountain_Valley_CA_US,Mickey_Frklic,Unpublished,9600,CM,ITN,INA:mysticisland.strangled.net,IBN:24554,U,MY
+,113,Raiders_Inc_BBS,Wichita_KS_US,Jon_Justvig,Unpublished,9600,CM,ITN,INA:vintagebbsing.com,IBN:24554,U,MY
+,114,Central_HeadQuarters_BBS,Redondo_Beach_CA_US,Matthew_Anderson,Unpublished,9600,CM,ITN:2023,INA:chq.ddns.net,IBN:24554,U,MY
+,115,Freeside_BBS,Cincinnati_OH_US,Marty_Taylor,Unpublished,9600,CM,ITN,INA:freeside.bbs.io,IBN:24554,U,MY
+,116,V'Ger_BBS,Los_Angeles_CA_US,Bradley_Thornton,Unpublished,9600,CM,ITN,INA:vger.cloud,IBN:24554,U,MY
+Pvt,117,Insane_Asylum,Racine_WI_US,Ktulu,-Unpublished-,9600,CM,ITN,INA,IBN,U,MY
+,118,Stellar_Darkness,Toronto_ON_CA,Mike_Da_Costa,Unpublished,9600,CM,ITN:2023,INA:stellardarkness.com,IBN:24554,U,MY
+,119,Deadbeatz_BBS,Albuquerque_NM_US,Timothy_Blada,Unpublished,9600,CM,ITN,INA:deadbeatz.org,IBN,U,MY
+,120,Dark_Matter_BBS,Kurten_TX_US,Will_Milberger,Unpublished,9600,CM,ITN,INA:darkmatt.synchro.net,IBN:24554,U,SC
+,121,SpaceSST_BBS,Montreal_Quebec_CA,Luc_McCarragher,Unpublished,9600,CM,ITN,INA:mccarragher.org,IBN:24554,U,MY
+,122,Dreambuilders,San_Jose_CA_US,Hauns_Froehlingsdorf,Unpublished,9600,CM,ITN:6800,INA:dreambuilders.fros.com,IBN,U,CN
+,123,The_Drunken_Gamer,Berkeley_CA_US,Robbie_Whiting,Unpublished,9600,CM,ITN:8888,INA:thedrunkengamer.com,IBN,U,MY
+Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,ITN,INA:retrocomputacion.ddns.net,IBN,U,MY
+,125,Physics,Rohnert_Park_CA_US,Jesse_Cussins,Unpublished,9600,CM,ITN,INA:bulletinboard.systems,IBN,U,RG
+,126,Northern_Realms,Binbrook_ON_CA,Jay_Harris,Unpublished,9600,CM,ITN,INA:bbs.nrbbs.net,IBN,U,MY
+,127,The_Unknown_Realm,Oshawa_ON_CA,Mike_McCafferty,Unpublished,9600,CM,ITN:3023,INA:turealm.no-ip.org,IBN,U,MY
+,128,1984_BBS,Washington_DC_US,Jeff_Liford,Unpublished,9600,CM,ITN,INA:1984bbs.net,IBN,U,MY
+,129,2o_fOr_beeRS_BBS,Portland_OR_US,Paul_Lee,Unpublished,9600,CM,ITN:1337,INA:20forbeers.com,IBN,U,MY
+,130,Pwecks_Retreat,Omaha_NE_US,Dean_Lodge,Unpublished,9600,CM,ITN,INA:pwecksretreat.com,IBN,U,MY
+,131,The_Search_BBS,San_Antonio_TX_US,Karl_Harris,Unpublished,9600,CM,ITN:34123,INA:bbs.theharrisclan.net,IBN,U,MY
+,132,The_Underground,Carmel_IN_US,Doug_Cooper,Unpublished,9600,CM,ITN:10023,INA:www.theunderground.us,IBN,U,MY
+,133,NeoCincinnati_BBS,Erlanger_KY_US,Nikki_Jenks,Unpublished,9600,CM,ITN:2323,INA:neocinci.bbs.io,IBN:24554,U,MY
+,134,Gray_Matter_BBS,Inverness_FL_US,Greg_Youngblood,Unpublished,9600,CM,ITN:2323,INA:graymatterbbs.com,IBN:24565,U,SC
+,135,Halls_of_Valhalla,San_Francisco_CA_US,Morgan_Collins,Unpublished,9600,CM,ITN:2333,INA:hovalbbs.com,IBN,U,SC
+,136,Inner_Realm_BBS,Charlotte_NC_US,Michael_Long,Unpublished,9600,CM,ITN,INA:innerrealmbbs.us,IBN,U,SC
+,137,The_Ghetto_BBS,Inverness_FL_US,Greg_Youngblood,Unpublished,9600,CM,ITN:2323,INA:theghettobbs.com,IBN:24570,U,RG
+,138,Point_Of_No_Return,Toronto_ON_CA,Mark_Da_Silva,Unpublished,9600,CM,ITN:2323,INA:pointofnoreturn.zapto.org,IBN,U,MY
+,139,Havens_BBS,Queens_NY_US,Steve_Wolf,Unpublished,9600,CM,ITN,INA:havens.synchro.net,IBN,U,SC
+,140,Rust_Belt_BBS,Rochester_NY_US,Kevin_Miller,Unpublished,9600,CM,ITN,INA:rbbbs.mtonetwork.com,IBN:24555,U,MY
+,141,Cortex,Evansville_IN_US,Tony_Toon,Unpublished,9600,CM,ITN,INA:deepthaw.net,IBN,U,EG
+,142,Dark_Systems_BBS,Peterborough_ON_CA,Aaron_Grasswell,Unpublished,9600,CM,ITN,INA:bbs.dsbbs.ca,IBN,U,RA
+,143,Slate_Hell_BBS,Mooresburg_TN_US,Anthony_Stump,Unpublished,9600,CM,ITN,INA:msbgtn01.synchro.net,IBN,U,SC
+,144,Buckeye_Telegraph,Buckeye_AZ_US,Dean_Galloway,Unpublished,9600,CM,INA:mailer.buckeyetelegraph.net,IBN,U,DB
+,145,Ground_Control,Jacksonville_FL_US,Matthew_Blocker,Unpublished,9600,CM,ITN:2323,INA:gcbbs.duckdns.org,IBN,U,MY
+,146,Lunatics_Unleashed,Tonawanda_NY,Ross_Branham,Unpublished,9600,CM,ITN,INA:lunaticsunleashed.ddns.net,IBN,U,MY
+,147,Error_404_BBS,Perrysburg_Ohio,Todd_Zieman,Unpublished,9600,CM,ITN:404,INA:error404bbs.ddns.net,IBN,U,MY
+,148,Odyssey_BBS,Chicago_IL_US,Michael_Schaffer,Unpublished,9600,CM,ITN:8080,INA:odysseybbs.ddns.net,IBN,U,MY
+,149,The_Undermine,Calgary_AB_CA,Kostie_Muirhead,Unpublished,9600,CM,ITN,INA:bbs.undermine.ca,IBN,U,SC
+,150,ConstructiveChaos_BBS,Canton_OH_US,Craig_Hendricks,Unpublished,9600,CM,ITN,INA:conchaos.synchro.net,IBN,U,SC
+,151,Spot_BBS,Whitelaw_WI_US,Steve_Weinert,Unpublished,9600,CM,ITN:1123,INA:spotbbs.k9zw.com,IBN,U,MY
+,152,Shipwrecks_&_Shibboleths,San_Francisco_CA_US,Chris_Hizny,Unpublished,9600,CM,ITN:800,INA:shibboleths.org,IBN,U,MY
+,153,Crewmate's_Test_Lab,Reno_County_KS_US,Mike_Edwards,Unpublished,9600,CM,ITN:7357,INA:ctl.crewmate.tech,IBN,U,MY
+,154,pLANET_cARAVAN_BBS,San_Antonio_TX_US,Kevin_Blalock,Unpublished,9600,CM,ITN,INA:lab.zylone.org,IBN,U,MY
+,155,Nightvault,Sacramento_CA_US,Fang_Castro,Unpublished,9600,CM,ITN:2323,INA:tos.synchronetbbs.org,IBN,U,MY
+,156,Shadowscope,Temple_GA_US,Richard_Miles,Unpublished,9600,CM,ITN,INA:bbs.shadowscope.com,IBN,U,MY
+,157,The_Ruins,Westfield_IN_US,JaXson,Unpublished,9600,CM,ITN:9707,INA:theruins.ddns.net,IBN,U,MY
+,158,Hive32,Oklahoma_City_OK_US,Luke_galutia,Unpublished,9600,CM,ITN:23333,INA:bbs.hive32.com,IBN,U,MY
+,159,Archaic_Binary,Orlando_FL_US,Wayne_Smith,Unpublished,9600,CM,ITN,INA:bbs.archaicbinary.net,IBN,U,MY
+,160,Battlestar_Pegasus,Warminster_PA_US,Mark_Iezzi,Unpublished,9600,CM,ITN,INA:pegasusbbs.dyndns.org,IBN:24557,U,MY
+,161,Cheshire_Underground,Cheshire_CT_US,Jon_Martin,Unpublished,9600,CM,ITN:6502,INA:bbs.cheshirezine.com,IBN,U,MY
+,162,Angstridden,Portland_OR_US,Steve_Layton,Unpublished,9600,CM,ITN:1337,INA:angstridden.net,IBN,U,MY
+,163,Mystic_Realms,Woodstock_ON_CA,Jeff_Earle,Unpublished,9600,CM,ITN:11000,INA:mysticrealms.ddns.net,IBN,U,MY
+,164,Alcoholiday,Columbia_SC_US,Andrew_Haworth,Unpublished,9600,CM,ITN,INA:alco.bbs.io,IBN,U,MY
+,165,Blackfair's_Manor,Lancaster_PA_US,Keith_Cunningham,Unpublished,9600,CM,ITN,INA:blackf.synchro.net,IBN,U,SC
+,166,42bytes,Denver_CO_US,Brian_Klauss,Unpublished,9600,CM,ITN,INA:42bytes.net,IBN,U,SC
+;S
+;S
+;S Mail Processing
+;S
+;S  CM    Continuous Mail.    Accepts mail 24 hours a day.
+;S  MO    Mail Only.          Mail calls only.
+;S  LO    Listed Only.        Accepts mail from systems in the nodelist only.
+;S  QWK   QWK-Mail.           Accepts QWK packets only.
+;S
+;S  IP flag   Explanation:port
+;S  -------   ----------------
+;S   IBN       binkp
+;S   ITN       telnet
+;S   IFT       ftp
+;S
+;S BBS SOFTWARE FLAGS:
+;S    Flag  Description
+;S    ----  -----------------------------
+;S    UBB   BBBS
+;S    UCN   Cnet Pro (Amiga)
+;S    UCU   Custom Made
+;S    UDD   DayDream BBS
+;S    UEL   EleBBS
+;S    UEG   Enigma BBS
+;S    UEZ   Ezycom BBS
+;S    UGT   GT Power
+;S    UMB   MBSE
+;S    UMG   Magicka BBS
+;S    UMX   Maximus CBCS
+;S    UMY   Mystic BBS
+;S    UPB   ProBoard
+;S    UPW   PowerBBS
+;S    URA   RemoteAccess BBS
+;S    URG   Renegade BBS
+;S    USA   Searchlight BBS
+;S    USC   Synchronet
+;S    USL   Sauron Linux
+;S    UTA   T.A.G. BBS
+;S    UTG   Telegard BBS
+;S    UTM   Talisman
+;S    UVA   Virtual Advanced BBS
+;S    UWC   WildCat!/WINServer
+;S    UWW   WWIV
+;S    UXE   x/84
+;S    UZE   Zeus
+;S
+;S
+;S ZeroTier node flags
+;S -------------------
+;S    ZT:<id> where <id> is the network ID for each node when you
+;S            run 'zerotier-cli status'
+
