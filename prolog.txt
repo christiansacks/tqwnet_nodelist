@@ -98,6 +98,7 @@
 ;S 05/16/2022 We now have our 84th node, Keith Cunningham from Lancaster, PA, US
 ;S 05/18/2022 We now have our 85th node, Brian Klauss from Denver, CO, US
 ;S 05/23/2022 We now have our 86th node, The Positronic Brain, from Toowoomba, QLD, AU
+;S 06/26/2022 Delisted node 1337:2/102 // HappyLand v2
 ;S
 ;S Notice:
 ;S
