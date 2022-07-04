@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, May 20, 2022 -- Day number 140 : 34898
+;A  Nodelist for Friday, July 8, 2022 -- Day number 189 : 13784
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -100,6 +100,9 @@
 ;S 05/16/2022 We now have our 83rd node, Andrew Haworth from Columbia, SC, US
 ;S 05/16/2022 We now have our 84th node, Keith Cunningham from Lancaster, PA, US
 ;S 05/18/2022 We now have our 85th node, Brian Klauss from Denver, CO, US
+;S 05/23/2022 We now have our 86th node, The Positronic Brain, from Toowoomba, QLD, AU
+;S 06/26/2022 Delisted node 1337:2/102 // HappyLand v2
+;S 07/04/2022 We now have our 87th node, Bob Purdon from Tasmania, AU
 ;S
 ;S Notice:
 ;S
@@ -134,9 +137,10 @@ Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,
 Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
 Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC,ZT:eef014f861
 ,101,Chinwag,Parkdale_VIC_AU,Deon_George,Unpublished,9600,CM,ITN:10023,INA:chinwag.leenooks.net,IBN:24554,U,MY,ZT:eef014f861
-,102,HappyLand_v2.0,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:happyland.zapto.org,IBN:24555,U,TM
 ,103,Freeway_BBS,Bendigo_VIC_AU,Tony_Langdon,Unpublished,9600,CM,ITN,INA:freeway.vkradio.com,IBN:24554,U,SC
 ,104,Als_Geek_Lab,Wellington_NZ,Alistair_Ross,Unpublished,9600,CM,ITN:2323,INA:bbs.alsgeeklab.com,IBN,U,MY
+,105,The_Positronic_Brain,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:positronicbrain.net,IBN,U,SC
+,106,TassieBob_BBS,Hobart_Tasmania_AU,Bob_Purdon,Unpublished,9600,CM,ITN:2323,INA:bbs.tassiebob.com,IBN,U,MY
 ;
 Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
 Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
@@ -167,7 +171,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,126,Northern_Realms,Binbrook_ON_CA,Jay_Harris,Unpublished,9600,CM,ITN,INA:bbs.nrbbs.net,IBN,U,MY
 ,127,The_Unknown_Realm,Oshawa_ON_CA,Mike_McCafferty,Unpublished,9600,CM,ITN:3023,INA:turealm.no-ip.org,IBN,U,MY
 ,128,1984_BBS,Washington_DC_US,Jeff_Liford,Unpublished,9600,CM,ITN,INA:1984bbs.net,IBN,U,MY
-,129,20_For_Beers,Portland_OR_US,Paul_Lee,Unpublished,9600,CM,ITN:34123,INA:20forbeers.com,IBN,U,MY
+,129,2o_fOr_beeRS_BBS,Portland_OR_US,Paul_Lee,Unpublished,9600,CM,ITN:1337,INA:20forbeers.com,IBN,U,MY
 ,130,Pwecks_Retreat,Omaha_NE_US,Dean_Lodge,Unpublished,9600,CM,ITN,INA:pwecksretreat.com,IBN,U,MY
 ,131,The_Search_BBS,San_Antonio_TX_US,Karl_Harris,Unpublished,9600,CM,ITN:34123,INA:bbs.theharrisclan.net,IBN,U,MY
 ,132,The_Underground,Carmel_IN_US,Doug_Cooper,Unpublished,9600,CM,ITN:10023,INA:www.theunderground.us,IBN,U,MY
