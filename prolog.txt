@@ -100,6 +100,7 @@
 ;S 05/23/2022 We now have our 86th node, The Positronic Brain, from Toowoomba, QLD, AU
 ;S 06/26/2022 Delisted node 1337:2/102 // HappyLand v2
 ;S 07/04/2022 We now have our 87th node, Bob Purdon from Tasmania, AU
+;S 07/07/2022 We now have our 88th node, Lee Westlake from South Wales, UK
 ;S
 ;S Notice:
 ;S
