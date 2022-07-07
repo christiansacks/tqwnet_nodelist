@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, July 8, 2022 -- Day number 189 : 13784
+;A  Nodelist for Friday, July 8, 2022 -- Day number 189 : 07951
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -103,6 +103,7 @@
 ;S 05/23/2022 We now have our 86th node, The Positronic Brain, from Toowoomba, QLD, AU
 ;S 06/26/2022 Delisted node 1337:2/102 // HappyLand v2
 ;S 07/04/2022 We now have our 87th node, Bob Purdon from Tasmania, AU
+;S 07/07/2022 We now have our 88th node, Lee Westlake from South Wales, UK
 ;S
 ;S Notice:
 ;S
@@ -131,6 +132,7 @@ Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,
 ,113,Stealthworld_BBS,Rotterdam_NL,Arjen_Schumacher,Unpublished,9600,CM,ITN:2023,INA:stealthworld.tk,IBN,U,MY
 ,114,Silent_Chat_BBS,Grossweikersdorf_AT,Michael_Mrak,Unpublished,9600,CM,ITN,INA:fidobbs.mrak.at,IBN,U,SC
 ,115,BodaX_BBS,Sweden,Tobias_Rosenqvist,Unpublished,9600,CM,ITN,INA:bbs.beardy.se,IBN,U,EG
+,116,Taliadon_BBS,South_Wales_UK,Lee_Westlake,Unpublished,9600,CM,ITN,INA:taliadon.ddns.net,IBN,U,MY
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 ;
