@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, June 3, 2022 -- Day number 154 : 50893
+;A  Nodelist for Friday, July 22, 2022 -- Day number 203 : 04330
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -101,6 +101,10 @@
 ;S 05/16/2022 We now have our 84th node, Keith Cunningham from Lancaster, PA, US
 ;S 05/18/2022 We now have our 85th node, Brian Klauss from Denver, CO, US
 ;S 05/23/2022 We now have our 86th node, The Positronic Brain, from Toowoomba, QLD, AU
+;S 06/26/2022 Delisted node 1337:2/102 // HappyLand v2
+;S 07/04/2022 We now have our 87th node, Bob Purdon from Tasmania, AU
+;S 07/07/2022 We now have our 88th node, Lee Westlake from South Wales, UK
+;S 11/07/2022 We now have our 89th node, Jared Quinn from Sydney, NSW, AU
 ;S
 ;S Notice:
 ;S
@@ -129,16 +133,18 @@ Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,
 ,113,Stealthworld_BBS,Rotterdam_NL,Arjen_Schumacher,Unpublished,9600,CM,ITN:2023,INA:stealthworld.tk,IBN,U,MY
 ,114,Silent_Chat_BBS,Grossweikersdorf_AT,Michael_Mrak,Unpublished,9600,CM,ITN,INA:fidobbs.mrak.at,IBN,U,SC
 ,115,BodaX_BBS,Sweden,Tobias_Rosenqvist,Unpublished,9600,CM,ITN,INA:bbs.beardy.se,IBN,U,EG
+,116,Taliadon_BBS,South_Wales_UK,Lee_Westlake,Unpublished,9600,CM,ITN,INA:taliadon.ddns.net,IBN,U,MY
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 ;
 Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
 Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC,ZT:eef014f861
 ,101,Chinwag,Parkdale_VIC_AU,Deon_George,Unpublished,9600,CM,ITN:10023,INA:chinwag.leenooks.net,IBN:24554,U,MY,ZT:eef014f861
-,102,HappyLand_v2.0,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:happyland.zapto.org,IBN:24555,U,TM
 ,103,Freeway_BBS,Bendigo_VIC_AU,Tony_Langdon,Unpublished,9600,CM,ITN,INA:freeway.vkradio.com,IBN:24554,U,SC
 ,104,Als_Geek_Lab,Wellington_NZ,Alistair_Ross,Unpublished,9600,CM,ITN:2323,INA:bbs.alsgeeklab.com,IBN,U,MY
-,105,The_Positronic_Brain,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:positronic.ddns.net,IBN,U,SC
+,105,The_Positronic_Brain,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:positronicbrain.net,IBN,U,SC
+,106,TassieBob_BBS,Hobart_Tasmania_AU,Bob_Purdon,Unpublished,9600,CM,ITN:2323,INA:bbs.tassiebob.com,IBN,U,MY
+,107,Jump_to_the_Left_BBS,Sydney_NSW_AU,Jared_Quinn,Unpublished,9600,CM,ITN,INA:bbs.vk2way.id.au,IBN,U,MY
 ;
 Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
 Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
