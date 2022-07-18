@@ -109,3 +109,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,164,Alcoholiday,Columbia_SC_US,Andrew_Haworth,Unpublished,9600,CM,ITN,INA:alco.bbs.io,IBN,U,MY
 ,165,Blackfair's_Manor,Lancaster_PA_US,Keith_Cunningham,Unpublished,9600,CM,ITN,INA:blackf.synchro.net,IBN,U,SC
 ,166,42bytes,Denver_CO_US,Brian_Klauss,Unpublished,9600,CM,ITN,INA:42bytes.net,IBN,U,SC
+,167,oNyX_bBs,Bristol_CT_US,Clive_Reuben,Unpublished,9600,CM,ITN:2300,INA:onyxbbs.mywire.org,IBN,U,MY
