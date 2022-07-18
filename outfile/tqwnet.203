@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, July 22, 2022 -- Day number 203 : 04330
+;A  Nodelist for Friday, July 22, 2022 -- Day number 203 : 40138
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -105,6 +105,7 @@
 ;S 07/04/2022 We now have our 87th node, Bob Purdon from Tasmania, AU
 ;S 07/07/2022 We now have our 88th node, Lee Westlake from South Wales, UK
 ;S 11/07/2022 We now have our 89th node, Jared Quinn from Sydney, NSW, AU
+;S 18/07/2022 We now have our 90th node, Clive Reuben from Bristol, CT, US
 ;S
 ;S Notice:
 ;S
@@ -213,6 +214,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,164,Alcoholiday,Columbia_SC_US,Andrew_Haworth,Unpublished,9600,CM,ITN,INA:alco.bbs.io,IBN,U,MY
 ,165,Blackfair's_Manor,Lancaster_PA_US,Keith_Cunningham,Unpublished,9600,CM,ITN,INA:blackf.synchro.net,IBN,U,SC
 ,166,42bytes,Denver_CO_US,Brian_Klauss,Unpublished,9600,CM,ITN,INA:42bytes.net,IBN,U,SC
+,167,oNyX_bBs,Bristol_CT_US,Clive_Reuben,Unpublished,9600,CM,ITN:2300,INA:onyxbbs.mywire.org,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
