@@ -103,6 +103,7 @@
 ;S 07/07/2022 We now have our 88th node, Lee Westlake from South Wales, UK
 ;S 11/07/2022 We now have our 89th node, Jared Quinn from Sydney, NSW, AU
 ;S 18/07/2022 We now have our 90th node, Clive Reuben from Bristol, CT, US
+;S 28/07/2022 Changed BBS Software for Jump to the Left BBS to Synchronet
 ;S
 ;S Notice:
 ;S
