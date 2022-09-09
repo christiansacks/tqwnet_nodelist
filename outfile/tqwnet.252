@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, July 22, 2022 -- Day number 203 : 40138
+;A  Nodelist for Friday, September 9, 2022 -- Day number 252 : 17461
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -106,6 +106,8 @@
 ;S 07/07/2022 We now have our 88th node, Lee Westlake from South Wales, UK
 ;S 11/07/2022 We now have our 89th node, Jared Quinn from Sydney, NSW, AU
 ;S 18/07/2022 We now have our 90th node, Clive Reuben from Bristol, CT, US
+;S 28/07/2022 Changed BBS Software for Jump to the Left BBS to Synchronet
+;S 05/09/2022 We now have our 91st node, Allen Mitchell from Griswold, CT, US
 ;S
 ;S Notice:
 ;S
@@ -130,7 +132,7 @@ Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,
 ,109,TheForze,Amsterdam_NLD,Robbert_Langezaal,Unpublished,9600,CM,ITN,INA:bbs.opicron.eu,IBN,U,MY
 ,110,TFSI,London_UK,Nick_Young,Unpublished,9600,CM,ITN,INA:tfsi.synchronetbbs.org,IBN,U,SC
 ,111,BeBeeS,Prague_CZE,Milan_Minic,Unpublished,9600,CM,ITN:1234,INA:gopher.su,IBN,U,EG
-,112,Roon's_BBS,Budapest_Hungary,Daniel_Path,Unpublished,9600,CM,ITN:1212,INA:bbs.studio64.hu,IBN,U,MX
+,112,Roon's_BBS,Budapest_Hungary,Daniel_Path,36-1-445-4412,9600,CM,ITN:1212,INA:bbs.studio64.hu,IBN,U,MX
 ,113,Stealthworld_BBS,Rotterdam_NL,Arjen_Schumacher,Unpublished,9600,CM,ITN:2023,INA:stealthworld.tk,IBN,U,MY
 ,114,Silent_Chat_BBS,Grossweikersdorf_AT,Michael_Mrak,Unpublished,9600,CM,ITN,INA:fidobbs.mrak.at,IBN,U,SC
 ,115,BodaX_BBS,Sweden,Tobias_Rosenqvist,Unpublished,9600,CM,ITN,INA:bbs.beardy.se,IBN,U,EG
@@ -145,7 +147,7 @@ Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au
 ,104,Als_Geek_Lab,Wellington_NZ,Alistair_Ross,Unpublished,9600,CM,ITN:2323,INA:bbs.alsgeeklab.com,IBN,U,MY
 ,105,The_Positronic_Brain,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:positronicbrain.net,IBN,U,SC
 ,106,TassieBob_BBS,Hobart_Tasmania_AU,Bob_Purdon,Unpublished,9600,CM,ITN:2323,INA:bbs.tassiebob.com,IBN,U,MY
-,107,Jump_to_the_Left_BBS,Sydney_NSW_AU,Jared_Quinn,Unpublished,9600,CM,ITN,INA:bbs.vk2way.id.au,IBN,U,MY
+,107,Jump_to_the_Left_BBS,Sydney_NSW_AU,Jared_Quinn,Unpublished,9600,CM,ITN,INA:bbs.vk2way.id.au,IBN,U,SC
 ;
 Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
 Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
@@ -215,6 +217,7 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,-Unpublished-,9600,CM,
 ,165,Blackfair's_Manor,Lancaster_PA_US,Keith_Cunningham,Unpublished,9600,CM,ITN,INA:blackf.synchro.net,IBN,U,SC
 ,166,42bytes,Denver_CO_US,Brian_Klauss,Unpublished,9600,CM,ITN,INA:42bytes.net,IBN,U,SC
 ,167,oNyX_bBs,Bristol_CT_US,Clive_Reuben,Unpublished,9600,CM,ITN:2300,INA:onyxbbs.mywire.org,IBN,U,MY
+,168,WarpeD_SocieTy,Griswold_CT_USA,Allen_Mitchell,Unpublished,9600,CM,ITN,INA:73.238.86.237,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
