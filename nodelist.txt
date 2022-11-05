@@ -1,4 +1,5 @@
 logfile tqwnet.log
+name tqwnet
 master .
 ;update ./update
 ;make Zone 1337
