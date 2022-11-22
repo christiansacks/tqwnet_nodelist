@@ -113,4 +113,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,167,oNyX_bBs,Bristol_CT_US,Clive_Reuben,Unpublished,9600,CM,ITN:2300,INA:onyxbbs.mywire.org,IBN,U,MY
 ,168,WarpeD_SocieTy,Griswold_CT_USA,Allen_Mitchell,Unpublished,9600,CM,ITN,INA:73.238.86.237,IBN,U,MY
 ,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:montereybbs.com,IBN,U,MY
-
+,170,Made_to_Raid,Griswold_CT_US,Chris_Manigan,Unpublished,9600,CM,ITN:2323,INA:bbs.madetoraid.com,IBN,U,MY

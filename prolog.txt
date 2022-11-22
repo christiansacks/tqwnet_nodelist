@@ -107,6 +107,7 @@
 ;S 05/09/2022 We now have our 91st node, Allen Mitchell from Griswold, CT, US
 ;S 21/10/2022 We now have our 92nd node, Ryan Fantus from San Francisco, CA, US
 ;S 05/11/2022 Updated config for nodelist generation
+;S 22/11/2022 We now have our 93rd node, Chris Manigan from Griswold, CT, US
 ;S
 ;S Notice:
 ;S
