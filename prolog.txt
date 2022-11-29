@@ -108,6 +108,7 @@
 ;S 21/10/2022 We now have our 92nd node, Ryan Fantus from San Francisco, CA, US
 ;S 05/11/2022 Updated config for nodelist generation
 ;S 22/11/2022 We now have our 93rd node, Chris Manigan from Griswold, CT, US
+;S 29/11/2022 We now have our 94th node, Ryder Navi from Toronto, ON, CA
 ;S
 ;S Notice:
 ;S
