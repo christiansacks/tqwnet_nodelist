@@ -109,6 +109,7 @@
 ;S 05/11/2022 Updated config for nodelist generation
 ;S 22/11/2022 We now have our 93rd node, Chris Manigan from Griswold, CT, US
 ;S 29/11/2022 We now have our 94th node, Ryder Navi from Toronto, ON, CA
+;S 01/12/2022 We now have our 95th node, Scott Daniels from Lufkin, TX, US
 ;S
 ;S Notice:
 ;S
