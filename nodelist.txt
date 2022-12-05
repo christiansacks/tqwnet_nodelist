@@ -116,3 +116,4 @@ Pvt,124,retrocomputacion,Cordoba_Argentina,Thierry_Olmedo,Unpublished,9600,CM,IT
 ,170,Made_to_Raid,Griswold_CT_US,Chris_Manigan,Unpublished,9600,CM,ITN:2323,INA:bbs.madetoraid.com,IBN,U,MY
 ,171,KANSIT_WHQ,Toronto_Ontario_Canada,Ryder_Navi,Unpublished,9600,CM,ITN,INA:whq.kansit.com,IBN,U,MY
 ,172,Altair_IV_BBS,Lufkin_TX_US,Scott_Daniels,Unpublished,9600,CM,ITN:2323,INA:altairiv.ddns.net,IBN,U,MY
+,173,Insomnia_City,Kalamazoo_MI_US,Mark_Hartmann,Unpublished,9600,CM,ITN,INA:bbs.farcasternet.org,IBN,U,MY
