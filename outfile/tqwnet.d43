@@ -1,14 +1,40 @@
 ;A tqwnet Nodelist for Friday, December 2, 2022 -- Day number 336 : 60671
 D1
 A3
-;A tqwnet Nodelist for Friday, December 9, 2022 -- Day number 343 : 42521
+;A tqwnet Nodelist for Friday, December 9, 2022 -- Day number 343 : 31110
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 D2
 C112
 A1
 ;S 05/12/2022 We now have our 96th node, Mark Hartmann from Kalamazoo, MI, US
-C114
+C50
+D2
+C1
+D1
+C1
+D1
+C3
+D1
+C1
+D1
+C3
+D1
+C3
+D1
+C4
+D2
+C1
+D1
+C2
+D1
+C1
+D1
+C1
+D1
+C4
+D1
+C24
 A1
 ,173,Insomnia_City,Kalamazoo_MI_US,Mark_Hartmann,Unpublished,9600,CM,ITN,INA:bbs.farcasternet.org,IBN,U,MY
 C51
