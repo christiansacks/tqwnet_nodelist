@@ -111,6 +111,7 @@
 ;S 29/11/2022 We now have our 94th node, Ryder Navi from Toronto, ON, CA
 ;S 01/12/2022 We now have our 95th node, Scott Daniels from Lufkin, TX, US
 ;S 05/12/2022 We now have our 96th node, Mark Hartmann from Kalamazoo, MI, US
+;S 01/16/2022 We now have our 97th node, Karl Kunc from Lakeland, FL, US
 ;S
 ;S Notice:
 ;S
