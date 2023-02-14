@@ -114,6 +114,7 @@
 ;S 16/01/2023 We now have our 97th node, Karl Kunc from Lakeland, FL, US
 ;S 27/01/2023 We now have our 98th node, Sebastian van der Veen from Emmen, NL
 ;S 11/02/2023 We now have our 99th node, Per Gustav Ousdal from Tonstad, NO
+;S 14/02/2023 We now have our 100th node, David Sachs from Delmar, DE, US
 ;S
 ;S Notice:
 ;S
