@@ -106,4 +106,5 @@ Pvt,117,Insane_Asylum,Racine_WI_US,Ktulu,Unpublished,9600,CM,ITN,INA,IBN,U,MY
 ,173,Insomnia_City,Kalamazoo_MI_US,Mark_Hartmann,Unpublished,9600,CM,ITN,INA:bbs.farcasternet.org,IBN,U,MY
 ,174,Sinner's_Haven,Lakeland_FL_US,Karl_Kunc,Unpublished,9600,CM,ITN,INA:bbs.sinnershaven.com,IBN,U,MY
 ,175,Operation_Ivy,Delmar_DE_US,David_Sachs,Unpublished,9600,CM,ITN,INA:opivy-bbs.com,IBN,U,MY
+,176,Splatter_Haus,Arlington_VA_US,Vincent_Macaluso,Unpublished,9600,CM,ITN:666,INA:splatter.haus,IBN,U,MY
 
