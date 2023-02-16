@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, February 17, 2023 -- Day number 048 : 15073
+;A tqwnet Nodelist for Friday, February 17, 2023 -- Day number 048 : 55357
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -118,6 +118,7 @@
 ;S 27/01/2023 We now have our 98th node, Sebastian van der Veen from Emmen, NL
 ;S 11/02/2023 We now have our 99th node, Per Gustav Ousdal from Tonstad, NO
 ;S 14/02/2023 We now have our 100th node, David Sachs from Delmar, DE, US
+;S 16/02/2023 We now have our 101st node, Vincent Macaluso from Arlington, VA, US
 ;S
 ;S Notice:
 ;S
@@ -222,6 +223,7 @@ Pvt,117,Insane_Asylum,Racine_WI_US,Ktulu,-Unpublished-,9600,CM,ITN,INA,IBN,U,MY
 ,173,Insomnia_City,Kalamazoo_MI_US,Mark_Hartmann,Unpublished,9600,CM,ITN,INA:bbs.farcasternet.org,IBN,U,MY
 ,174,Sinner's_Haven,Lakeland_FL_US,Karl_Kunc,Unpublished,9600,CM,ITN,INA:bbs.sinnershaven.com,IBN,U,MY
 ,175,Operation_Ivy,Delmar_DE_US,David_Sachs,Unpublished,9600,CM,ITN,INA:opivy-bbs.com,IBN,U,MY
+,176,Splatter_Haus,Arlington_VA_US,Vincent_Macaluso,Unpublished,9600,CM,ITN:666,INA:splatter.haus,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
