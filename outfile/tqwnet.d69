@@ -1,0 +1,16 @@
+;A tqwnet Nodelist for Friday, March 3, 2023 -- Day number 062 : 06729
+D1
+A3
+;A tqwnet Nodelist for Friday, March 10, 2023 -- Day number 069 : 08951
+;A  Copyright 2018-2118, tqwNet, All rights reserved
+;A
+D2
+C119
+D1
+A2
+;S 26/02/2023 We now have our 103rd node, Kurt Weiske from Aptos, CA, US
+;S 04/03/2023 We now have our 104th node, Mike Newkirk from King George, VA, US
+C107
+A1
+,179,Westwood_BBS,King_George_VA_US,Mike_Newkirk,Unpublished,9600,CM,ITN:8888,INA:westwoodbbs.net,IBN,U,MY
+C51
