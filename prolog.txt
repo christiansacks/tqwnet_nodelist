@@ -119,6 +119,7 @@
 ;S 24/02/2023 We now have our 102nd node, Jonah Clausen from St. Paul, MN, US
 ;S 26/02/2023 We now have our 103rd node, Kurt Weiske from Aptos, CA, US
 ;S 04/03/2023 We now have our 104th node, Mike Newkirk from King George, VA, US
+;S 22/03/2023 We now have our 105th node, John G from Saint James, NY, US
 ;S
 ;S Notice:
 ;S
