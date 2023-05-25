@@ -111,4 +111,4 @@ Pvt,117,Insane_Asylum,Racine_WI_US,Ktulu,Unpublished,9600,CM,ITN,INA,IBN,U,MY
 ,178,realitycheckBBS,Aptos_CA_US,Kurt_Weiske,Unpublished,9600,CM,ITN,INA:realitycheckbbs.org,IBN,U,MY
 ,179,Westwood_BBS,King_George_VA_US,Mike_Newkirk,Unpublished,9600,CM,ITN:8888,INA:westwoodbbs.net,IBN,U,MY
 ,180,CrNet_BBS,Saint_James_NY_US,John_G,Unpublished,9600,CM,ITN:1023,INA:bbs.crnet.net,IBN,U,MY
-
+,181,Penguin_BBS,Erie_PA_US,Jeffrey_Benshoff,Unpublished,9600,CM,ITN:2023,INA:penguin.synchro.net,IBN,U,SC
