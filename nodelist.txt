@@ -26,7 +26,7 @@ Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,Unpublished,9600,CM
 ,107,Sonic_BBS,Beverley_UK,Louis_Northmore,Unpublished,9600,CM,ITN,INA:bbs.sonicbbs.co.uk,IBN:24554,U,EG
 ,108,Imzadi_Box,Karlsruhe_Germany,Anna_Christina_Nass,Unpublished,9600,CM,ITN,INA:box.imzadi.de,IBN,U,SC
 ,109,TheForze,Amsterdam_NLD,Robbert_Langezaal,Unpublished,9600,CM,ITN,INA:bbs.opicron.eu,IBN,U,MY
-,110,TFSI,London_UK,Nick_Young,Unpublished,9600,CM,ITN,INA:tfsi.synchronetbbs.org,IBN,U,SC
+,110,TFSI,London_UK,Nick_Young,Unpublished,9600,CM,ITN,INA:bbs.tfsi.dev,IBN,U,SC
 ,111,BeBeeS,Prague_CZE,Milan_Minic,Unpublished,9600,CM,ITN:1234,INA:gopher.su,IBN,U,EG
 ,112,Roon's_BBS,Budapest_Hungary,Daniel_Path,36-1-445-4412,9600,CM,ITN:1212,INA:bbs.studio64.hu,IBN,U,MX
 ,113,Stealthworld_BBS,Rotterdam_NL,Arjen_Schumacher,Unpublished,9600,CM,ITN:2023,INA:stealthworld.tk,IBN,U,MY
