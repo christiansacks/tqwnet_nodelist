@@ -121,6 +121,7 @@
 ;S 04/03/2023 We now have our 104th node, Mike Newkirk from King George, VA, US
 ;S 22/03/2023 We now have our 105th node, John G from Saint James, NY, US
 ;S 25/05/2023 We now have our 106th node, Jeffrey Benshoff from Erie, PA, US
+;S 24/07/2023 We now have our 107th node, Shaun Ewing from Blue Mountains, AU
 ;S
 ;S Notice:
 ;S
