@@ -123,6 +123,7 @@
 ;S 25/05/2023 We now have our 106th node, Jeffrey Benshoff from Erie, PA, US
 ;S 24/07/2023 We now have our 107th node, Shaun Ewing from Blue Mountains, AU
 ;S 07/08/2023 We now have our 108th node, Jim Nessen from Wilton, CA, US
+;S 17/08/2023 We now have our 109th node, Nigel Reed from Plano, TX, US
 ;S
 ;S Notice:
 ;S
