@@ -115,3 +115,4 @@ Pvt,117,Insane_Asylum,Racine_WI_US,Ktulu,Unpublished,9600,CM,ITN,INA,IBN,U,MY
 ,181,Penguin_BBS,Erie_PA_US,Jeffrey_Benshoff,Unpublished,9600,CM,ITN:2023,INA:penguin.synchro.net,IBN,U,SC
 ,182,CCX_BBS,Wilton_CA_US,Jim_Nessen,Unpublished,9600,CM,ITN,INA:96.43.142.180,IBN,U,MY
 ,183,End_Of_The_Line_BBS,Plano_TX_US,Nigel_Reed,Unpublished,9600,CM,ITN,INA:endofthelinebbs.com,IBN,U,MY
+,184,Port_of_Call_BBS,Port_Charlotte_Fl_US,Dave_Weissinger,Unpublished,9600,CM,ITN:2323,INA:BBS.PCTechDr.com,IBN,U,SC
