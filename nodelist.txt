@@ -44,7 +44,6 @@ Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au
 ,104,Als_Geek_Lab,Wellington_NZ,Alistair_Ross,Unpublished,9600,CM,ITN:2323,INA:bbs.alsgeeklab.com,IBN,U,MY
 ,105,The_Positronic_Brain,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:positronicbrain.net,IBN,U,SC
 ,106,TassieBob_BBS,Hobart_Tasmania_AU,Bob_Purdon,Unpublished,9600,CM,ITN:2323,INA:bbs.tassiebob.com,IBN,U,MY
-,107,Jump_to_the_Left_BBS,Sydney_NSW_AU,Jared_Quinn,Unpublished,9600,CM,ITN,INA:bbs.vk2way.id.au,IBN,U,SC
 ,108,Mortal_BBS,Blue_Mountains_AU,Shaun_Ewing,Unpublished,9600,CM,ITN,INA:bbs.mortalbbs.com,IBN,U,SC
 Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
 Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
