@@ -31,13 +31,14 @@ echo "Compiling nodelist..."
 makenl -d nodelist.txt >/dev/null
 
 absfile=$(ls -rt outfile/tqwnet.[0-9]*|tail -1)
+parfile=$(ls -rt outfile/tqwnet.d*|tail -1)
 file=$(echo $(basename $absfile))
 ext=$(echo $file | awk -F. '{ print $2 }') 
 newext="z${ext:1:2}" 
 
 echo "Creating zip archive tqwnet.$newext..."
 [ -f zip/tqwnet.$newext ] && mv zip/tqwnet.$newext{,.`date +%Y%m%d`}
-zip -j9 zip/tqwnet.$newext $absfile
+zip -j9 zip/tqwnet.$newext $absfile $parfile
 
 git add . -A
 git commit -m "$COMMIT"
