@@ -116,3 +116,4 @@ Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca
 ,183,End_Of_The_Line_BBS,Plano_TX_US,Nigel_Reed,Unpublished,9600,CM,ITN,INA:endofthelinebbs.com,IBN,U,MY
 ,184,Port_of_Call_BBS,Port_Charlotte_Fl_US,Dave_Weissinger,Unpublished,9600,CM,ITN:2323,INA:BBS.PCTechDr.com,IBN,U,SC
 ,185,Shurato's_Heavenly_Sphere,Boise_ID_US,Martin_Kazmaier,Unpublished,9600,CM,ITN,INA:shsbbs.net,IBN,U,EL
+,186,Mystic_Hobbies_BBS,Sun_City_Center_FL_US,Mike_Dippel,Unpublished,9600,CM,ITN,INA:mystic-hobbies.com,IBN,U,MY
