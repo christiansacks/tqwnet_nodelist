@@ -128,6 +128,7 @@
 ;S 11/09/2023 We now have our 111th node, Matt Ianson from Sydney, AU
 ;S 11/09/2023 We now have our 112th node, Martin Kazmaier from Boise, ID, US
 ;S 23/09/2023 We now have our 113th node, Mike Dippel from Sun City, FL, US
+;S 02/10/2023 We now have our 114th node, Michael Selhof from Prittriching, DE
 ;S
 ;S Notice:
 ;S
