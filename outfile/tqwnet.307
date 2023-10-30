@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, September 15, 2023 -- Day number 258 : 30478
+;A tqwnet Nodelist for Friday, November 3, 2023 -- Day number 307 : 42695
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -130,6 +130,10 @@
 ;S 28/08/2023 We now have our 110th node, Dave Weissinger from Port Charlotte, FL, US
 ;S 11/09/2023 We now have our 111th node, Matt Ianson from Sydney, AU
 ;S 11/09/2023 We now have our 112th node, Martin Kazmaier from Boise, ID, US
+;S 23/09/2023 We now have our 113th node, Mike Dippel from Sun City, FL, US
+;S 02/10/2023 We now have our 114th node, Michael Selhof from Prittriching, DE
+;S 11/10/2023 We now have our 115th node, Mike Dippel from Sun City, FL, US (2nd system)
+;S 30/10/2023 We now have our 116th node, Charles Blackburn from Deltona, FL, US
 ;S
 ;S Notice:
 ;S
@@ -161,6 +165,7 @@ Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,-Unpublished-,9600,
 ,116,Taliadon_BBS,South_Wales_UK,Lee_Westlake,Unpublished,9600,CM,ITN,INA:taliadon.ddns.net,IBN,U,MY
 Pvt,117,The_Global_Village_BBS,Emmen_NL,Sebastian_van_der_Veen,-Unpublished-,9600,CM,ITN,INA,IBN,U,MY
 ,118,Phrenetic_BBS,Tonstad_NO,Per_Gustav_Ousdal,Unpublished,9600,CM,ITN:2023,INA:bbs.phrenetic.no,IBN,U,MY
+,119,Global_Chaos_BBS,Prittriching_DE,Michael_Selhof,Unpublished,9600,CM,ITN,INA:globalchaosbbs.com,IBN,U,WC
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 ;
@@ -244,6 +249,9 @@ Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca
 ,183,End_Of_The_Line_BBS,Plano_TX_US,Nigel_Reed,Unpublished,9600,CM,ITN,INA:endofthelinebbs.com,IBN,U,MY
 ,184,Port_of_Call_BBS,Port_Charlotte_Fl_US,Dave_Weissinger,Unpublished,9600,CM,ITN:2323,INA:BBS.PCTechDr.com,IBN,U,SC
 ,185,Shurato's_Heavenly_Sphere,Boise_ID_US,Martin_Kazmaier,Unpublished,9600,CM,ITN,INA:shsbbs.net,IBN,U,EL
+,186,Mystic_Hobbies_BBS,Sun_City_Center_FL_US,Mike_Dippel,Unpublished,9600,CM,ITN,INA:mystic-hobbies.com,IBN,U,MY
+,187,The_Hobby_Line!_BBS,Sun_City_Center_FL_US,Mike_Dippel,Unpublished,9600,CM,ITN,INA:hobbylinebbs.com,IBN,U,WC
+,188,The_FBO,Deltona_FL_US,Charles_Blackburn,Unpublished,9600,CM,ITN:2323,INA:bbs.thefbo.us,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
