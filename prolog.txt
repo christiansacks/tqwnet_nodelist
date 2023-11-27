@@ -132,6 +132,7 @@
 ;S 11/10/2023 We now have our 115th node, Mike Dippel from Sun City, FL, US (2nd system)
 ;S 30/10/2023 We now have our 116th node, Charles Blackburn from Deltona, FL, US
 ;S 14/11/2023 We now have our 117th node, Jason Bock from Rochester, NY, US
+;S 27/11/2023 We now have our 118th node, Damian Kleiman from Rosario, AR
 ;S
 ;S Notice:
 ;S

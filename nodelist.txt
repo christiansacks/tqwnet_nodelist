@@ -121,3 +121,4 @@ Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca
 ,187,The_Hobby_Line!_BBS,Sun_City_Center_FL_US,Mike_Dippel,Unpublished,9600,CM,ITN,INA:hobbylinebbs.com,IBN,U,WC
 ,188,The_FBO,Deltona_FL_US,Charles_Blackburn,Unpublished,9600,CM,ITN:2323,INA:bbs.thefbo.us,IBN,U,SC
 ,189,SiliconUnderground,Rochester_NY_US,Jason_Bock,Unpublished,9600,CM,ITN,INA:siliconu.com,IBN,U,PB
+,190,Digital_Asylum_BBS,Rosario_AR,Damian_Kleiman,Unpublished,9600,CM,ITN:2323,INA:bbs.digitalasylum.com.ar,IBN,U,MY
