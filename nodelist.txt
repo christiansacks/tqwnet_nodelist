@@ -122,3 +122,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,188,The_FBO,Deltona_FL_US,Charles_Blackburn,Unpublished,9600,CM,ITN:2323,INA:bbs.thefbo.us,IBN,U,SC
 ,189,SiliconUnderground,Rochester_NY_US,Jason_Bock,Unpublished,9600,CM,ITN,INA:siliconu.com,IBN,U,PB
 ,190,Digital_Asylum_BBS,Rosario_AR,Damian_Kleiman,Unpublished,9600,CM,ITN:2323,INA:bbs.digitalasylum.com.ar,IBN,U,MY
+,191,Palantir_BBS,Pensacola_FL_US,Dan_Clough,Unpublished,9600,CM,ITN,INA:palantirbbs.ddns.net,IBN,U,SC
