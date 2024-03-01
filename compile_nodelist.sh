@@ -33,8 +33,8 @@ find zip/     -type f -mtime +120 -exec rm {} \;
 echo "Compiling nodelist..."
 makenl -d nodelist.txt >/dev/null
 
-absfile=$(ls -rt outfile/tqwnet.[0-9]*|tail -1)
-parfile=$(ls -rt outfile/tqwnet.d*|tail -1)
+absfile=$(ls -rt outfile/tqwnet.[0-9]* 2>/dev/null|tail -1)
+parfile=$(ls -rt outfile/tqwnet.d*     2>/dev/null|tail -1)
 file=$(echo $(basename $absfile))
 ext=$(echo $file | awk -F. '{ print $2 }') 
 newext="z${ext:1:2}" 
