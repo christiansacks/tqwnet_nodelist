@@ -123,3 +123,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,189,SiliconUnderground,Rochester_NY_US,Jason_Bock,Unpublished,9600,CM,ITN,INA:siliconu.com,IBN,U,PB
 ,190,Digital_Asylum_BBS,Rosario_AR,Damian_Kleiman,Unpublished,9600,CM,ITN:2323,INA:bbs.digitalasylum.com.ar,IBN,U,MY
 ,191,Palantir_BBS,Pensacola_FL_US,Dan_Clough,Unpublished,9600,CM,ITN,INA:palantirbbs.ddns.net,IBN,U,SC
+,192,Final_Zone_BBS,Memphis_TN_USA,Chris_Eldridge,Unpublished,9600,CM,ITN,INA:final-zone.net,IBN,U,MY
