@@ -135,6 +135,7 @@
 ;S 27/11/2023 We now have our 118th node, Damian Kleiman from Rosario, AR
 ;S 24/02/2024 We now have our 119th node, Dan Clough from Pensacola, FL, US
 ;S 06/03/2024 We now have our 120th node, Chris Eldridge from Memphis, TN, US
+;S 21/03/2024 We now have our 121st node, Darren Kenney from Lincs, UK
 ;S
 ;S Notice:
 ;S
