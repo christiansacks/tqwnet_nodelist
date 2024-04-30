@@ -9838,3 +9838,13 @@ d 22-Mar-2024 09:55:06 makenl[3877831] myfnmerge: drive='' dir='/root/git/tqwnet
 d 22-Mar-2024 09:55:06 makenl[3877831] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
 + 22-Mar-2024 09:55:06 makenl[3877831] CRC = 49364
 + 22-Mar-2024 09:55:06 makenl[3877831] MakeNL finished (rc=0)
+
+- 30-Apr-2024 11:10:23 makenl[73823] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 30-Apr-2024 11:10:23 makenl[73823] MakeNL started
++ 30-Apr-2024 11:10:23 makenl[73823] Cmdline: makenl "nodelist.txt"
++ 30-Apr-2024 11:10:23 makenl[73823] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 30-Apr-2024 11:10:23 makenl[73823] Begin processing 'tqwnet.' -- 11:10, Tuesday, April 30, 2024
+? 30-Apr-2024 11:10:23 makenl[73823] Old file '/root/git/tqwnet_nodelist/outfile/tqwnet.117' does not exist, no difference file made
++ 30-Apr-2024 11:10:23 makenl[73823] Creating archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a24' containing '/root/git/tqwnet_nodelist/outfile/tqwnet.124'
+? 30-Apr-2024 11:10:23 makenl[73823] Unable to create archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a24'
+? 30-Apr-2024 11:10:23 makenl[73823] MakeNL finished (rc=253)
