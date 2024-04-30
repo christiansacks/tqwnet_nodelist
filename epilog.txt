@@ -23,6 +23,7 @@
 ;S    UEL   EleBBS
 ;S    UEG   Enigma BBS 
 ;S    UEZ   Ezycom BBS 
+;S    UFI   Fidian
 ;S    UGT   GT Power
 ;S    UMB   MBSE
 ;S    UMG   Magicka BBS 

@@ -37,6 +37,7 @@ Pvt,117,The_Global_Village_BBS,Emmen_NL,Sebastian_van_der_Veen,Unpublished,9600,
 ,118,Phrenetic_BBS,Tonstad_NO,Per_Gustav_Ousdal,Unpublished,9600,CM,ITN:2023,INA:bbs.phrenetic.no,IBN,U,MY
 ,119,Global_Chaos_BBS,Prittriching_DE,Michael_Selhof,Unpublished,9600,CM,ITN,INA:globalchaosbbs.com,IBN,U,WC
 ,120,Retro32,Lincs_UK,Darren_Kenney,Unpublished,9600,CM,ITN:1337,INA:bbs.retro32.com,IBN,U,MY
+,121,Postbus_7,Nieuw-Vennep_NL,Floris_van_Unen,Unpublished,9600,CM,INA:fido.unen.net,IBN,U,FI
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
