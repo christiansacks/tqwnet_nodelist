@@ -127,3 +127,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,191,Palantir_BBS,Pensacola_FL_US,Dan_Clough,Unpublished,9600,CM,ITN,INA:palantirbbs.ddns.net,IBN,U,SC
 ,192,Final_Zone_BBS,Memphis_TN_USA,Chris_Eldridge,Unpublished,9600,CM,ITN,INA:final-zone.net,IBN,U,MY
 ,193,NerdRage_BBS,St_Thomas_ON_CA,Jim_Howarth,Unpublished,9600,CM,ITN,INA:nerdragebbs.ddns.net,IBN,U,MY
+,194,Too_Lazy_BBS,Fayetteville_NC_USA,Granville_Errol_Casey_Jr.,Unpublished,9600,CM,ITN,INA:toolazy.ddns.net,IBN,U,SC

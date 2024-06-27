@@ -138,6 +138,7 @@
 ;S 21/03/2024 We now have our 121st node, Darren Kenney from Lincs, UK
 ;S 30/04/2024 We now have our 122nd node, Floris van Unen from Nieuw-Vennep, NL
 ;S 07/06/2024 We now have our 123rd node, Jim Howarth from St Thomas, ON, CA
+;S 27/06/2024 We now have our 124th node, Granville Errol Casey, Jr. from Fayetteville, NC, USA
 ;S
 ;S Notice:
 ;S
