@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, June 7, 2024 -- Day number 159 : 03092
+;A tqwnet Nodelist for Friday, July 26, 2024 -- Day number 208 : 53018
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -141,6 +141,8 @@
 ;S 21/03/2024 We now have our 121st node, Darren Kenney from Lincs, UK
 ;S 30/04/2024 We now have our 122nd node, Floris van Unen from Nieuw-Vennep, NL
 ;S 07/06/2024 We now have our 123rd node, Jim Howarth from St Thomas, ON, CA
+;S 27/06/2024 We now have our 124th node, Granville Errol Casey, Jr. from Fayetteville, NC, USA
+;S 22/07/2024 We now have our 125th node, Alessio Tempesta, from Rome, Italy. This node is private
 ;S
 ;S Notice:
 ;S
@@ -175,6 +177,7 @@ Pvt,117,The_Global_Village_BBS,Emmen_NL,Sebastian_van_der_Veen,-Unpublished-,960
 ,119,Global_Chaos_BBS,Prittriching_DE,Michael_Selhof,Unpublished,9600,CM,ITN,INA:globalchaosbbs.com,IBN,U,WC
 ,120,Retro32,Lincs_UK,Darren_Kenney,Unpublished,9600,CM,ITN:1337,INA:bbs.retro32.com,IBN,U,MY
 ,121,Postbus_7,Nieuw-Vennep_NL,Floris_van_Unen,Unpublished,9600,CM,INA:fido.unen.net,IBN,U,FI
+Pvt,122,NetPoint,Rome_Italy,Alessio_Tempesta,-Unpublished-,9600,CM,ITN,INA,IBN,U,SC
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 ;
@@ -266,6 +269,7 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,-Unpublished-,9600,CM,ITN,INA:mont
 ,191,Palantir_BBS,Pensacola_FL_US,Dan_Clough,Unpublished,9600,CM,ITN,INA:palantirbbs.ddns.net,IBN,U,SC
 ,192,Final_Zone_BBS,Memphis_TN_USA,Chris_Eldridge,Unpublished,9600,CM,ITN,INA:final-zone.net,IBN,U,MY
 ,193,NerdRage_BBS,St_Thomas_ON_CA,Jim_Howarth,Unpublished,9600,CM,ITN,INA:nerdragebbs.ddns.net,IBN,U,MY
+,194,Too_Lazy_BBS,Fayetteville_NC_USA,Granville_Errol_Casey_Jr.,Unpublished,9600,CM,ITN,INA:toolazy.ddns.net,IBN,U,SC
 ;S
 ;S
 ;S Mail Processing
