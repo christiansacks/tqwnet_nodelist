@@ -140,6 +140,7 @@
 ;S 07/06/2024 We now have our 123rd node, Jim Howarth from St Thomas, ON, CA
 ;S 27/06/2024 We now have our 124th node, Granville Errol Casey, Jr. from Fayetteville, NC, USA
 ;S 22/07/2024 We now have our 125th node, Alessio Tempesta, from Rome, Italy. This node is private
+;S 30/07/2024 We now have our 126th node, John Julian from Littleton, Colorado, USA
 ;S
 ;S Notice:
 ;S
