@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, August 2, 2024 -- Day number 215 : 12790
+;A tqwnet Nodelist for Friday, August 2, 2024 -- Day number 215 : 00158
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -144,6 +144,7 @@
 ;S 27/06/2024 We now have our 124th node, Granville Errol Casey, Jr. from Fayetteville, NC, USA
 ;S 22/07/2024 We now have our 125th node, Alessio Tempesta, from Rome, Italy. This node is private
 ;S 30/07/2024 We now have our 126th node, John Julian from Littleton, Colorado, USA
+;S 01/08/2024 We now have our 127th node, Mark Meserve from Clearwater, Florida, USA
 ;S
 ;S Notice:
 ;S
@@ -272,6 +273,7 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,-Unpublished-,9600,CM,ITN,INA:mont
 ,193,NerdRage_BBS,St_Thomas_ON_CA,Jim_Howarth,Unpublished,9600,CM,ITN,INA:nerdragebbs.ddns.net,IBN,U,MY
 ,194,Too_Lazy_BBS,Fayetteville_NC_USA,Granville_Errol_Casey_Jr.,Unpublished,9600,CM,ITN,INA:toolazy.ddns.net,IBN,U,SC
 ,195,4wheelham_BBS,Littleton_CO_USA,John_Julian,Unpublished,9600,CM,ITN,INA:bbs.4wheelham.com,IBN,U,SC
+,196,Local_Yocal_BBS,Clearwater_FL_USA,Mark_Meserve,Unpublished,9600,CM,ITN,INA:localyocalbbs.com,IBN,U,SC
 ;S
 ;S
 ;S Mail Processing

@@ -1,14 +1,16 @@
 ;A tqwnet Nodelist for Friday, July 26, 2024 -- Day number 208 : 53018
 D1
 A3
-;A tqwnet Nodelist for Friday, August 2, 2024 -- Day number 215 : 12790
+;A tqwnet Nodelist for Friday, August 2, 2024 -- Day number 215 : 00158
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 D2
 C142
-A1
+A2
 ;S 30/07/2024 We now have our 126th node, John Julian from Littleton, Colorado, USA
+;S 01/08/2024 We now have our 127th node, Mark Meserve from Clearwater, Florida, USA
 C127
-A1
+A2
 ,195,4wheelham_BBS,Littleton_CO_USA,John_Julian,Unpublished,9600,CM,ITN,INA:bbs.4wheelham.com,IBN,U,SC
+,196,Local_Yocal_BBS,Clearwater_FL_USA,Mark_Meserve,Unpublished,9600,CM,ITN,INA:localyocalbbs.com,IBN,U,SC
 C52

@@ -9886,3 +9886,12 @@ d 22-Mar-2024 09:55:06 makenl[3877831] /home/christian/git/personal/makenl-code/
 + 30-Jul-2024 07:40:10 makenl[3971990] Creating difference file '/root/git/tqwnet_nodelist/outfile/tqwnet.d15' from '/root/git/tqwnet_nodelist/outfile/tqwnet.208' and '/root/git/tqwnet_nodelist/outfile/tqwnet.215'
 + 30-Jul-2024 07:40:10 makenl[3971990] CRC = 12790
 + 30-Jul-2024 07:40:10 makenl[3971990] MakeNL finished (rc=0)
+
+- 01-Aug-2024 15:20:56 makenl[1041810] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 01-Aug-2024 15:20:56 makenl[1041810] MakeNL started
++ 01-Aug-2024 15:20:56 makenl[1041810] Cmdline: makenl "nodelist.txt"
++ 01-Aug-2024 15:20:56 makenl[1041810] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 01-Aug-2024 15:20:56 makenl[1041810] Begin processing 'tqwnet.' -- 15:20, Thursday, August 1, 2024
++ 01-Aug-2024 15:20:56 makenl[1041810] Creating difference file '/root/git/tqwnet_nodelist/outfile/tqwnet.d15' from '/root/git/tqwnet_nodelist/outfile/tqwnet.208' and '/root/git/tqwnet_nodelist/outfile/tqwnet.215'
++ 01-Aug-2024 15:20:56 makenl[1041810] CRC = 00158
++ 01-Aug-2024 15:20:56 makenl[1041810] MakeNL finished (rc=0)
