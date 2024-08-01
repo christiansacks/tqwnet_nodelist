@@ -130,3 +130,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,193,NerdRage_BBS,St_Thomas_ON_CA,Jim_Howarth,Unpublished,9600,CM,ITN,INA:nerdragebbs.ddns.net,IBN,U,MY
 ,194,Too_Lazy_BBS,Fayetteville_NC_USA,Granville_Errol_Casey_Jr.,Unpublished,9600,CM,ITN,INA:toolazy.ddns.net,IBN,U,SC
 ,195,4wheelham_BBS,Littleton_CO_USA,John_Julian,Unpublished,9600,CM,ITN,INA:bbs.4wheelham.com,IBN,U,SC
+,196,Local_Yocal_BBS,Clearwater_FL_USA,Mark_Meserve,Unpublished,9600,CM,ITN,INA:localyocalbbs.com,IBN,U,SC
