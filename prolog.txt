@@ -144,6 +144,7 @@
 ;S 01/08/2024 We now have our 127th node, Mark Meserve from Clearwater, Florida, USA
 ;S 06/08/2024 We now have our 128th node, Rob Olsen from New Providence, NJ, USA
 ;S 08/08/2024 We now have our 129th node, Cashan Stine from Dallas, TX, USA
+;S 17/08/2024 We now have our 130th node, Lloyd Alexandre from Vancouver, BC, CA
 ;S
 ;S Notice:
 ;S
