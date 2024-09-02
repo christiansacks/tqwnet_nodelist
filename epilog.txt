@@ -25,6 +25,7 @@
 ;S    UEZ   Ezycom BBS 
 ;S    UFI   Fidian
 ;S    UGT   GT Power
+;S    UIQ   Iniquity
 ;S    UMB   MBSE
 ;S    UMG   Magicka BBS 
 ;S    UMX   Maximus CBCS
