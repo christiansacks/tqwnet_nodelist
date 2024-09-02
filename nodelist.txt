@@ -135,3 +135,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,198,Uncomfortable_Business,Dallas_TX_USA,Cashan_Stine,Unpublished,9600,CM,ITN:6423,INA:bbs.uncomfortable.business,IBN,U,TG
 ,199,Vintage_Pi_BBS,Vancouver_BC_CA,Lloyd_Alexandre,Unpublished,9600,CM,ITN,INA:vintagepi.asuscomm.com,IBN,U,MY
 ,200,Exotica_BBS,The_Villages_FL_USA,Greg_Youngblood,Unpublished,9600,CM,ITN:8888,INA:exoticabbs.com,IBN,U,IQ
+,201,HeXeD,Troy_OH_USA,Mitch_Greive,Unpublished,9600,CM,ITN:23999,INA:hexedbbs.com,IBN,U,OB

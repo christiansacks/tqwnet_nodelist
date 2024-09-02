@@ -30,6 +30,7 @@
 ;S    UMG   Magicka BBS 
 ;S    UMX   Maximus CBCS
 ;S    UMY   Mystic BBS 
+;S    UOB   OBLiViON/2
 ;S    UPB   ProBoard
 ;S    UPW   PowerBBS
 ;S    URA   RemoteAccess BBS 
