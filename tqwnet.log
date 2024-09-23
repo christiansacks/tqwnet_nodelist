@@ -9933,3 +9933,13 @@ d 22-Mar-2024 09:55:06 makenl[3877831] /home/christian/git/personal/makenl-code/
 + 02-Sep-2024 14:59:06 makenl[1677529] Creating archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a50' containing '/root/git/tqwnet_nodelist/outfile/tqwnet.250'
 ? 02-Sep-2024 14:59:06 makenl[1677529] Unable to create archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a50'
 ? 02-Sep-2024 14:59:06 makenl[1677529] MakeNL finished (rc=253)
+
+- 23-Sep-2024 17:11:56 makenl[600082] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 23-Sep-2024 17:11:56 makenl[600082] MakeNL started
++ 23-Sep-2024 17:11:56 makenl[600082] Cmdline: makenl "nodelist.txt"
++ 23-Sep-2024 17:11:56 makenl[600082] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 23-Sep-2024 17:11:56 makenl[600082] Begin processing 'tqwnet.' -- 17:11, Monday, September 23, 2024
+? 23-Sep-2024 17:11:56 makenl[600082] Old file '/root/git/tqwnet_nodelist/outfile/tqwnet.264' does not exist, no difference file made
++ 23-Sep-2024 17:11:56 makenl[600082] Creating archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a71' containing '/root/git/tqwnet_nodelist/outfile/tqwnet.271'
+? 23-Sep-2024 17:11:56 makenl[600082] Unable to create archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a71'
+? 23-Sep-2024 17:11:56 makenl[600082] MakeNL finished (rc=253)

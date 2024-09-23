@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, August 9, 2024 -- Day number 222 : 16826
+;A tqwnet Nodelist for Friday, September 27, 2024 -- Day number 271 : 10076
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -147,6 +147,10 @@
 ;S 01/08/2024 We now have our 127th node, Mark Meserve from Clearwater, Florida, USA
 ;S 06/08/2024 We now have our 128th node, Rob Olsen from New Providence, NJ, USA
 ;S 08/08/2024 We now have our 129th node, Cashan Stine from Dallas, TX, USA
+;S 17/08/2024 We now have our 130th node, Lloyd Alexandre from Vancouver, BC, CA
+;S 02/09/2024 We now have our 131st node, Greg Youngblood from The Villages, FL, USA
+;S 02/09/2024 We now have our 132nd node, Mitch Greive from Troy, OH, USA
+;S 23/09/2024 We now have our 133rd node, Stacy Caudle from Gastonia, NC, USA
 ;S
 ;S Notice:
 ;S
@@ -278,6 +282,10 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,-Unpublished-,9600,CM,ITN,INA:mont
 ,196,Local_Yocal_BBS,Clearwater_FL_USA,Mark_Meserve,Unpublished,9600,CM,ITN,INA:localyocalbbs.com,IBN,U,SC
 ,197,Rise_n_Shine,New_Providence_NJ_USA,Rob_Olsen,Unpublished,9600,CM,ITN,INA:rns.risenshinebbs.com,IBN,U,SC
 ,198,Uncomfortable_Business,Dallas_TX_USA,Cashan_Stine,Unpublished,9600,CM,ITN:6423,INA:bbs.uncomfortable.business,IBN,U,TG
+,199,Vintage_Pi_BBS,Vancouver_BC_CA,Lloyd_Alexandre,Unpublished,9600,CM,ITN,INA:vintagepi.asuscomm.com,IBN,U,MY
+,200,Exotica_BBS,The_Villages_FL_USA,Greg_Youngblood,Unpublished,9600,CM,ITN:8888,INA:exoticabbs.com,IBN,U,IQ
+,201,HeXeD,Troy_OH_USA,Mitch_Greive,Unpublished,9600,CM,ITN:23999,INA:hexedbbs.com,IBN,U,OB
+,202,MicroBurst_II_BBS,Gastonia_NC_USA,Stacy_Caudle,Unpublished,9600,CM,ITN:26,INA:microbur.synchro.net,IBN,U,SC
 ;S
 ;S
 ;S Mail Processing
@@ -305,10 +313,12 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,-Unpublished-,9600,CM,ITN,INA:mont
 ;S    UEZ   Ezycom BBS
 ;S    UFI   Fidian
 ;S    UGT   GT Power
+;S    UIQ   Iniquity
 ;S    UMB   MBSE
 ;S    UMG   Magicka BBS
 ;S    UMX   Maximus CBCS
 ;S    UMY   Mystic BBS
+;S    UOB   OBLiViON/2
 ;S    UPB   ProBoard
 ;S    UPW   PowerBBS
 ;S    URA   RemoteAccess BBS
