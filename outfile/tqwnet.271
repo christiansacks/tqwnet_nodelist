@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, September 27, 2024 -- Day number 271 : 10076
+;A tqwnet Nodelist for Friday, September 27, 2024 -- Day number 271 : 40102
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -151,6 +151,7 @@
 ;S 02/09/2024 We now have our 131st node, Greg Youngblood from The Villages, FL, USA
 ;S 02/09/2024 We now have our 132nd node, Mitch Greive from Troy, OH, USA
 ;S 23/09/2024 We now have our 133rd node, Stacy Caudle from Gastonia, NC, USA
+;S 25/09/2024 We now have our 134th node, Matt Webster from Glastonbury, CT, USA
 ;S
 ;S Notice:
 ;S
@@ -286,6 +287,7 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,-Unpublished-,9600,CM,ITN,INA:mont
 ,200,Exotica_BBS,The_Villages_FL_USA,Greg_Youngblood,Unpublished,9600,CM,ITN:8888,INA:exoticabbs.com,IBN,U,IQ
 ,201,HeXeD,Troy_OH_USA,Mitch_Greive,Unpublished,9600,CM,ITN:23999,INA:hexedbbs.com,IBN,U,OB
 ,202,MicroBurst_II_BBS,Gastonia_NC_USA,Stacy_Caudle,Unpublished,9600,CM,ITN:26,INA:microbur.synchro.net,IBN,U,SC
+,203,Cabana_Bar_BBS,Glastonbury_CT_USA,Matt_Webster,Unpublished,9600,CM,ITN:11123,INA:bbs.cabanabar.net,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
