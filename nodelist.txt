@@ -137,3 +137,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,200,Exotica_BBS,The_Villages_FL_USA,Greg_Youngblood,Unpublished,9600,CM,ITN:8888,INA:exoticabbs.com,IBN,U,IQ
 ,201,HeXeD,Troy_OH_USA,Mitch_Greive,Unpublished,9600,CM,ITN:23999,INA:hexedbbs.com,IBN,U,OB
 ,202,MicroBurst_II_BBS,Gastonia_NC_USA,Stacy_Caudle,Unpublished,9600,CM,ITN:26,INA:microbur.synchro.net,IBN,U,SC
+,203,Cabana_Bar_BBS,Glastonbury_CT_USA,Matt_Webster,Unpublished,9600,CM,ITN:11123,INA:bbs.cabanabar.net,IBN,U,MY
