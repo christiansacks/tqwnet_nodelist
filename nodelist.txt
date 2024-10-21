@@ -141,3 +141,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,204,lopht,Troy_OH_USA,Mitch_Greive,Unpublished,9600,CM,ITN:1337,INA:lopht.hexedbbs.com,IBN,U,MY
 ,205,RayzerNET_BBS,Russellville_KY_USA,Jonathan_Hohimer,Unpublished,9600,CM,ITN:2112,INA:connect.rayzer.net,IBN,U,MY
 ,206,A-Net_Online,Woodstock_GA_USA,Stingray,Unpublished,9600,CM,ITN,INA:a-net-online.lol,IBN,U,SC
+,207,Mystic_A-Net_Online,Woodstock_GA_USA,Stingray,Unpublished,9600,CM,ITN,INA:mystic.a-net-online.lol,IBN,U,MY
