@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, September 6, 2024 -- Day number 250 : 00673
+;A tqwnet Nodelist for Friday, October 25, 2024 -- Day number 299 : 56106
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -150,6 +150,12 @@
 ;S 17/08/2024 We now have our 130th node, Lloyd Alexandre from Vancouver, BC, CA
 ;S 02/09/2024 We now have our 131st node, Greg Youngblood from The Villages, FL, USA
 ;S 02/09/2024 We now have our 132nd node, Mitch Greive from Troy, OH, USA
+;S 23/09/2024 We now have our 133rd node, Stacy Caudle from Gastonia, NC, USA
+;S 25/09/2024 We now have our 134th node, Matt Webster from Glastonbury, CT, USA
+;S 25/09/2024 We now have our 135th node, Mitch Greive from Troy, OH, USA
+;S 29/09/2024 We now have our 136th node, Jonathan Hohimer from Russellville, KY, USA
+;S 17/10/2024 We now have our 137th node, Stingray from Woodstock, GA, USA
+;S 21/10/2024 We now have our 138th node, Stingray other BBS from Woodstock, GA, USA
 ;S
 ;S Notice:
 ;S
@@ -284,6 +290,12 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,-Unpublished-,9600,CM,ITN,INA:mont
 ,199,Vintage_Pi_BBS,Vancouver_BC_CA,Lloyd_Alexandre,Unpublished,9600,CM,ITN,INA:vintagepi.asuscomm.com,IBN,U,MY
 ,200,Exotica_BBS,The_Villages_FL_USA,Greg_Youngblood,Unpublished,9600,CM,ITN:8888,INA:exoticabbs.com,IBN,U,IQ
 ,201,HeXeD,Troy_OH_USA,Mitch_Greive,Unpublished,9600,CM,ITN:23999,INA:hexedbbs.com,IBN,U,OB
+,202,MicroBurst_II_BBS,Gastonia_NC_USA,Stacy_Caudle,Unpublished,9600,CM,ITN:26,INA:microbur.synchro.net,IBN,U,SC
+,203,Cabana_Bar_BBS,Glastonbury_CT_USA,Matt_Webster,Unpublished,9600,CM,ITN:11123,INA:bbs.cabanabar.net,IBN,U,MY
+,204,lopht,Troy_OH_USA,Mitch_Greive,Unpublished,9600,CM,ITN:1337,INA:lopht.hexedbbs.com,IBN,U,MY
+,205,RayzerNET_BBS,Russellville_KY_USA,Jonathan_Hohimer,Unpublished,9600,CM,ITN:2112,INA:connect.rayzer.net,IBN,U,MY
+,206,A-Net_Online,Woodstock_GA_USA,Stingray,Unpublished,9600,CM,ITN,INA:a-net-online.lol,IBN,U,SC
+,207,Mystic_A-Net_Online,Woodstock_GA_USA,Stingray,Unpublished,9600,CM,ITN,INA:mystic.a-net-online.lol,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
