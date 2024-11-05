@@ -153,6 +153,7 @@
 ;S 29/09/2024 We now have our 136th node, Jonathan Hohimer from Russellville, KY, USA
 ;S 17/10/2024 We now have our 137th node, Stingray from Woodstock, GA, USA
 ;S 21/10/2024 We now have our 138th node, Stingray other BBS from Woodstock, GA, USA
+;S 05/11/2024 We now have our 129th node, Will Milberger from Kurten, TX, USA
 ;S
 ;S Notice:
 ;S
