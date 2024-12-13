@@ -143,3 +143,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,206,A-Net_Online,Woodstock_GA_USA,Stingray,Unpublished,9600,CM,ITN,INA:a-net-online.lol,IBN,U,SC
 ,207,Mystic_A-Net_Online,Woodstock_GA_USA,Stingray,Unpublished,9600,CM,ITN,INA:mystic.a-net-online.lol,IBN,U,MY
 ,208,Dark_Matter_BBS,Kurten_TX_USA,Will_Milberger,Unpublished,9600,CM,ITN,INA:darkmatt.synchro.net,IBN,U,SC
+,209,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,Unpublished,9600,CM,ITN,INA:bbs.4d2.org,IBN,U,SC
