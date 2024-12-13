@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, October 25, 2024 -- Day number 299 : 56106
+;A tqwnet Nodelist for Friday, December 13, 2024 -- Day number 348 : 61735
 ;A  Copyright 2018-2118, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -156,6 +156,8 @@
 ;S 29/09/2024 We now have our 136th node, Jonathan Hohimer from Russellville, KY, USA
 ;S 17/10/2024 We now have our 137th node, Stingray from Woodstock, GA, USA
 ;S 21/10/2024 We now have our 138th node, Stingray other BBS from Woodstock, GA, USA
+;S 05/11/2024 We now have our 129th node, Will Milberger from Kurten, TX, USA
+;S 13/12/2024 We now have our 130th node, Sarah Proctor from Portland, OR, USA
 ;S
 ;S Notice:
 ;S
@@ -296,6 +298,8 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,-Unpublished-,9600,CM,ITN,INA:mont
 ,205,RayzerNET_BBS,Russellville_KY_USA,Jonathan_Hohimer,Unpublished,9600,CM,ITN:2112,INA:connect.rayzer.net,IBN,U,MY
 ,206,A-Net_Online,Woodstock_GA_USA,Stingray,Unpublished,9600,CM,ITN,INA:a-net-online.lol,IBN,U,SC
 ,207,Mystic_A-Net_Online,Woodstock_GA_USA,Stingray,Unpublished,9600,CM,ITN,INA:mystic.a-net-online.lol,IBN,U,MY
+,208,Dark_Matter_BBS,Kurten_TX_USA,Will_Milberger,Unpublished,9600,CM,ITN,INA:darkmatt.synchro.net,IBN,U,SC
+,209,4d2_dot_org,Portland_OR_USA,Sarah_Proctor,Unpublished,9600,CM,ITN,INA:bbs.4d2.org,IBN,U,SC
 ;S
 ;S
 ;S Mail Processing
