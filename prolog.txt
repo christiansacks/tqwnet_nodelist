@@ -156,6 +156,7 @@
 ;S 05/11/2024 We now have our 129th node, Will Milberger from Kurten, TX, USA
 ;S 13/12/2024 We now have our 130th node, Sarah Proctor from Portland, OR, USA
 ;S 03/01/2025 We now have our 131st node, Ricky DeLuco from Titusville, FL, USA
+;S 14/01/2025 We now have our 132nd node, Ricky DeLuco from Titusville, FL, USA (2nd BBS)
 ;S
 ;S Notice:
 ;S
