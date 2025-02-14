@@ -10031,3 +10031,12 @@ d 22-Mar-2024 09:55:06 makenl[3877831] /home/christian/git/personal/makenl-code/
 + 14-Jan-2025 14:33:00 makenl[3501171] Creating archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a17' containing '/root/git/tqwnet_nodelist/outfile/tqwnet.017'
 ? 14-Jan-2025 14:33:00 makenl[3501171] Unable to create archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a17'
 ? 14-Jan-2025 14:33:00 makenl[3501171] MakeNL finished (rc=253)
+
+- 14-Feb-2025 13:37:08 makenl[1576134] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 14-Feb-2025 13:37:08 makenl[1576134] MakeNL started
++ 14-Feb-2025 13:37:08 makenl[1576134] Cmdline: makenl "nodelist.txt"
++ 14-Feb-2025 13:37:08 makenl[1576134] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 14-Feb-2025 13:37:08 makenl[1576134] Begin processing 'tqwnet.' -- 13:37, Friday, February 14, 2025
++ 14-Feb-2025 13:37:08 makenl[1576134] Unchanged output file will NOT be submitted
++ 14-Feb-2025 13:37:08 makenl[1576134] CRC = 52933
++ 14-Feb-2025 13:37:08 makenl[1576134] MakeNL finished (rc=0)
