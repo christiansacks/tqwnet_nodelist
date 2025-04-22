@@ -158,6 +158,7 @@
 ;S 03/01/2025 We now have our 131st node, Ricky DeLuco from Titusville, FL, USA
 ;S 14/01/2025 We now have our 132nd node, Ricky DeLuco from Titusville, FL, USA (2nd BBS)
 ;S 22/02/2025 We now have our 133rd node, Daniel Traechin from Rancho Cordova, CA, USA
+;S 22/04/2025 We now have our 134th node, Craig Daters from Tucson, Arizona, USA
 ;S
 ;S Notice:
 ;S
