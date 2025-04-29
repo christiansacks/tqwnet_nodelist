@@ -63,6 +63,7 @@ Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca
 ,113,Raiders_Inc_BBS,Wichita_KS_US,Jon_Justvig,Unpublished,9600,CM,ITN,INA:vintagebbsing.com,IBN:24554,U,MY
 ,115,Freeside_BBS,Cincinnati_OH_US,Marty_Taylor,Unpublished,9600,CM,ITN,INA:freeside.bbs.io,IBN:24554,U,MY
 ,116,V'Ger_BBS,Los_Angeles_CA_US,Bradley_Thornton,Unpublished,9600,CM,ITN,INA:vger.cloud,IBN:24554,U,MY
+,117,The_Global_Village_BBS,Emmen_NL,Sebastian_van_der_Veen,Unpublished,9600,CM,ITN,INA:the.globalvillagebbs.net,IBN,U,MY
 ,119,Deadbeatz_BBS,Albuquerque_NM_US,Timothy_Blada,Unpublished,9600,CM,ITN,INA:deadbeatz.org,IBN,U,MY
 ,121,SpaceSST_BBS,Montreal_Quebec_CA,Luc_McCarragher,Unpublished,9600,CM,ITN,INA:mccarragher.org,IBN:24554,U,MY
 ,122,Dreambuilders,San_Jose_CA_US,Hauns_Froehlingsdorf,Unpublished,9600,CM,ITN:6800,INA:dreambuilders.fros.com,IBN,U,CN
