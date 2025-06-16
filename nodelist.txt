@@ -150,3 +150,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,211,N4TDX_BBS,Titusville_FL_USA,Ricky_DeLuco,Unpublished,9600,CM,ITN:2323,INA:N4TDX.ddns.net,IBN,U,MY
 ,212,Air_&_Wave_BBS,Rancho_Cordova_CA_USA,Daniel_Traechin,Unpublished,9600,CM,ITN:2323,INA:bbs.airandwave.net,IBN,U,MY
 ,213,Mystical_Realm_BBS,Tucson_Arizona_USA,Craig_Daters,Unpublished,9600,CM,ITN:1123,INA:mysticalrealmbbs.com,IBN,U,SC
+,214,Convolution_BBS,Upper_Milford_PA_USA,Jonathan_Schreiter,Unpublished,9600,CM,ITN,INA:convolution.us,IBN,U,SC
