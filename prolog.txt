@@ -161,6 +161,7 @@
 ;S 22/04/2025 We now have our 134th node, Craig Daters from Tucson, Arizona, USA
 ;S 13/05/2025 We now have our 135th node, Costin Stroie from Bucharest, Romania. This node is private.
 ;S 16/06/2025 We now have our 136th node, Jonathan Schreiter from Upper Milford, PA, USA
+;S 14/07/2025 We now have our 137th node, Dave Scott from Mt. Healthy, OH, USA
 ;S
 ;S Notice:
 ;S
