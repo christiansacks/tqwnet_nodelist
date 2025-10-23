@@ -20,7 +20,7 @@ Hub,100,tqwNet_UK_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.uk
 ,101,The_Quantum_Wormhole,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN,INA:bbs.erb.pw,IBN,U,MY,ZT:886642e222
 ,102,Kuehlbox,Frankfurt_DE,Philipp_Giebel,Unpublished,9600,CM,ITN,INA:kuehlbox.wtf,IBN,U,MY
 ,103,HB3NOS,Ouwerkerk_NL,Henk_Blanken,Unpublished,9600,CM,ITN,INA:62.238.86.72,IBN,U,MY
-,104,FuNToPia,Potsdam_DE,Stephan_Gebbers,Unpublished,9600,CM,ITN:2023,INA:funtopia.ddnss.eu,IBN,U,MG
+,104,FuNToPia,Potsdam_DE,Stephan_Gebbers,Unpublished,9600,CM,ITN:3023,INA:funtopia.synchro.net,IBN,U,SC
 ,105,TechNoir,Frankfurt_DE,Runner_Seven,Unpublished,9600,CM,ITN:723,INA:technoir.panthermodern.net,IBN,U,MY
 Pvt,106,-.sOUNDGARDEn.-,Zoetermeer_Netherlands,Marco_Reparon,Unpublished,9600,CM,ITN,INA,IBN,U,MY
 ,107,Sonic_BBS,Beverley_UK,Louis_Northmore,Unpublished,9600,CM,ITN,INA:bbs.sonicbbs.co.uk,IBN:24554,U,EG
