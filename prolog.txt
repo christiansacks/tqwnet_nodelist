@@ -165,6 +165,7 @@
 ;S 18/08/2025 We now have our 138th node, Robert Thornton from Tupelo, MS, USA
 ;S 17/10/2025 We now have our 139th node, Evgeny Shaverin from Israel
 ;S 23/10/2025 Changed BBS software for Funtopia BBS
+;S 07/11/2025 We now have our 140th node, Tanausu Martin Gonzalez from S/C Tenerife, Spain
 ;S
 ;S Notice:
 ;S
