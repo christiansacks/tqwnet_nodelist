@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, November 7, 2025 -- Day number 311 : 35679
+;A tqwnet Nodelist for Friday, November 7, 2025 -- Day number 311 : 43772
 ;S 08/26/2018 tqwNet is born!
 ;S 08/26/2018 All nodes are required to have Cram-MD5 ON! Nodes before this date can keep current settings.
 ;S 08/26/2018 All nodes will be auto-subscribed to all message echos!
@@ -166,6 +166,8 @@
 ;S 18/08/2025 We now have our 138th node, Robert Thornton from Tupelo, MS, USA
 ;S 17/10/2025 We now have our 139th node, Evgeny Shaverin from Israel
 ;S 23/10/2025 Changed BBS software for Funtopia BBS
+;S 07/11/2025 We now have our 140th node, Tanausu Martin Gonzalez from S/C Tenerife, Spain
+;S 07/11/2025 We now have our 141st node, Scott Tompkins from Ontario, Canada
 ;S
 ;S Notice:
 ;S
@@ -203,6 +205,7 @@ Pvt,117,The_Global_Village_BBS,Emmen_NL,Sebastian_van_der_Veen,-Unpublished-,960
 Pvt,122,NetPoint,Rome_Italy,Alessio_Tempesta,-Unpublished-,9600,CM,ITN,INA,IBN,U,SC
 Pvt,124,Eridu,Bucharest_Romania,Costin_Stroie,-Unpublished-,9600,CM,ITN:23023,INA:eridu.eu.org,IBN,U,MY
 ,125,Mcore_BBS,Israel,Evgeny_Shaverin,Unpublished,9600,CM,ITN:2323,INA:mcore.hs.vc,IBN,U,MY
+,126,Citrick_BBS,S/C_Tenerife_Spain,Tanausu_Martin_Gonzalez,Unpublished,9600,CM,ITN:2300,INA:wilco.ydns.eu,IBN,U,SC
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 ;
@@ -316,6 +319,7 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,-Unpublished-,9600,CM,ITN,INA:mont
 ,214,Convolution_BBS,Upper_Milford_PA_USA,Jonathan_Schreiter,Unpublished,9600,CM,ITN,INA:convolution.us,IBN,U,SC
 ,215,Bunker_3,Mt._Healthy_OH_USA,Dave_Scott,Unpublished,9600,CM,ITN:8888,INA:woofer.v6.rocks,IBN,U,MY
 ,216,Thunder-Line_BBS,Tupelo_MS_USA,Robert_Thornton,Unpublished,9600,CM,ITN,INA:thunder.synchro.net,IBN,U,SC
+,217,No_Carrier_BBS,Ontario_Canada,Scott_Tompkins,Unpublished,9600,CM,ITN,INA:bbs.dn42,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
