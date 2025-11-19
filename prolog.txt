@@ -167,6 +167,7 @@
 ;S 23/10/2025 Changed BBS software for Funtopia BBS
 ;S 07/11/2025 We now have our 140th node, Tanausu Martin Gonzalez from S/C Tenerife, Spain
 ;S 07/11/2025 We now have our 141st node, Scott Tompkins from Ontario, Canada
+;S 19/11/2025 We now have our 142nd node, Brian Scott from Siloam Springs, AR, USA
 ;S
 ;S Notice:
 ;S
