@@ -168,6 +168,7 @@
 ;S 07/11/2025 We now have our 140th node, Tanausu Martin Gonzalez from S/C Tenerife, Spain
 ;S 07/11/2025 We now have our 141st node, Scott Tompkins from Ontario, Canada
 ;S 19/11/2025 We now have our 142nd node, Brian Scott from Siloam Springs, AR, USA
+;S 26/11/2025 We now have our 143rd node, Andrew Ward from Creswell, Derbyshire, UK
 ;S
 ;S Notice:
 ;S
