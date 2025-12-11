@@ -170,6 +170,7 @@
 ;S 19/11/2025 We now have our 142nd node, Brian Scott from Siloam Springs, AR, USA
 ;S 26/11/2025 We now have our 143rd node, Andrew Ward from Creswell, Derbyshire, UK
 ;S 03/12/2025 We now have our 144th node, Arson Gear from Columbus, OH, USA. This node is private.
+;S 11/12/2025 We now have our 145th node, Steve Layton from Portland, OR, US
 ;S
 ;S Notice:
 ;S
