@@ -156,5 +156,5 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 ,216,Thunder-Line_BBS,Tupelo_MS_USA,Robert_Thornton,Unpublished,9600,CM,ITN,INA:thunder.synchro.net,IBN,U,SC
 ,217,No_Carrier_BBS,Ontario_Canada,Scott_Tompkins,Unpublished,9600,CM,ITN,INA:bbs.dn42,IBN,U,MY
 ,218,The_Ham_Shack_BBS,Siloam_Springs_AR_USA,Brian_Scott,Unpublished,9600,CM,ITN,INA:hamshack.synchro.net,IBN,U,SC
-Pvt,219,WINCOR_Systems_BBS,Columbus_OH_USA,Arson_Gear,Unpublished,9600,CM,ITN:1337,INA:18.222.146.59,IBN,U,MY
+Pvt,219,WINCOR_Headquarters_BBS,Columbus_OH_USA,Arash_Farnian,Unpublished,9600,CM,ITN:1337,INA:18.222.146.59,IBN,U,MY
 ,220,Angstridden_BBS,Portland_OR_US,Steve_Layton,Unpublished,9600,CM,ITN:1336,INA:angstridden.net,IBN,U,CU
