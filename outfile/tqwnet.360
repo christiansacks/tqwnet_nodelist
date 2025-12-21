@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, December 26, 2025 -- Day number 360 : 21869
+;A tqwnet Nodelist for Friday, December 26, 2025 -- Day number 360 : 43096
 ;S 08/26/2018 tqwNet is born!
 ;S 08/26/2018 All nodes are required to have Cram-MD5 ON! Nodes before this date can keep current settings.
 ;S 08/26/2018 All nodes will be auto-subscribed to all message echos!
@@ -329,7 +329,7 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,-Unpublished-,9600,CM,ITN,INA:mont
 ,218,The_Ham_Shack_BBS,Siloam_Springs_AR_USA,Brian_Scott,Unpublished,9600,CM,ITN,INA:hamshack.synchro.net,IBN,U,SC
 Pvt,219,WINCOR_Headquarters_BBS,Columbus_OH_USA,Arash_Farnian,-Unpublished-,9600,CM,ITN:1337,INA:18.222.146.59,IBN,U,MY
 ,220,Angstridden_BBS,Portland_OR_US,Steve_Layton,Unpublished,9600,CM,ITN:1336,INA:angstridden.net,IBN,U,CU
-Pvt,221,GUILD_BBS,M??nchen_DE,Ryder_Navi,-Unpublished-,9600,CM,ITN,INA:guild.phatstar.org,IBN,U,MY
+Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,-Unpublished-,9600,CM,ITN,INA:guild.phatstar.org,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
