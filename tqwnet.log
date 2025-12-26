@@ -10686,3 +10686,13 @@ d 22-Mar-2024 09:55:06 makenl[3877831] /home/christian/git/personal/makenl-code/
 + 21-Dec-2025 10:49:12 makenl[3850145] Creating difference file '/root/git/tqwnet_nodelist/outfile/tqwnet.d60' from '/root/git/tqwnet_nodelist/outfile/tqwnet.353' and '/root/git/tqwnet_nodelist/outfile/tqwnet.360'
 + 21-Dec-2025 10:49:12 makenl[3850145] CRC = 43096
 + 21-Dec-2025 10:49:12 makenl[3850145] MakeNL finished (rc=0)
+
+- 26-Dec-2025 13:37:09 makenl[2411822] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 26-Dec-2025 13:37:09 makenl[2411822] MakeNL started
++ 26-Dec-2025 13:37:09 makenl[2411822] Cmdline: makenl "nodelist.txt"
++ 26-Dec-2025 13:37:09 makenl[2411822] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 26-Dec-2025 13:37:09 makenl[2411822] Begin processing 'tqwnet.' -- 13:37, Friday, December 26, 2025
+? 26-Dec-2025 13:37:09 makenl[2411822] WARNING -- file cpyright.txt not found
++ 26-Dec-2025 13:37:09 makenl[2411822] Unchanged output file will NOT be submitted
++ 26-Dec-2025 13:37:09 makenl[2411822] CRC = 43096
++ 26-Dec-2025 13:37:09 makenl[2411822] MakeNL finished (rc=0)
