@@ -159,4 +159,4 @@ Pvt,169,monterey,San_Francisco_CA,Ryan_Fantus,Unpublished,9600,CM,ITN,INA:monter
 Pvt,219,WINCOR_Headquarters_BBS,Columbus_OH_USA,Arash_Farnian,Unpublished,9600,CM,ITN:1337,INA:18.222.146.59,IBN,U,MY
 ,220,Angstridden_BBS,Portland_OR_US,Steve_Layton,Unpublished,9600,CM,ITN:1336,INA:angstridden.net,IBN,U,CU
 Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatstar.org,IBN,U,MY
-,222,futureland.today,Arizona_USA,HM_Derdoc,Unpublished,9600,CM,ITN,INA:futureland.today,IBN,U,SC
+,222,Futureland_Today,Arizona_USA,HM_Derdoc,Unpublished,9600,CM,ITN,INA:futureland.today,IBN,U,SC

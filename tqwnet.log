@@ -10726,3 +10726,35 @@ d 22-Mar-2024 09:55:06 makenl[3877831] /home/christian/git/personal/makenl-code/
 + 02-Jan-2026 13:37:08 makenl[1979702] Unchanged output file will NOT be submitted
 + 02-Jan-2026 13:37:08 makenl[1979702] CRC = 22045
 + 02-Jan-2026 13:37:08 makenl[1979702] MakeNL finished (rc=0)
+
+- 02-Jan-2026 18:04:55 makenl[2081150] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 02-Jan-2026 18:04:55 makenl[2081150] MakeNL started
++ 02-Jan-2026 18:04:55 makenl[2081150] Cmdline: makenl "nodelist.txt"
++ 02-Jan-2026 18:04:55 makenl[2081150] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 02-Jan-2026 18:04:55 makenl[2081150] Begin processing 'tqwnet.' -- 18:04, Friday, January 2, 2026
+? 02-Jan-2026 18:04:55 makenl[2081150] WARNING -- file cpyright.txt not found
+? 02-Jan-2026 18:04:55 makenl[2081150] Old file '/root/git/tqwnet_nodelist/outfile/tqwnet.360' does not exist, no difference file made
++ 02-Jan-2026 18:04:55 makenl[2081150] Creating archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a02' containing '/root/git/tqwnet_nodelist/outfile/tqwnet.002'
+? 02-Jan-2026 18:04:55 makenl[2081150] Unable to create archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a02'
+? 02-Jan-2026 18:04:55 makenl[2081150] MakeNL finished (rc=253)
+
+- 02-Jan-2026 18:06:14 makenl[2081895] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 02-Jan-2026 18:06:14 makenl[2081895] MakeNL started
++ 02-Jan-2026 18:06:14 makenl[2081895] Cmdline: makenl "nodelist.txt"
++ 02-Jan-2026 18:06:14 makenl[2081895] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 02-Jan-2026 18:06:14 makenl[2081895] Begin processing 'tqwnet.' -- 18:06, Friday, January 2, 2026
+? 02-Jan-2026 18:06:14 makenl[2081895] WARNING -- file cpyright.txt not found
++ 02-Jan-2026 18:06:14 makenl[2081895] Unchanged output file will NOT be submitted
++ 02-Jan-2026 18:06:14 makenl[2081895] CRC = 35719
++ 02-Jan-2026 18:06:14 makenl[2081895] MakeNL finished (rc=0)
+
+- 02-Jan-2026 18:08:04 makenl[2082581] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 02-Jan-2026 18:08:04 makenl[2082581] MakeNL started
++ 02-Jan-2026 18:08:04 makenl[2082581] Cmdline: makenl "nodelist.txt"
++ 02-Jan-2026 18:08:04 makenl[2082581] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 02-Jan-2026 18:08:04 makenl[2082581] Begin processing 'tqwnet.' -- 18:08, Friday, January 2, 2026
+? 02-Jan-2026 18:08:04 makenl[2082581] WARNING -- file cpyright.txt not found
+? 02-Jan-2026 18:08:04 makenl[2082581] Old file '/root/git/tqwnet_nodelist/outfile/tqwnet.360' does not exist, no difference file made
++ 02-Jan-2026 18:08:04 makenl[2082581] Creating archive '/root/git/tqwnet_nodelist/outfile/tqwnet.a02' containing '/root/git/tqwnet_nodelist/outfile/tqwnet.002'
++ 02-Jan-2026 18:08:04 makenl[2082581] CRC = 44771
++ 02-Jan-2026 18:08:04 makenl[2082581] MakeNL finished (rc=0)
