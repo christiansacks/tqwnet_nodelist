@@ -30,6 +30,11 @@ git pull
 find outfile/ -type f -mtime +120 -exec rm {} \;
 find zip/     -type f -mtime +120 -exec rm {} \;
 
+cat << EOF > cpyright.txt
+;A  Copyright 2018-$(date +%Y), tqwNet, All rights reserved
+;A
+EOF
+
 echo "Compiling nodelist..."
 makenl nodelist.txt
 
