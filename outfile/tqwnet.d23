@@ -1,0 +1,14 @@
+;A tqwnet Nodelist for Friday, January 2, 2026 -- Day number 002 : 02348
+D1
+A3
+;A tqwnet Nodelist for Friday, January 23, 2026 -- Day number 023 : 45010
+;A  Copyright 2018-2026, tqwNet, All rights reserved
+;A
+D2
+C175
+A1
+;S 21/01/2026 We now have our 148th node, Adam Clark from Montreal, CA
+C158
+A1
+,223,Yak_Station_BBS,Montreal_CA,Adam_Clark,Unpublished,9600,CM,ITN,INA:bbs.mycrowd.ca,IBN,U,SC
+C54
