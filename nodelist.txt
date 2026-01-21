@@ -160,3 +160,4 @@ Pvt,219,WINCOR_Headquarters_BBS,Columbus_OH_USA,Arash_Farnian,Unpublished,9600,C
 ,220,Angstridden_BBS,Portland_OR_US,Steve_Layton,Unpublished,9600,CM,ITN:1336,INA:angstridden.net,IBN,U,CU
 Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatstar.org,IBN,U,MY
 ,222,Futureland_Today,Arizona_USA,HM_Derdoc,Unpublished,9600,CM,ITN,INA:futureland.today,IBN,U,SC
+,223,Yak_Station_BBS,Montreal_CA,Adam_Clark,Unpublished,9600,CM,ITN,INA:bbs.mycrowd.ca,IBN,U,SC
