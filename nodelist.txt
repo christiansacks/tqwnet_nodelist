@@ -161,3 +161,4 @@ Pvt,219,WINCOR_Headquarters_BBS,Columbus_OH_USA,Arash_Farnian,Unpublished,9600,C
 Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatstar.org,IBN,U,MY
 ,222,Futureland_Today,Arizona_USA,HM_Derdoc,Unpublished,9600,CM,ITN,INA:futureland.today,IBN,U,SC
 ,223,Yak_Station_BBS,Montreal_CA,Adam_Clark,Unpublished,9600,CM,ITN,INA:bbs.mycrowd.ca,IBN,U,SC
+,224,Silfen_Path_BBS,Columbus_OH_USA,Petar_Smilajkov,Unpublished,9600,CM,ITN,INA:bbs.silfenpath.com,IBN,U,MY

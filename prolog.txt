@@ -174,6 +174,7 @@
 ;S 21/12/2025 We now have our 146th node, Ryder Navi from München, DE
 ;S 30/12/2025 We now have our 147th node, HM Derdoc from Arizona, US
 ;S 21/01/2026 We now have our 148th node, Adam Clark from Montreal, CA
+;S 21/01/2026 We now have our 149th node, Petar Smilajkov from Columbus, OH, USA
 ;S
 ;S Notice:
 ;S
