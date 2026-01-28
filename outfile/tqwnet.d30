@@ -1,14 +1,16 @@
 ;A tqwnet Nodelist for Friday, January 23, 2026 -- Day number 023 : 45010
 D1
 A3
-;A tqwnet Nodelist for Friday, January 30, 2026 -- Day number 030 : 60473
+;A tqwnet Nodelist for Friday, January 30, 2026 -- Day number 030 : 49967
 ;A  Copyright 2018-2026, tqwNet, All rights reserved
 ;A
 D2
 C176
-A1
+A2
 ;S 21/01/2026 We now have our 149th node, Petar Smilajkov from Columbus, OH, USA
+;S 28/01/2026 We now have our 150th node, Rob McGee from Forest Grove, OR, USA
 C159
-A1
+A2
 ,224,Silfen_Path_BBS,Columbus_OH_USA,Petar_Smilajkov,Unpublished,9600,CM,ITN,INA:bbs.silfenpath.com,IBN,U,MY
+,225,The_X-Bit_BBS,Forest_Grove_OR_USA,Rob_McGee_(xbit),Unpublished,9600,CM,ITN,INA:x-bit.org,IBN,U,SC
 C54

@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, January 30, 2026 -- Day number 030 : 60473
+;A tqwnet Nodelist for Friday, January 30, 2026 -- Day number 030 : 49967
 ;A  Copyright 2018-2026, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -178,6 +178,7 @@
 ;S 30/12/2025 We now have our 147th node, HM Derdoc from Arizona, US
 ;S 21/01/2026 We now have our 148th node, Adam Clark from Montreal, CA
 ;S 21/01/2026 We now have our 149th node, Petar Smilajkov from Columbus, OH, USA
+;S 28/01/2026 We now have our 150th node, Rob McGee from Forest Grove, OR, USA
 ;S
 ;S Notice:
 ;S
@@ -338,6 +339,7 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,-Unpublished-,9600,CM,ITN,INA:guild.phat
 ,222,Futureland_Today,Arizona_USA,HM_Derdoc,Unpublished,9600,CM,ITN,INA:futureland.today,IBN,U,SC
 ,223,Yak_Station_BBS,Montreal_CA,Adam_Clark,Unpublished,9600,CM,ITN,INA:bbs.mycrowd.ca,IBN,U,SC
 ,224,Silfen_Path_BBS,Columbus_OH_USA,Petar_Smilajkov,Unpublished,9600,CM,ITN,INA:bbs.silfenpath.com,IBN,U,MY
+,225,The_X-Bit_BBS,Forest_Grove_OR_USA,Rob_McGee_(xbit),Unpublished,9600,CM,ITN,INA:x-bit.org,IBN,U,SC
 ;S
 ;S
 ;S Mail Processing
