@@ -43,6 +43,7 @@ Pvt,124,Eridu,Bucharest_Romania,Costin_Stroie,Unpublished,9600,CM,ITN:23023,INA:
 ,125,Mcore_BBS,Israel,Evgeny_Shaverin,Unpublished,9600,CM,ITN:2323,INA:mcore.hs.vc,IBN,U,MY
 ,126,Citrick_BBS,S/C_Tenerife_Spain,Tanausu_Martin_Gonzalez,Unpublished,9600,CM,ITN:2300,INA:wilco.ydns.eu,IBN,U,SC
 ,127,Who_Dares_Wins_Amiga,Creswell_Derbyshire_UK,Andrew_Ward,Unpublished,9600,CM,ITN,INA:whodareswinsbbs.uk,IBN,U,MY
+,128,WINCOR_Headquarters_BBS,Paris_France,Ali_Khadiv,Unpublished,9600,CM,ITN:1337,INA:wincorhq.freeboxos.fr,IBN,U,MY
 ,201,dYslExIc_dOnkEy,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:1337,INA:dydo.erb.pw,IBN,U,EG,ZT:e148840e73
 ,202,PiMP_BBS,Ramsgate_UK,Christian_Sacks,Unpublished,9600,CM,ITN:18023,INA:pimpbbs.erb.pw,IBN:18554,U,MY
 Host,2,tqwNet_R2_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au.zt.erb.pw,IBN:24554,U,SC
