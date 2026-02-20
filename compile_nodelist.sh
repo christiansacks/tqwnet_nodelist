@@ -65,7 +65,7 @@ echo "Copy $WORKDIR/zip/tqwnet.$newext $PACKDIR/"
 cp $WORKDIR/zip/tqwnet.$newext $PACKDIR/
 
 echo "Creating zip archive $PACKDIR/tqwinfo.zip..."
-zip -j9 $PACKDIR/tqwinfo.zip -x newEntry.sh $PACKDIR/*
+zip -j9 $PACKDIR/tqwinfo.zip $PACKDIR/*
 
 git add . -A
 git commit -m "$COMMIT"
