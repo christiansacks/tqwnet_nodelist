@@ -165,3 +165,4 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatst
 ,224,Silfen_Path_BBS,Columbus_OH_USA,Petar_Smilajkov,Unpublished,9600,CM,ITN,INA:bbs.silfenpath.com,IBN,U,MY
 ,225,The_X-Bit_BBS,Forest_Grove_OR_USA,Rob_McGee_(xbit),Unpublished,9600,CM,ITN,INA:x-bit.org,IBN,U,SC
 ,226,BBS_PEPSICOLA,Pensacola_FL_USA,James_Washington,Unpublished,9600,CM,ITN:2023,INA:bbs.cultofjames.org,IBN,U,MY
+,227,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,Unpublished,9600,CM,ITN,INA:bbs.mynameisgabe.com,IBN,U,MY
