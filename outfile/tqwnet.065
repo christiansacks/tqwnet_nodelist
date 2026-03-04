@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, March 6, 2026 -- Day number 065 : 42122
+;A tqwnet Nodelist for Friday, March 6, 2026 -- Day number 065 : 21605
 ;A  Copyright 2018-2026, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -182,6 +182,7 @@
 ;S 14/02/2026 We now have our 151st node, Ali Khadiv from Paris, France
 ;S 02/03/2026 We now have our 152nd node, James Washington from Pensacola, FL, USA
 ;S 02/03/2026 We now have our 153rd node, Gabe Harriman from Conroe, TX, USA
+;S 04/03/2026 We now have our 154th node, Harrison Gibson from Sacramento, CA, USA
 ;S
 ;S Notice:
 ;S
@@ -346,6 +347,7 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,-Unpublished-,9600,CM,ITN,INA:guild.phat
 ,225,The_X-Bit_BBS,Forest_Grove_OR_USA,Rob_McGee_(xbit),Unpublished,9600,CM,ITN,INA:x-bit.org,IBN,U,SC
 ,226,BBS_PEPSICOLA,Pensacola_FL_USA,James_Washington,Unpublished,9600,CM,ITN:2023,INA:bbs.cultofjames.org,IBN,U,MY
 ,227,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,Unpublished,9600,CM,ITN,INA:bbs.mynameisgabe.com,IBN,U,MY
+,228,Federation_Apocalypse,Sacramento_CA_USA,Harrison_Gibson_(boxoskulz),Unpublished,9600,CM,ITN:2301,INA:fedapoc.tel,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing

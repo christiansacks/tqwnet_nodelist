@@ -1,16 +1,18 @@
 ;A tqwnet Nodelist for Friday, February 20, 2026 -- Day number 051 : 18965
 D1
 A3
-;A tqwnet Nodelist for Friday, March 6, 2026 -- Day number 065 : 42122
+;A tqwnet Nodelist for Friday, March 6, 2026 -- Day number 065 : 21605
 ;A  Copyright 2018-2026, tqwNet, All rights reserved
 ;A
 D2
 C179
-A2
+A3
 ;S 02/03/2026 We now have our 152nd node, James Washington from Pensacola, FL, USA
 ;S 02/03/2026 We now have our 153rd node, Gabe Harriman from Conroe, TX, USA
+;S 04/03/2026 We now have our 154th node, Harrison Gibson from Sacramento, CA, USA
 C162
-A2
+A3
 ,226,BBS_PEPSICOLA,Pensacola_FL_USA,James_Washington,Unpublished,9600,CM,ITN:2023,INA:bbs.cultofjames.org,IBN,U,MY
 ,227,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,Unpublished,9600,CM,ITN,INA:bbs.mynameisgabe.com,IBN,U,MY
+,228,Federation_Apocalypse,Sacramento_CA_USA,Harrison_Gibson_(boxoskulz),Unpublished,9600,CM,ITN:2301,INA:fedapoc.tel,IBN,U,MY
 C54
