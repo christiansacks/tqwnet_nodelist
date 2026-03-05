@@ -166,4 +166,5 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatst
 ,225,The_X-Bit_BBS,Forest_Grove_OR_USA,Rob_McGee_(xbit),Unpublished,9600,CM,ITN,INA:x-bit.org,IBN,U,SC
 ,226,BBS_PEPSICOLA,Pensacola_FL_USA,James_Washington,Unpublished,9600,CM,ITN:2023,INA:bbs.cultofjames.org,IBN,U,MY
 ,227,The_Dark_Side,Conroe_TX_USA,Gabe_Harriman,Unpublished,9600,CM,ITN,INA:bbs.mynameisgabe.com,IBN,U,MY
-,228,Federation_Apocalypse,Sacramento_CA_USA,Harrison_Gibson_(boxoskulz),Unpublished,9600,CM,ITN:2301,INA:fedapoc.tel,IBN,U,MY
+,228,Federation_Apocalypse,Sacramento_CA_USA,Harrison_Gibson,Unpublished,9600,CM,ITN:2301,INA:fedapoc.tel,IBN,U,MY
+,229,gemenon,Los_Angeles_CA_US,Ryan_Fantus,Unpublished,9600,CM,ITN:2323,INA:gemenon.org,IBN,U,SC
