@@ -10980,3 +10980,12 @@ d 22-Mar-2024 09:55:06 makenl[3877831] /home/christian/git/personal/makenl-code/
 + 06-Mar-2026 13:37:08 makenl[2677400] Unchanged output file will NOT be submitted
 + 06-Mar-2026 13:37:08 makenl[2677400] CRC = 55016
 + 06-Mar-2026 13:37:08 makenl[2677400] MakeNL finished (rc=0)
+
+- 13-Mar-2026 13:37:08 makenl[2266266] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 13-Mar-2026 13:37:08 makenl[2266266] MakeNL started
++ 13-Mar-2026 13:37:08 makenl[2266266] Cmdline: makenl "nodelist.txt"
++ 13-Mar-2026 13:37:08 makenl[2266266] Using 'nodelist.txt' in '/root/git/tqwnet_nodelist'
++ 13-Mar-2026 13:37:08 makenl[2266266] Begin processing 'tqwnet.' -- 13:37, Friday, March 13, 2026
++ 13-Mar-2026 13:37:08 makenl[2266266] Unchanged output file will NOT be submitted
++ 13-Mar-2026 13:37:08 makenl[2266266] CRC = 55016
++ 13-Mar-2026 13:37:08 makenl[2266266] MakeNL finished (rc=0)
