@@ -53,6 +53,7 @@ Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au
 ,105,The_Positronic_Brain,Toowoomba_QLD_AU,Andrew_Pamment,Unpublished,9600,CM,ITN:11892,INA:positronicbrain.net,IBN,U,SC
 ,106,TassieBob_BBS,Hobart_Tasmania_AU,Bob_Purdon,Unpublished,9600,CM,ITN:2323,INA:bbs.tassiebob.com,IBN,U,MY
 ,109,Retroverse,Sydney_AU,Matt_Ianson,Unpublished,9600,CM,ITN,INA:bbs.retroverse.au,IBN,U,SC
+,110,V1ntage_BBS,East_Gippsland_Victoria_AU,Randers,Unpublished,9600,CM,ITN:2323,INA:v1ntagebbs.net,IBN,U,SC
 Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
 Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
 ,102,The_Wrong_Number_][,Yorktown_Heights_NY_US,Al_DeRosa,Unpublished,9600,CM,INA:wn2.duckdns.org,IBN,U,MY
