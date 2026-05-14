@@ -171,3 +171,4 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatst
 ,229,gemenon,Los_Angeles_CA_US,Ryan_Fantus,Unpublished,9600,CM,ITN:2323,INA:gemenon.org,IBN,U,SC
 ,230,Claude's_BBS,Vancouver_BC_CA,Matthew_Asham,Unpublished,9600,CM,ITN,INA:claudes.lovelybits.org,IBN,U,CU
 ,231,A-Net_Online_ANetBBS,Woodstock_FL_USA,StingRay,Unpublished,9600,CM,ITN:2233,INA:bbs.a-net.fyi,IBN,U,CU
+,232,The_Looney_Bin_BBS!,Sunset_Beach_NC_USA,Pat_Finnerty,Unpublished,9600,CM,ITN:2023,INA:looneybinbbs.com,IBN,U,MY
