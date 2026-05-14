@@ -1,0 +1,21 @@
+;A tqwnet Nodelist for Friday, April 3, 2026 -- Day number 093 : 20612
+D1
+A3
+;A tqwnet Nodelist for Friday, May 15, 2026 -- Day number 135 : 20577
+;A  Copyright 2018-2026, tqwNet, All rights reserved
+;A
+D2
+C185
+A3
+;S 14/05/2026 We now have our 158th node, StingRay form Woodstock, FL, USA
+;S 14/05/2026 We now have our 159th node, Pat Finnerty form Sunset Beach, NC, USA
+;S 14/05/2026 Updated hostname for Mcore BBS
+C36
+D1
+A1
+,125,Mcore_BBS,Israel,Evgeny_Shaverin,Unpublished,9600,CM,ITN:2323,INA:mcore.mooo.com,IBN,U,MY
+C131
+A2
+,231,A-Net_Online_ANetBBS,Woodstock_FL_USA,StingRay,Unpublished,9600,CM,ITN:2233,INA:bbs.a-net.fyi,IBN,U,CU
+,232,The_Looney_Bin_BBS!,Sunset_Beach_NC_USA,Pat_Finnerty,Unpublished,9600,CM,ITN:2023,INA:looneybinbbs.com,IBN,U,MY
+C54
