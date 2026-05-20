@@ -184,7 +184,8 @@
 ;S 14/03/2026 We now have our 156th node, Tom Aberdeen from East Gippsland, VIC, AU
 ;S 02/04/2026 We now have our 157th node, Matthew Asham from Vancouver, BC, CA
 ;S 14/05/2026 We now have our 158th node, StingRay form Woodstock, FL, USA
-;S 14/05/2026 We now have our 159th node, Pat Finnerty form Sunset Beach, NC, USA
+;S 14/05/2026 We now have our 159th node, Pat Finnerty from Sunset Beach, NC, USA
+;S 20/05/2026 We now have our 160th node, Ricky DeLuco from Titusville, FL, USA
 ;S 14/05/2026 Updated hostname for Mcore BBS
 ;S
 ;S Notice:
