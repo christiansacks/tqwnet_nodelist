@@ -1,0 +1,16 @@
+;A tqwnet Nodelist for Friday, May 15, 2026 -- Day number 135 : 20577
+D1
+A3
+;A tqwnet Nodelist for Friday, May 22, 2026 -- Day number 142 : 64308
+;A  Copyright 2018-2026, tqwNet, All rights reserved
+;A
+D2
+C186
+D1
+A2
+;S 14/05/2026 We now have our 159th node, Pat Finnerty from Sunset Beach, NC, USA
+;S 20/05/2026 We now have our 160th node, Ricky DeLuco from Titusville, FL, USA
+C171
+A1
+,233,Tomcat_BBS,Titusville_FL_USA,Ricky_DeLuco,Unpublished,9600,CM,ITN:2323,INA:tomcatbbs.ddns.net,IBN,U,MY
+C54
