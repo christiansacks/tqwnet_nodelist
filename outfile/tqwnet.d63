@@ -1,0 +1,14 @@
+;A tqwnet Nodelist for Friday, May 22, 2026 -- Day number 142 : 64308
+D1
+A3
+;A tqwnet Nodelist for Friday, June 12, 2026 -- Day number 163 : 00559
+;A  Copyright 2018-2026, tqwNet, All rights reserved
+;A
+D2
+C189
+A1
+;S 07/06/2026 We now have our 161st node, Brendan Short from Brisbane, Australia
+C51
+A1
+,111,NIGHTWIRE_BBS,Brisbane_Australia,Brendan_Short,Unpublished,9600,CM,ITN:8888,INA:bbs.nightwire.au,IBN,U,EG
+C174
