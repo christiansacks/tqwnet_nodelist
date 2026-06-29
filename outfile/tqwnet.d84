@@ -1,14 +1,18 @@
 ;A tqwnet Nodelist for Friday, June 12, 2026 -- Day number 163 : 00559
 D1
 A3
-;A tqwnet Nodelist for Friday, July 3, 2026 -- Day number 184 : 11322
+;A tqwnet Nodelist for Friday, July 3, 2026 -- Day number 184 : 16044
 ;A  Copyright 2018-2026, tqwNet, All rights reserved
 ;A
 D2
 C190
-A1
+A2
 ;S 29/06/2026 We now have our 162nd node, Michel van Osenbruggen from Netherlands
+;S 29/06/2026 We now have our 163rd node, Firehawke from Phoenix, AZ, USA
 C40
 A1
 ,129,Falcon_BBS,Netherlands,Michel_van_Osenbruggen_(Sioux),Unpublished,9600,CM,ITN,INA:bbs.falconbbs.nl,IBN,U,SC
-C186
+C132
+A1
+,234,The_SmallTime_BBS,Phoenix_AZ_USA,Firehawke,Unpublished,9600,CM,ITN:2233,INA:smalltimebbs.firehawke.net,IBN,U,CU
+C54
