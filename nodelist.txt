@@ -175,3 +175,4 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatst
 ,231,A-Net_Online_ANetBBS,Woodstock_FL_USA,StingRay,Unpublished,9600,CM,ITN:2233,INA:bbs.a-net.fyi,IBN,U,CU
 ,232,The_Looney_Bin_BBS!,Sunset_Beach_NC_USA,Pat_Finnerty,Unpublished,9600,CM,ITN:2023,INA:looneybinbbs.com,IBN,U,MY
 ,233,Tomcat_BBS,Titusville_FL_USA,Ricky_DeLuco,Unpublished,9600,CM,ITN:2323,INA:tomcatbbs.ddns.net,IBN,U,MY
+,234,The_SmallTime_BBS,Phoenix_AZ_USA,Firehawke,Unpublished,9600,CM,ITN:2233,INA:smalltimebbs.firehawke.net,IBN,U,CU

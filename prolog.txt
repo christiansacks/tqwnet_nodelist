@@ -189,6 +189,7 @@
 ;S 14/05/2026 Updated hostname for Mcore BBS
 ;S 07/06/2026 We now have our 161st node, Brendan Short from Brisbane, Australia
 ;S 29/06/2026 We now have our 162nd node, Michel van Osenbruggen from Netherlands
+;S 29/06/2026 We now have our 163rd node, Firehawke from Phoenix, AZ, USA
 ;S
 ;S Notice:
 ;S
