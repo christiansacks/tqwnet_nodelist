@@ -57,6 +57,7 @@ Hub,100,tqwNet_AU_HQ,Parkdale_VIC_AU,Deon_George,Unpublished,9600,ICM,INA:hub.au
 ,109,Retroverse,Sydney_AU,Matt_Ianson,Unpublished,9600,CM,ITN,INA:bbs.retroverse.au,IBN,U,SC
 ,110,V1ntage_BBS,East_Gippsland_Victoria_AU,Randers,Unpublished,9600,CM,ITN:2323,INA:v1ntagebbs.net,IBN,U,SC
 ,111,NIGHTWIRE_BBS,Brisbane_Australia,Brendan_Short,Unpublished,9600,CM,ITN:8888,INA:bbs.nightwire.au,IBN,U,EG
+,112,The_Retro_Swim_BBS,Brisbane_Queensland_AU,RetroSwim,Unpublished,9600,CM,ITN:2323,INA:ezycom.retroswim.net,IBN,U,EZ
 Host,3,tqwNet_R3_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,ITN,INA:hub.ca.erb.pw,IBN:24554,U,MY
 Hub,100,tqwNet_CA_HQ,Ramsgate_UK,Christian_Sacks,Unpublished,9600,ICM,INA:hub.ca.erb.pw,IBN:24554,U,MY
 ,102,The_Wrong_Number_][,Yorktown_Heights_NY_US,Al_DeRosa,Unpublished,9600,CM,INA:wn2.duckdns.org,IBN,U,MY
