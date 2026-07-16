@@ -1,18 +1,22 @@
 ;A tqwnet Nodelist for Friday, July 3, 2026 -- Day number 184 : 16044
 D1
 A3
-;A tqwnet Nodelist for Friday, July 17, 2026 -- Day number 198 : 44237
+;A tqwnet Nodelist for Friday, July 17, 2026 -- Day number 198 : 07825
 ;A  Copyright 2018-2026, tqwNet, All rights reserved
 ;A
 D2
 C192
-A2
+A3
 ;S 16/07/2026 We now have our 164th node, Winzlo from Lakeville, MN, USA
 ;S 16/07/2026 We now have our 165th node, Peter London from Solvesborg, Sweden
+;S 16/07/2026 We now have our 166th node, Brendan Chant from Brisbane, Queensland, Australia
 C41
 A1
 ,130,Twilight_Node,Solvesborg_Sweden,Peter_London,Unpublished,9600,CM,ITN,INA:twilightnode.org,IBN,U,CU
-C133
+C12
+A1
+,112,The_Retro_Swim_BBS,Brisbane_Queensland_AU,RetroSwim,Unpublished,9600,CM,ITN:2323,INA:ezycom.retroswim.net,IBN,U,EZ
+C121
 A1
 ,235,The_Down-Lo_BBS,Lakeville_MN_USA,Winzlo,Unpublished,9600,CM,ITN,INA:bbs.winzlo.com,IBN,U,MY
 C54
