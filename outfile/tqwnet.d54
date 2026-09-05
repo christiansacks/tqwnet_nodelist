@@ -1,0 +1,18 @@
+;A tqwnet Nodelist for Friday, August 21, 2026 -- Day number 233 : 18117
+D1
+A3
+;A tqwnet Nodelist for Friday, September 11, 2026 -- Day number 254 : 02289
+;A  Copyright 2018-2026, tqwNet, All rights reserved
+;A
+D2
+C196
+A3
+;S 05/09/2026 We now have our 168th node, Jean-Jack Riethoven from Lincoln, NE, USA
+;S 05/09/2026 We now have our 169th node, Clive Reuben from Bristol, USA
+;S 05/09/2026 We now have our 170th node, Matthew Hansen from Aurora, Colorado, USA
+C178
+A3
+,237,Amplicon,Lincoln_NE_USA,Jean-Jack_Riethoven,Unpublished,9600,CM,ITN,INA:amplicon-bbs.org,IBN,U,EG
+,238,oNyX_bBs,Bristol_USA,Clive_Reuben,Unpublished,9600,CM,ITN:2300,INA:onyxbbs.mywire.org,IBN,U,MY
+,239,L33Test_Gaming,Aurora_Colorado_USA,Matthew_Hansen,Unpublished,9600,CM,ITN,INA:bbs.l33test.com,IBN,U,CU
+C54
