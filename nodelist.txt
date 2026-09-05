@@ -180,3 +180,4 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatst
 ,234,The_SmallTime_BBS,Phoenix_AZ_USA,Firehawke,Unpublished,9600,CM,ITN:2233,INA:smalltimebbs.firehawke.net,IBN,U,CU
 ,235,The_Down-Lo_BBS,Lakeville_MN_USA,Winzlo,Unpublished,9600,CM,ITN,INA:bbs.winzlo.com,IBN,U,MY
 ,236,bbs.homes,Pasadena_CA_USA,John_Lin,Unpublished,9600,CM,ITN,INA:bbs.homes,IBN,U,CU
+,237,Amplicon,Lincoln_NE_USA,Jean-Jack_Riethoven,Unpublished,9600,CM,ITN,INA:amplicon-bbs.org,IBN,U,EG
