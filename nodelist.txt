@@ -186,3 +186,4 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatst
 ,239,L33Test_Gaming,Aurora_Colorado_USA,Matthew_Hansen,Unpublished,9600,CM,ITN,INA:bbs.l33test.com,IBN,U,CU
 ,240,Amplicon,Lincoln_NE_USA,Jean-Jack_Riethoven,Unpublished,9600,CM,ITN,INA:amplicon-bbs.org,IBN,U,EG
 ,241,The_Boneyard,San_Diego_CA_USA,Ryan_Stubberfield,Unpublished,9600,CM,ITN:8073,INA:boneyard-bbs.com,IBN,U,MY
+,242,The_Adventure_BBS,Almonte_Canada,Derek_Bird,Unpublished,9600,CM,INA:bbs.ourbirdhouse.ca,U,CU
