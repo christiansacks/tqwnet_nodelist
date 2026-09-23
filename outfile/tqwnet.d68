@@ -1,0 +1,22 @@
+;A tqwnet Nodelist for Friday, September 11, 2026 -- Day number 254 : 02289
+D1
+A3
+;A tqwnet Nodelist for Friday, September 25, 2026 -- Day number 268 : 65351
+;A  Copyright 2018-2026, tqwNet, All rights reserved
+;A
+D2
+C199
+A4
+;S 20/09/2026 We now have our 171st node, Michael Dreier from Neunkirch, CH (Switzerland)
+;S 20/09/2026 We now have our 172nd node, Jean-Jack Riethoven from Lincoln, NE, USA
+;S 20/09/2026 We now have our 173rd node, Ryan Stubberfield from San Diego, CA, USA
+;S 21/09/2026 We now have our 174th node, Derek Bird from Almonte, Canada
+C42
+A1
+,131,Maiks_Place_BBS,Neunkirch_CH,Michael_Dreier,Unpublished,9600,CM,ITN,INA:bbs.maik.ch,IBN,U,MY
+C139
+A3
+,240,Amplicon,Lincoln_NE_USA,Jean-Jack_Riethoven,Unpublished,9600,CM,ITN,INA:amplicon-bbs.org,IBN,U,EG
+,241,The_Boneyard,San_Diego_CA_USA,Ryan_Stubberfield,Unpublished,9600,CM,ITN:8073,INA:boneyard-bbs.com,IBN,U,MY
+,242,The_Adventure_BBS,Almonte_Canada,Derek_Bird,Unpublished,9600,CM,INA:bbs.ourbirdhouse.ca,U,CU
+C54
