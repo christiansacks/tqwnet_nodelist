@@ -1,4 +1,4 @@
-;A tqwnet Nodelist for Friday, September 25, 2026 -- Day number 268 : 60723
+;A tqwnet Nodelist for Friday, November 13, 2026 -- Day number 317 : 53336
 ;A  Copyright 2018-2026, tqwNet, All rights reserved
 ;A
 ;S 08/26/2018 tqwNet is born!
@@ -205,6 +205,8 @@
 ;S 20/09/2026 We now have our 173rd node, Ryan Stubberfield from San Diego, CA, USA
 ;S 21/09/2026 We now have our 174th node, Derek Bird from Almonte, Canada
 ;S 23/09/2026 We now have our 175th node, Keyop Troy from Huddersfield, UK
+;S 13/11/2026 We now have our 176th node, Tom Moore from Winter Springs, FL, USA
+;S 13/11/2026 We now have our 177th node, Mike Da Costa from Toronto, Canada
 ;S
 ;S Notice:
 ;S
@@ -391,6 +393,8 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,-Unpublished-,9600,CM,ITN,INA:guild.phat
 ,240,Amplicon,Lincoln_NE_USA,Jean-Jack_Riethoven,Unpublished,9600,CM,ITN,INA:amplicon-bbs.org,IBN,U,EG
 ,241,The_Boneyard,San_Diego_CA_USA,Ryan_Stubberfield,Unpublished,9600,CM,ITN:8073,INA:boneyard-bbs.com,IBN,U,MY
 ,242,The_Adventure_BBS,Almonte_Canada,Derek_Bird,Unpublished,9600,CM,INA:bbs.ourbirdhouse.ca,U,CU
+,243,Cwshack_BBS,Winter_Springs_FL_USA,Tom_Moore,Unpublished,9600,CM,ITN:2330,INA:cwshack.ddns.net,IBN,U,MY
+,244,Stellar_Darkness,Toronto_Canada,Mike_Da_Costa,Unpublished,9600,CM,ITN:2323,INA:stellardarkness.com,IBN,U,MY
 ;S
 ;S
 ;S Mail Processing
