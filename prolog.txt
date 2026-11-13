@@ -202,6 +202,8 @@
 ;S 20/09/2026 We now have our 173rd node, Ryan Stubberfield from San Diego, CA, USA
 ;S 21/09/2026 We now have our 174th node, Derek Bird from Almonte, Canada
 ;S 23/09/2026 We now have our 175th node, Keyop Troy from Huddersfield, UK
+;S 13/11/2026 We now have our 176th node, Tom Moore from Winter Springs, FL, USA
+;S 13/11/2026 We now have our 177th node, Mike Da Costa from Toronto, Canada
 ;S
 ;S Notice:
 ;S
