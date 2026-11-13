@@ -189,3 +189,4 @@ Pvt,221,GUILD_BBS,Munchen_DE,Ryder_Navi,Unpublished,9600,CM,ITN,INA:guild.phatst
 ,241,The_Boneyard,San_Diego_CA_USA,Ryan_Stubberfield,Unpublished,9600,CM,ITN:8073,INA:boneyard-bbs.com,IBN,U,MY
 ,242,The_Adventure_BBS,Almonte_Canada,Derek_Bird,Unpublished,9600,CM,INA:bbs.ourbirdhouse.ca,U,CU
 ,243,Cwshack_BBS,Winter_Springs_FL_USA,Tom_Moore,Unpublished,9600,CM,ITN:2330,INA:cwshack.ddns.net,IBN,U,MY
+,244,Stellar_Darkness,Toronto_Canada,Mike_Da_Costa,Unpublished,9600,CM,ITN:2323,INA:stellardarkness.com,IBN,U,MY
